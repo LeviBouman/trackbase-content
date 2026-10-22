@@ -1,5 +1,23 @@
 [
   {
+    "slug": "what-is-ai-visibility-and-why-it-matters",
+    "id": "prvb6pjWh",
+    "title": "What Is AI Visibility? And Why It Matters",
+    "titleNl": "Wat is AI visibility? En waarom het ertoe doet",
+    "description": "AI visibility is how often, how prominently and how favourably AI assistants mention your brand. Learn the four metrics, how it differs from SEO and how to start measuring.",
+    "date": "2026-05-30",
+    "updated": "2026-10-22",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 773,
+    "url": "https://trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters",
+    "urlNl": "https://trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters",
+    "markdown": "https://content.trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters.md",
+    "image": "https://framerusercontent.com/images/5ag4DUeO6JdAtAovSZu55J6T7zE.webp",
+    "hasNl": true
+  },
+  {
     "slug": "how-to-automate-schema-markup-for-ai-citations",
     "id": "x4a1yPqW6",
     "title": "How to Automate Schema Markup So AI Assistants Cite You",
@@ -15,6 +33,24 @@
     "markdown": "https://content.trackbase.ai/blog/how-to-automate-schema-markup-for-ai-citations.md",
     "markdownNl": "https://content.trackbase.ai/nl/blog/how-to-automate-schema-markup-for-ai-citations.md",
     "image": "https://framerusercontent.com/images/6EgscDoZWjM6xqZehMSPIbGFHeM.png",
+    "hasNl": true
+  },
+  {
+    "slug": "affordable-ai-visibility-tools-for-dutch-startups",
+    "id": "gQTDg1sul",
+    "title": "Affordable AI Visibility Tools for Dutch Startups (2026)",
+    "titleNl": "Betaalbare AI-zichtbaarheidstools voor Nederlandse startups (2026)",
+    "description": "What do AI visibility tools really cost? Compare entry prices from $20 to €199 a month and pick the plan that fits a Dutch startup's prompts, models and budget.",
+    "date": "2026-10-22",
+    "updated": "2026-10-22",
+    "author": "bodrik-bakker",
+    "category": "AI Visibility",
+    "words": 1158,
+    "url": "https://trackbase.ai/blog/affordable-ai-visibility-tools-for-dutch-startups",
+    "urlNl": "https://trackbase.ai/nl/blog/affordable-ai-visibility-tools-for-dutch-startups",
+    "markdown": "https://content.trackbase.ai/blog/affordable-ai-visibility-tools-for-dutch-startups.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/affordable-ai-visibility-tools-for-dutch-startups.md",
+    "image": "https://framerusercontent.com/images/A9bDwAgRTIWkNOAYsy9HvWJeXs.png",
     "hasNl": true
   },
   {
@@ -681,24 +717,6 @@
     "markdown": "https://content.trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference.md",
     "markdownNl": "https://content.trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference.md",
     "image": "https://framerusercontent.com/images/GexPRWEUHk7tvmdYkXxJWpQm9w.webp",
-    "hasNl": true
-  },
-  {
-    "slug": "what-is-ai-visibility-and-why-it-matters",
-    "id": "prvb6pjWh",
-    "title": "What Is AI Visibility? And Why It Matters",
-    "titleNl": "Wat is AI visibility? En waarom het ertoe doet",
-    "description": "Millions of people now skip Google and go straight to ChatGPT, Gemini, or Perplexity when they want a recommendation.",
-    "date": "2026-05-30",
-    "updated": "2026-05-30",
-    "author": "levi-bouman",
-    "category": "AI Visibility",
-    "words": 277,
-    "url": "https://trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters",
-    "urlNl": "https://trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters",
-    "markdown": "https://content.trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters.md",
-    "markdownNl": "https://content.trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters.md",
-    "image": "https://framerusercontent.com/images/5ag4DUeO6JdAtAovSZu55J6T7zE.webp",
     "hasNl": true
   }
 ]

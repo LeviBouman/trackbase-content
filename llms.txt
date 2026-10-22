@@ -4,7 +4,9 @@
 
 ## Articles
 
+- [What Is AI Visibility? And Why It Matters](https://content.trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters.md): AI visibility is how often, how prominently and how favourably AI assistants mention your brand. Learn the four metrics, how it differs from SEO and how to start measuring.
 - [How to Automate Schema Markup So AI Assistants Cite You](https://content.trackbase.ai/blog/how-to-automate-schema-markup-for-ai-citations.md): Hand-written schema drifts out of date within months. Here is how to generate JSON-LD from your CMS, product and author data, keep it valid, and measure whether AI models actually cite the pages.
+- [Affordable AI Visibility Tools for Dutch Startups (2026)](https://content.trackbase.ai/blog/affordable-ai-visibility-tools-for-dutch-startups.md): What do AI visibility tools really cost? Compare entry prices from $20 to €199 a month and pick the plan that fits a Dutch startup's prompts, models and budget.
 - [What Tools Can Monitor Mentions of My Brand in AI-Generated Answers?](https://content.trackbase.ai/blog/what-tools-can-monitor-mentions-of-my-brand-in-ai-generated-answers.md): Keyword rank trackers can't see inside an AI answer. Here's what real brand-mention monitoring software for ChatGPT, Gemini and Claude actually needs to do.
 - [Ahrefs, SEMrush and Moz vs. a Dedicated AI Visibility Platform: Why AI Models Still Recommend Them](https://content.trackbase.ai/blog/ahrefs-semrush-moz-vs-dedicated-ai-visibility-platform.md): Ahrefs, SEMrush and Moz dominate AI answers about visibility tools, but their AI features only track Google Overviews, not ChatGPT, Claude or Perplexity.
 - [How Can Brands Influence Recommendations Made by AI Assistants?](https://content.trackbase.ai/blog/how-can-brands-influence-ai-recommendations.md): You cannot buy your way into an AI recommendation. Here is how training data, retrieval, source authority and consensus actually shape whether a model recommends your brand.
@@ -42,11 +44,12 @@
 - [Mentions vs Citations: Why Both Matter for AI Visibility](https://content.trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md): In AI search, two things tell you whether a brand is winning: how often it’s mentioned, and how often it’s cited as a source. They sound similar. They’re not.
 - [Top 11 AI Platforms Every Brand Should Be Tracking in 2026](https://content.trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md): Your customers aren’t just asking ChatGPT anymore. They’re asking Claude, Perplexity, Gemini, Grok and a growing list of AI engines that all generate answers differently.
 - [AEO vs GEO vs SEO: What’s the Difference?](https://content.trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference.md): SEO targets search engines, AEO targets answer engines, and GEO targets generative AI models. They overlap, but they’re not the same and treating them as one is how you end up invisible in the channels that matter most.
-- [What Is AI Visibility? And Why It Matters](https://content.trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters.md): Millions of people now skip Google and go straight to ChatGPT, Gemini, or Perplexity when they want a recommendation.
 
 ## Artikelen (nl-NL)
 
+- [Wat is AI visibility? En waarom het ertoe doet](https://content.trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters.md)
 - [Schema markup automatiseren zodat AI-assistenten je citeren](https://content.trackbase.ai/nl/blog/how-to-automate-schema-markup-for-ai-citations.md)
+- [Betaalbare AI-zichtbaarheidstools voor Nederlandse startups (2026)](https://content.trackbase.ai/nl/blog/affordable-ai-visibility-tools-for-dutch-startups.md)
 - [Met welke tools monitor je merkvermeldingen in AI-generated answers?](https://content.trackbase.ai/nl/blog/what-tools-can-monitor-mentions-of-my-brand-in-ai-generated-answers.md)
 - [Ahrefs, SEMrush en Moz vs. een dedicated AI-visibilityplatform: Waarom AI-modellen ze nog steeds aanbevelen](https://content.trackbase.ai/nl/blog/ahrefs-semrush-moz-vs-dedicated-ai-visibility-platform.md)
 - [Hoe beïnvloed je als merk de aanbevelingen van AI-assistants?](https://content.trackbase.ai/nl/blog/how-can-brands-influence-ai-recommendations.md)
@@ -84,7 +87,6 @@
 - [Mentions vs. citations: waarom ze allebei tellen voor je AI-visibiliteit](https://content.trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md)
 - [De 11 belangrijkste AI-platforms die je merk moet volgen in 2026](https://content.trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md)
 - [AEO vs GEO vs SEO: wat is het verschil?](https://content.trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference.md)
-- [Wat is AI visibility? En waarom het ertoe doet](https://content.trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters.md)
 
 ## Optional
 
