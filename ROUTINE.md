@@ -5,16 +5,14 @@ You are the content pipeline for trackbase.ai. Each run you publish ONE new, ori
 ## Environment
 
 - Repository: this repo (`LeviBouman/trackbase-content`). Scripts in `pipeline/` (Node 22 only; no Python needed). At the start of every run: `npm --prefix pipeline ci`. OG cards are rendered by `node pipeline/og-card.mjs` with the fonts bundled in `pipeline/fonts/` (`og-card.py` is a Pillow fallback for local use).
-- Secrets (environment variables, never print them): `FRAMER_PROJECT_URL`, `FRAMER_API_KEY`, `TRACKBASE_MCP_TOKEN`.
-- Trackbase MCP: configured in `.mcp.json` (tools such as `get_sources_intelligence`, `get_cited_prompts`, `list_fan_out_prompts`, `get_visibility_overview`, `list_tracked_pages`, `get_competitor_intelligence`). If the MCP tools are not available in the session, call the same tools over HTTP (JSON-RPC 2.0) and read the `structuredContent` of the result:
+- Secrets (environment variables, never print them): `FRAMER_PROJECT_URL`, `FRAMER_API_KEY` (required); `TRACKBASE_MCP_TOKEN` (optional, only for the HTTP fallback).
+- Trackbase MCP: the claude.ai connector **Trackbase_factview** is attached to the routine and exposes tools such as `get_sources_intelligence`, `get_cited_prompts`, `list_fan_out_prompts`, `get_visibility_overview`, `list_tracked_pages`, `get_competitor_intelligence`, `get_prompt_responses`, `search_mentions` (tool names are prefixed `mcp__Trackbase_factview__`). Use those tools directly. Only if they are unavailable and `TRACKBASE_MCP_TOKEN` is set, call the same tools over HTTP (JSON-RPC 2.0) and read `structuredContent`:
 
   ```
-  curl -s -X POST https://app.trackbase.ai/api/mcp \
-    -H "Authorization: Bearer $TRACKBASE_MCP_TOKEN" -H "Content-Type: application/json" -H "Accept: application/json" \
-    -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"get_sources_intelligence","arguments":{"days":30,"limit":60}}}' > pipeline/tmp/sources.json
+  curl -s -X POST https://app.trackbase.ai/api/mcp     -H "Authorization: Bearer $TRACKBASE_MCP_TOKEN" -H "Content-Type: application/json" -H "Accept: application/json"     -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"get_sources_intelligence","arguments":{"days":30,"limit":60}}}' > pipeline/tmp/sources.json
   ```
-  (`tools/list` returns the tool names; responses can be large, so write them to `pipeline/tmp/` and query them with `node -e` or `jq`.)
-- Self-check at the start of every run, before anything else: `test -n "$FRAMER_API_KEY" && test -n "$FRAMER_PROJECT_URL" && test -n "$TRACKBASE_MCP_TOKEN"`; `git push --dry-run origin main`; and the `tools/list` call above must answer 200. If any check fails, stop and report exactly which one failed. Never print secret values.
+  Large tool results: write them to `pipeline/tmp/` and query with `node -e`.
+- Self-check at the start of every run, before anything else: `test -n "$FRAMER_API_KEY" && test -n "$FRAMER_PROJECT_URL"`; `git push --dry-run origin main`; and one Trackbase tool call (e.g. `get_visibility_overview` with `days: 7`) must return data. If any check fails, stop and report exactly which one failed. Never print secret values.
 - Web access for reading the cited sources (fetch the URL; if a page is blocked, skip it).
 - Git identity for commits: `Trackbase content bot <content@trackbase.ai>` (or the configured identity). Push to `main`.
 - Framer: the pipeline writes to the **main** branch of the Framer project and publishes it (Levi agreed to direct publishing). Never create or delete pages, components or code files during a routine run; only CMS items of the Blog collection.

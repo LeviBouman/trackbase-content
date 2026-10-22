@@ -60,4 +60,4 @@ On Windows Git Bash also set `MSYS_NO_PATHCONV=1` so CMS paths like `/blog/:Blog
 
 ## Routine
 
-`ROUTINE.md` is the self-contained prompt for the scheduled content run (3×/week). It reads the cited-sources data from the Trackbase MCP (`.mcp.json`, token in `TRACKBASE_MCP_TOKEN`), picks a topic, writes the article, runs the scripts above, exports the markdown, commits to this repo and publishes.
+`ROUTINE.md` is the self-contained prompt for the scheduled content run (3×/week). It reads the cited-sources data through the Trackbase MCP connector attached to the cloud routine (HTTP fallback with `TRACKBASE_MCP_TOKEN`), picks a topic, writes the article, runs the scripts above, exports the markdown, commits to this repo and publishes.
