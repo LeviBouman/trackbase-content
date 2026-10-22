@@ -5,6 +5,7 @@
 //   node pipeline/refresh-post.mjs --slug <slug> --relink            (glossary links only)
 //   node pipeline/refresh-post.mjs --slug <slug> --touch --updated 2026-10-24   (date only; use sparingly)
 import fs from "node:fs";
+import path from "node:path";
 import { getFramer, IDS, getNlLocale, getBlogItemNl, setBlogItemNl, switchToBranch, sleep, wordCount, getGlossaryTerms, sameContent } from "./lib/framer.mjs";
 import { markdownToFramerHtml } from "./lib/draft.mjs";
 import { linkGlossaryTerms } from "./lib/glossary.mjs";
@@ -35,8 +36,13 @@ let changed = [];
 const draftFile = argOf("--draft");
 if (draftFile) {
   const d = JSON.parse(fs.readFileSync(draftFile, "utf8"));
-  const html = d.contentHtml || (d.contentMarkdown ? markdownToFramerHtml(d.contentMarkdown) : null);
-  const htmlNl = d.contentHtmlNl || (d.contentMarkdownNl ? markdownToFramerHtml(d.contentMarkdownNl) : null);
+  // Like create-post: bodies may live next to the draft as markdown files (contentMarkdownFile / contentMarkdownNlFile)
+  const dir = path.dirname(draftFile);
+  const readIf = (f) => (f ? fs.readFileSync(path.join(dir, f), "utf8") : null);
+  const md = d.contentMarkdown || readIf(d.contentMarkdownFile);
+  const mdNl = d.contentMarkdownNl || readIf(d.contentMarkdownNlFile);
+  const html = d.contentHtml || (md ? markdownToFramerHtml(md) : null);
+  const htmlNl = d.contentHtmlNl || (mdNl ? markdownToFramerHtml(mdNl) : null);
   const setStr = (fieldId, en, nlVal, key) => {
     if (en == null) return;
     fieldData[fieldId] = { type: "string", value: en, ...(nlVal ? { valueByLocale: { [nl.id]: { action: "set", value: nlVal } } } : {}) };
