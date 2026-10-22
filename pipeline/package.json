@@ -1,0 +1,28 @@
+{
+  "name": "trackbase-content-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "export": "node export-markdown.mjs",
+    "create": "node create-post.mjs",
+    "refresh": "node refresh-post.mjs",
+    "publish": "node publish.mjs",
+    "verify-template": "node verify-template.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "private": "true",
+  "dependencies": {
+    "framer-api": "^5.1.0",
+    "marked": "^18.1.1",
+    "turndown": "^7.2.4",
+    "turndown-plugin-gfm": "^1.0.2"
+  }
+}
