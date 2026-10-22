@@ -16,16 +16,17 @@ BAR = (24, 102, 225)
 MUTED = (171, 201, 243)
 WHITE = (255, 255, 255)
 FONT_DIR = os.path.join(os.environ.get("WINDIR", "C:/Windows"), "Fonts")
+REPO_FONTS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fonts")  # bundled DejaVu (same face as the existing cards)
 
 
 def font(bold, size):
     candidates = (
-        ["arialbd.ttf", "DejaVuSans-Bold.ttf", "Arial Bold.ttf"]
+        ["DejaVuSans-Bold.ttf", "arialbd.ttf", "Arial Bold.ttf"]
         if bold
-        else ["arial.ttf", "DejaVuSans.ttf", "Arial.ttf"]
+        else ["DejaVuSans.ttf", "arial.ttf", "Arial.ttf"]
     )
     for name in candidates:
-        for d in (FONT_DIR, "/usr/share/fonts/truetype/dejavu", "/usr/share/fonts/truetype/msttcorefonts", "."):
+        for d in (REPO_FONTS, "/usr/share/fonts/truetype/dejavu", FONT_DIR, "/usr/share/fonts/truetype/msttcorefonts", "."):
             p = os.path.join(d, name)
             if os.path.exists(p):
                 return ImageFont.truetype(p, size)

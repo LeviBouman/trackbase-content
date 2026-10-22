@@ -6,6 +6,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { getFramer, IDS, SITE, CONTENT_SITE, getNlLocale, getBlogItemNl, getEmployees, switchToBranch, stripHtml } from "./lib/framer.mjs";
 import { buildPostMarkdown } from "./lib/markdown.mjs";
+import { buildIndexHtml } from "./build-index.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const args = process.argv.slice(2);
@@ -127,6 +128,7 @@ if (!onlySlug) {
     .map((u) => `  <url><loc>${u}</loc></url>`)
     .join("\n")}\n</urlset>\n`;
   fs.writeFileSync(path.join(ROOT, "sitemap.xml"), sitemap);
-  console.log(`\nwrote posts.json (${posts.length}), index.md, llms.txt, sitemap.xml`);
+  buildIndexHtml(ROOT);
+  console.log(`\nwrote posts.json (${posts.length}), index.md, index.html, llms.txt, sitemap.xml`);
 }
 process.exit(0);
