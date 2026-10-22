@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/trackbase-vs-profound
 alternate_markdown: https://content.trackbase.ai/blog/trackbase-vs-profound.md
 date_published: 2026-07-11
+date_modified: 2026-07-11
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > Een eerlijke vergelijking tussen Trackbase en Profound: model coverage, prijzen, shopping tracking en voor wie elk platform nu echt bedoeld is.
 
-*Door Bodrik Bakker · Gepubliceerd 2026-07-11 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/trackbase-vs-profound*
+*Door Bodrik Bakker · Gepubliceerd 2026-07-11 · Bijgewerkt 2026-07-11 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/trackbase-vs-profound*
 
 Wij zijn Trackbase. Je weet dus al aan welke kant we in deze vergelijking staan. Toch hebben we dit geschreven. Waarom? Omdat we deze vraag wekelijks krijgen, en omdat het eerlijke antwoord niet "altijd wij" is. Profound is een prima product voor een specifiek type koper. Deze pagina helpt je snel te ontdekken welk type jij bent.
 
@@ -30,200 +31,22 @@ Wij zijn Trackbase. Je weet dus al aan welke kant we in deze vergelijking staan.
 
 ## Naast elkaar
 
-|
-
- |
-
-Trackbase
-
- |
-
-Profound
-
- |
+|  | Trackbase | Profound |
 | --- | --- | --- |
-|
-
-Gevolgde [AI-modellen](https://trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026)
-
- |
-
-11 (incl. AI Overview, AI Mode, Copilot)
-
- |
-
-Belangrijkste modellen (~6)
-
- |
-|
-
-Refresh
-
- |
-
-Dagelijks
-
- |
-
-Dagelijks bij de belangrijkste pakketten
-
- |
-|
-
-Visibility Score / [Share of Voice](https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice)
-
- |
-
-Ja
-
- |
-
-Ja
-
- |
-|
-
-[Sentimentanalyse](https://trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins)
-
- |
-
-Ja
-
- |
-
-Ja
-
- |
-|
-
-Analyse van geciteerde bronnen
-
- |
-
-Ja
-
- |
-
-Ja
-
- |
-|
-
-Data over conversation volume
-
- |
-
-Nee
-
- |
-
-Ja
-
- |
-|
-
-Agent analytics
-
- |
-
-Nee
-
- |
-
-Ja
-
- |
-|
-
-AI [crawler analytics](https://trackbase.ai/nl/features/crawler-analytics) (server-side)
-
- |
-
-Ja
-
- |
-
-Beperkt
-
- |
-|
-
-[ChatGPT](https://trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company) Shopping tracking
-
- |
-
-Ja
-
- |
-
-Nee
-
- |
-|
-
-[Aanbevelingen](https://trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend) met prioriteit
-
- |
-
-Ja, met impactscores
-
- |
-
-Ja
-
- |
-|
-
-White-label / multi-brand
-
- |
-
-Ja (Enterprise/Agency-pakket)
-
- |
-
-Enterprise
-
- |
-|
-
-Datahosting
-
- |
-
-EU
-
- |
-
-VS
-
- |
-|
-
-Tarieven
-
- |
-
-[Vanaf €49](https://trackbase.ai/nl/pricing)/maand, openbaar
-
- |
-
-Offerte op maat
-
- |
-|
-
-Gratis proefperiode
-
- |
-
-14 dagen, zonder creditcard
-
- |
-
-Via demo
-
- |
+| Gevolgde [AI-modellen](https://trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026) | 11 (incl. AI Overview, AI Mode, Copilot) | Belangrijkste modellen (~6) |
+| Refresh | Dagelijks | Dagelijks bij de belangrijkste pakketten |
+| Visibility Score / [Share of Voice](https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice) | Ja | Ja |
+| [Sentimentanalyse](https://trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins) | Ja | Ja |
+| Analyse van geciteerde bronnen | Ja | Ja |
+| Data over conversation volume | Nee | Ja |
+| Agent analytics | Nee | Ja |
+| AI [crawler analytics](https://trackbase.ai/nl/features/crawler-analytics) (server-side) | Ja | Beperkt |
+| [ChatGPT](https://trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company) Shopping tracking | Ja | Nee |
+| [Aanbevelingen](https://trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend) met prioriteit | Ja, met impactscores | Ja |
+| White-label / multi-brand | Ja (Enterprise/Agency-pakket) | Enterprise |
+| Datahosting | EU | VS |
+| Tarieven | [Vanaf €49](https://trackbase.ai/nl/pricing)/maand, openbaar | Offerte op maat |
+| Gratis proefperiode | 14 dagen, zonder creditcard | Via demo |
 
 *Vergelijking op basis van openbare documentatie en feedback van klanten, juli 2026. Klopt er iets niet meer? Mail naar hello@*[*trackbase*](https://trackbase.ai/nl/features)*.ai, dan passen we het aan.*
 

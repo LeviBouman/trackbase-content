@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins
 alternate_markdown: https://content.trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins.md
 date_published: 2026-06-26
+date_modified: 2026-06-26
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > Twee merken verschijnen in hetzelfde ChatGPT-antwoord. Het ene wordt omschreven als een betrouwbare, goed beoordeelde optie die teams vertrouwen. Het andere wordt wel genoemd, maar het model voegt toe dat sommige gebruikers trage support ervaren. Beide zijn vermeld. Maar slechts één krijgt de klik.
 
-*Door Bodrik Bakker · Gepubliceerd 2026-06-26 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins*
+*Door Bodrik Bakker · Gepubliceerd 2026-06-26 · Bijgewerkt 2026-06-26 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins*
 
 Twee merken worden genoemd in hetzelfde ChatGPT-antwoord. Het ene wordt omschreven als een betrouwbare, goed beoordeelde optie waar teams op bouwen. Het andere wordt ook genoemd, maar het model voegt eraan toe dat de support soms traag is. Beide merken zijn zichtbaar. Maar slechts één krijgt de klik.
 

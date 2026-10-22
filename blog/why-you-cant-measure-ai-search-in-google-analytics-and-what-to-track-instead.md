@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead
 alternate_markdown: https://content.trackbase.ai/nl/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead.md
 date_published: 2026-06-23
+date_modified: 2026-06-23
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > In GA4, a visit after an AI recommendation looks like direct traffic or a branded search. Why AI search stays invisible in analytics, and what to track instead.
 
-*By Levi Bouman · Published 2026-06-23 · Original article: https://trackbase.ai/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead*
+*By Levi Bouman · Published 2026-06-23 · Updated 2026-06-23 · Original article: https://trackbase.ai/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead*
 
 A buyer asks ChatGPT for the best tool in your category. It hands back a shortlist of three brands. The buyer picks one, lands on the site, and converts a week later. In GA4, that visit shows up as direct, or a branded search. The moment that actually shaped the decision, the AI naming a shortlist, is nowhere in your reporting.
 

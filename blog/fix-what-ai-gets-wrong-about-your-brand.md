@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand
 alternate_markdown: https://content.trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand.md
 date_published: 2026-07-23
+date_modified: 2026-07-23
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > AI models spread outdated facts, fabrications and entity confusion about brands. A source-first process to find the errors, fix them and verify the improvement.
 
-*By Levi Bouman · Published 2026-07-23 · Original article: https://trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand*
+*By Levi Bouman · Published 2026-07-23 · Updated 2026-07-23 · Original article: https://trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand*
 
 An AI model told a prospect that you do not offer the exact service you specialize in. Another one recommended a competitor and described your pricing wrong. If you have seen this happen, you know the strange powerlessness of it: there is no support line for ChatGPT answers. There is, however, a repeatable process, and this article walks through it.
 

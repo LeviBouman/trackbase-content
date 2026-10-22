@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/how-to-use-the-trackbase-mcp-in-claude
 alternate_markdown: https://content.trackbase.ai/blog/how-to-use-the-trackbase-mcp-in-claude.md
 date_published: 2026-09-28
+date_modified: 2026-09-28
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 8
 
 > Koppel Trackbase via MCP aan Claude en vraag je AI-zichtbaarheidsdata alles. 12 praktische workflows, van concurrentiegaten tot geciteerde bronnen.
 
-*Door Levi Bouman · Gepubliceerd 2026-09-28 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-to-use-the-trackbase-mcp-in-claude*
+*Door Levi Bouman · Gepubliceerd 2026-09-28 · Bijgewerkt 2026-09-28 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-to-use-the-trackbase-mcp-in-claude*
 
 Het platform beantwoordt de vragen die je al wist te stellen. De lastigere vragen komen later: waarom een concurrent wint bij een prompt die je als de jouwe zag, welke bronnen ChatGPT vertrouwt in jouw markt, of een prijswijziging al in AI-antwoorden terechtkomt. Met de MCP-server van Trackbase stel je die vragen in gewone taal, in Claude of een andere MCP-client, en krijg je het antwoord direct uit je eigen trackingdata.
 
@@ -36,69 +37,14 @@ Elke tool leest alleen en is beperkt tot jouw organisatie. Claude kan je data le
 
 ## Wat Claude via de Trackbase MCP kan lezen
 
-|
-Data
-
- |
-
-Wat Claude krijgt
-
- |
+| Data | Wat Claude krijgt |
 | --- | --- |
-|
-
-Zichtbaarheidsoverzicht
-
- |
-
-Visibility Score, share of voice, vermeldingen, citaties, aanwezigheid en gemiddelde positie, per dag en per AI-model, met de verandering ten opzichte van de vorige periode
-
- |
-|
-
-Concurrentie-inzichten
-
- |
-
-Ranglijst van concurrenten, share of voice, achterstand of voorsprong en onderlinge winst en verlies
-
- |
-|
-
-Antwoorden en vermeldingen
-
- |
-
-De volledige AI-antwoorden op je gevolgde prompts, of je merk genoemd werd, op welke plek, met welk sentiment en welke bronnen werden geciteerd
-
- |
-|
-
-Bronnen
-
- |
-
-De URL's en domeinen die AI-modellen citeren, per prompt en per model, inclusief de prompts die je eigen pagina's citeren
-
- |
-|
-
-Crawler- en bezoekersanalyse
-
- |
-
-Bezoeken van AI-crawlers aan je site en bezoekers die via AI-assistenten binnenkomen, zodra beide gekoppeld zijn
-
- |
-|
-
-ChatGPT Shopping
-
- |
-
-Posities in de carrousel, prijspositie, aandeel per verkoper, producthistorie en meldingen over prijs- en labelwijzigingen, als Shopping-tracking aan staat
-
- |
+| Zichtbaarheidsoverzicht | Visibility Score, share of voice, vermeldingen, citaties, aanwezigheid en gemiddelde positie, per dag en per AI-model, met de verandering ten opzichte van de vorige periode |
+| Concurrentie-inzichten | Ranglijst van concurrenten, share of voice, achterstand of voorsprong en onderlinge winst en verlies |
+| Antwoorden en vermeldingen | De volledige AI-antwoorden op je gevolgde prompts, of je merk genoemd werd, op welke plek, met welk sentiment en welke bronnen werden geciteerd |
+| Bronnen | De URL's en domeinen die AI-modellen citeren, per prompt en per model, inclusief de prompts die je eigen pagina's citeren |
+| Crawler- en bezoekersanalyse | Bezoeken van AI-crawlers aan je site en bezoekers die via AI-assistenten binnenkomen, zodra beide gekoppeld zijn |
+| ChatGPT Shopping | Posities in de carrousel, prijspositie, aandeel per verkoper, producthistorie en meldingen over prijs- en labelwijzigingen, als Shopping-tracking aan staat |
 
 Alle datatools kijken tot 365 dagen terug. De tools voor zichtbaarheid, concurrenten, antwoorden en bronnen kun je ook per AI-model filteren.
 

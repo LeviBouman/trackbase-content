@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/ai-visibility-content-gap-analysis
 alternate_markdown: https://content.trackbase.ai/blog/ai-visibility-content-gap-analysis.md
 date_published: 2026-08-07
+date_modified: 2026-08-07
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 3
 
 > Ontdek welke prompts je merk misloopt omdat de winnende content niet van jou is. Een snelle viertrapsmethode, van prompt list tot gerichte build list.
 
-*Door Levi Bouman · Gepubliceerd 2026-08-07 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/ai-visibility-content-gap-analysis*
+*Door Levi Bouman · Gepubliceerd 2026-08-07 · Bijgewerkt 2026-08-07 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/ai-visibility-content-gap-analysis*
 
 Een content gap-analyse voor AI-zichtbaarheid beantwoordt één vraag: welke prompts verlies je omdat de content die ze zou moeten winnen simpelweg niet op je domein staat? Je vindt de top van die lijst in een half uur. Dit is de snelle aanpak.
 

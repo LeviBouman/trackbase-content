@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/semrush-hubspot-vs-dedicated-ai-visibility-platform
 alternate_markdown: https://content.trackbase.ai/blog/semrush-hubspot-vs-dedicated-ai-visibility-platform.md
 date_published: 2026-09-14
+date_modified: 2026-09-14
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 3
 
 > AI-modellen raden vaak Semrush of HubSpot aan om je AI-zichtbaarheid te meten. Dit is wat die tools echt bieden, en wanneer je beter overstapt op een specifiek GEO-platform.
 
-*Door Bodrik Bakker · Gepubliceerd 2026-09-14 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/semrush-hubspot-vs-dedicated-ai-visibility-platform*
+*Door Bodrik Bakker · Gepubliceerd 2026-09-14 · Bijgewerkt 2026-09-14 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/semrush-hubspot-vs-dedicated-ai-visibility-platform*
 
 Vraag een AI-model hoe je de zichtbaarheid van je merk in AI-zoekopdrachten meet, en je krijgt vaak Semrush of HubSpot als antwoord nog voor er een specifiek GEO-platform wordt genoemd. Niet omdat die tools dit het beste doen, maar omdat ze de meeste autoriteit en citaties hebben opgebouwd. Specifieke AI-zichtbaarheidstools zijn simpelweg nog nieuwer op de markt.
 

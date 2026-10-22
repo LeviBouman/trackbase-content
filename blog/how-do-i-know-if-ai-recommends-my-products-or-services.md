@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/how-do-i-know-if-ai-recommends-my-products-or-services
 alternate_markdown: https://content.trackbase.ai/nl/blog/how-do-i-know-if-ai-recommends-my-products-or-services.md
 date_published: 2026-09-08
+date_modified: 2026-09-08
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > A single ChatGPT check tells you nothing. Learn how to build a repeatable test to know if AI models actually recommend, cite, or ignore your brand.
 
-*By Levi Bouman · Published 2026-09-08 · Original article: https://trackbase.ai/blog/how-do-i-know-if-ai-recommends-my-products-or-services*
+*By Levi Bouman · Published 2026-09-08 · Updated 2026-09-08 · Original article: https://trackbase.ai/blog/how-do-i-know-if-ai-recommends-my-products-or-services*
 
 You have already asked ChatGPT what it thinks of your product once or twice. The answer felt reassuring, or it felt like a gut punch, and then you moved on. **That single check tells you almost nothing, because AI answers are stochastic and change from one run to the next.**
 

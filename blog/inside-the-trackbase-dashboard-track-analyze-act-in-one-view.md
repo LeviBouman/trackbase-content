@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view
 alternate_markdown: https://content.trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md
 date_published: 2026-06-14
+date_modified: 2026-06-14
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > AI visibility data is only useful if you can act on it. The Trackbase platform is built around three steps: Track, Analyze, Act. We also have 7 modules that take you from raw signal to your prioritised next move.
 
-*By Levi Bouman · Published 2026-06-14 · Original article: https://trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view*
+*By Levi Bouman · Published 2026-06-14 · Updated 2026-06-14 · Original article: https://trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view*
 
 AI visibility data is only useful if you can act on it. The Trackbase platform is built around three steps: Track, Analyze, Act. We also have 7 modules that take you from raw signal to your prioritised next move. Here’s what each one does.
 

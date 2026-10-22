@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend
 alternate_markdown: https://content.trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend.md
 date_published: 2026-06-20
+date_modified: 2026-06-20
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 3
 
 > Ask ChatGPT for the best CRM, the best running shoes, the best AI visibility tool. You get a shortlist back. That shortlist is not random, and it is also not the result of any single thing.
 
-*By Levi Bouman · Published 2026-06-20 · Original article: https://trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend*
+*By Levi Bouman · Published 2026-06-20 · Updated 2026-06-20 · Original article: https://trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend*
 
 Ask ChatGPT for the best CRM, the best running shoes, the best AI visibility tool. You get a shortlist back. That shortlist is not random, and it is also not the result of any single thing. It is the output of three layers stacked on top of each other: what the model learned during training, what it can pull up live, and how often other people on the internet talk about your brand.
 

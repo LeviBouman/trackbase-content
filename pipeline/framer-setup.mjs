@@ -46,7 +46,7 @@ if (step === "fields" || step === "all") {
     const date = it.fieldData[IDS.blogFields.date]?.value;
     const cur = it.fieldData[upd.id]?.value;
     if (date && !cur) {
-      await it.setAttributes({ fieldData: { [upd.id]: { type: "date", value: String(date).slice(0, 10) } } });
+      await it.setAttributes({ draft: it.draft, fieldData: { [upd.id]: { type: "date", value: String(date).slice(0, 10) } } });
       n++;
     }
   }

@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/how-ai-assistants-decide-which-brands-to-recommend
 alternate_markdown: https://content.trackbase.ai/blog/how-ai-assistants-decide-which-brands-to-recommend.md
 date_published: 2026-07-26
+date_modified: 2026-07-26
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > Trainingsdata, live retrieval, autoriteit en consensus. Dit zijn de vier krachten achter elke AI-merkaanbeveling, en zo bepaal je aan welke knop je draait.
 
-*Door Levi Bouman · Gepubliceerd 2026-07-26 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend*
+*Door Levi Bouman · Gepubliceerd 2026-07-26 · Bijgewerkt 2026-07-26 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend*
 
 Wanneer ChatGPT een merk aanbeveelt, checkt hij geen ranglijst en krijgt hij daar ook niet voor betaald. Hij voorspelt woord voor woord hoe een goed antwoord eruitziet op basis van alles wat hij heeft gelezen. Als je dat mechanisme begrijpt, gok je niet langer naar je AI-zichtbaarheid, maar werk je er gericht aan. Er spelen vier krachten mee, die elk om een eigen aanpak vragen.
 
@@ -52,97 +53,14 @@ Hier zit een vliegwieleffect in: merken die door AI worden aanbevolen, krijgen m
 
 ## Verschillende platforms wegen deze krachten anders
 
-|
-Platform
-
- |
-
-Belangrijkste basis
-
- |
-
-Wat dat voor jou betekent
-
- |
+| Platform | Belangrijkste basis | Wat dat voor jou betekent |
 | --- | --- | --- |
-|
-
-[ChatGPT](https://trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company)
-
- |
-
-Training data, browsing voor actuele onderwerpen
-
- |
-
-Je langetermijnvoetafdruk is het belangrijkst; recente bronnen voor nieuwswaardige zoekopdrachten
-
- |
-|
-
-Perplexity
-
- |
-
-Live zoeken met bronvermelding
-
- |
-
-De snelweg: publiceer citeerbare antwoorden en verschijn binnen enkele weken
-
- |
-|
-
-Google AI Overview / AI Mode
-
- |
-
-Google-index en signalen voor ranking
-
- |
-
-Klassieke SEO-kracht vertaalt zich hier direct naartoe
-
- |
-|
-
-Gemini
-
- |
-
-Google-infrastructuur plus training data
-
- |
-
-Vergelijkbaar met hierboven, met een grotere rol voor het modelgeheugen
-
- |
-|
-
-Copilot
-
- |
-
-Bing-index
-
- |
-
-Het meest verwaarloosde kanaal; Bing Webmaster Tools is je toegangsticket
-
- |
-|
-
-Claude
-
- |
-
-Training data, voorzichtige toon
-
- |
-
-Uiterst gevoelig voor consensus; inconsistente bronnen leiden tot voorzichtige antwoorden
-
- |
+| [ChatGPT](https://trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company) | Training data, browsing voor actuele onderwerpen | Je langetermijnvoetafdruk is het belangrijkst; recente bronnen voor nieuwswaardige zoekopdrachten |
+| Perplexity | Live zoeken met bronvermelding | De snelweg: publiceer citeerbare antwoorden en verschijn binnen enkele weken |
+| Google AI Overview / AI Mode | Google-index en signalen voor ranking | Klassieke SEO-kracht vertaalt zich hier direct naartoe |
+| Gemini | Google-infrastructuur plus training data | Vergelijkbaar met hierboven, met een grotere rol voor het modelgeheugen |
+| Copilot | Bing-index | Het meest verwaarloosde kanaal; Bing Webmaster Tools is je toegangsticket |
+| Claude | Training data, voorzichtige toon | Uiterst gevoelig voor consensus; inconsistente bronnen leiden tot voorzichtige antwoorden |
 
 ## Query-intentie bepaalt welke merken verschijnen
 

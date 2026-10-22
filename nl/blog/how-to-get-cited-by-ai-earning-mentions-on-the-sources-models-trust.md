@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust
 alternate_markdown: https://content.trackbase.ai/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust.md
 date_published: 2026-07-05
+date_modified: 2026-07-05
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > Hoe AI over je merk praat, verander je vooral buiten je eigen site: onafhankelijke citaties wegen zwaarder dan je eigen marketing. Zo verdien je ze.
 
-*Door Levi Bouman · Gepubliceerd 2026-07-05 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust*
+*Door Levi Bouman · Gepubliceerd 2026-07-05 · Bijgewerkt 2026-07-05 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust*
 
 De snelste manier om te veranderen hoe AI over je merk praat, ligt meestal niet op je eigen website. Het ligt overal daarbuiten. Een [citation, waarbij het model jou als bron gebruikt](https://trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility), weegt zwaarder dan elke regel die je over jezelf schrijft. Dit komt doordat [AI-modellen independent mentions](https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend) veel hoger aanslaan dan je eigen marketingteksten.
 

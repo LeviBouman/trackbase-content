@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/enterprise-ai-brand-reputation-monitoring
 alternate_markdown: https://content.trackbase.ai/blog/enterprise-ai-brand-reputation-monitoring.md
 date_published: 2026-08-13
+date_modified: 2026-08-13
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > Prompt portfolios, response audit trails, alert routing en de Copilot blind spot: de architectuur waarmee grote organisaties AI-antwoorden op schaal monitoren.
 
-*Door Bodrik Bakker · Gepubliceerd 2026-08-13 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/enterprise-ai-brand-reputation-monitoring*
+*Door Bodrik Bakker · Gepubliceerd 2026-08-13 · Bijgewerkt 2026-08-13 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/enterprise-ai-brand-reputation-monitoring*
 
 Voor grote organisaties is AI brand monitoring niet zomaar een marketingdingetje, maar een essentieel onderdeel van reputatiemanagement. Duizenden dagelijkse gesprekken in ChatGPT, Copilot en Gemini gaan over je merk, je producten en je gevoeligheden. Geen enkel communicatieteam kan dat allemaal bijlezen. Dit is hoe grote bedrijven grip krijgen op die blinde vlek.
 

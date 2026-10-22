@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/geo-metrics-that-matter
 alternate_markdown: https://content.trackbase.ai/blog/geo-metrics-that-matter.md
 date_published: 2026-08-04
+date_modified: 2026-08-04
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 3
 
 > Zichtbaarheid, share of voice, citaties, sentiment, AI referrals en crawler activity: de zeven cijfers die Generative Engine Optimization samenvatten op één pagina.
 
-*Door Levi Bouman · Gepubliceerd 2026-08-04 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/geo-metrics-that-matter*
+*Door Levi Bouman · Gepubliceerd 2026-08-04 · Bijgewerkt 2026-08-04 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/geo-metrics-that-matter*
 
 Generative Engine Optimization heeft een meetprobleem. De helft van de sector deelt betekenisloze screenshots van één goed ChatGPT-antwoord, de rest verdrinkt in dashboards die niemand leest. Slechts zeven cijfers, wekelijks bekeken, laten zien wat er écht toe doet. Dit zijn ze, inclusief hoe je ze verzamelt.
 
@@ -56,110 +57,15 @@ Welke AI-bots je site bezoeken, welke pagina's ze lezen en hoe vaak ze terugkome
 
 ## De zeven metrics gecombineerd
 
-|
-Metric
-
- |
-
-Frequentie
-
- |
-
-Type indicator
-
- |
+| Metric | Frequentie | Type indicator |
 | --- | --- | --- |
-|
-
-Presence rate
-
- |
-
-Dagelijkse data, wekelijkse review
-
- |
-
-Belangrijkste resultaat
-
- |
-|
-
-[Share of Voice](https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice)
-
- |
-
-Dagelijkse data, wekelijkse review
-
- |
-
-Belangrijkste resultaat
-
- |
-|
-
-Gemiddelde positie
-
- |
-
-Wekelijks
-
- |
-
-Detailresultaat
-
- |
-|
-
-Citation rate
-
- |
-
-Wekelijks
-
- |
-
-Aanjager
-
- |
-|
-
-[Sentiment](https://trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins) / nauwkeurigheid
-
- |
-
-Wekelijks
-
- |
-
-Kwaliteitsbewaking
-
- |
-|
-
-AI referral conversies
-
- |
-
-Maandelijks
-
- |
-
-Zakelijk bewijs
-
- |
-|
-
-Crawler-activiteit
-
- |
-
-Wekelijks
-
- |
-
-Voorspellende indicator
-
- |
+| Presence rate | Dagelijkse data, wekelijkse review | Belangrijkste resultaat |
+| [Share of Voice](https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice) | Dagelijkse data, wekelijkse review | Belangrijkste resultaat |
+| Gemiddelde positie | Wekelijks | Detailresultaat |
+| Citation rate | Wekelijks | Aanjager |
+| [Sentiment](https://trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins) / nauwkeurigheid | Wekelijks | Kwaliteitsbewaking |
+| AI referral conversies | Maandelijks | Zakelijk bewijs |
+| Crawler-activiteit | Wekelijks | Voorspellende indicator |
 
 Eén pagina, zeven cijfers, elk met een trendpijl. Past je GEO-rapportage daar niet op? Dan meet je inspanning in plaats van vooruitgang.
 

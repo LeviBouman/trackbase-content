@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead
 alternate_markdown: https://content.trackbase.ai/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead.md
 date_published: 2026-06-23
+date_modified: 2026-06-23
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 3
 
 > In GA4 lijkt een bezoek na een AI-aanbeveling op direct verkeer of een merkzoekopdracht. Waarom AI-search onzichtbaar blijft en wat je wél moet meten.
 
-*Door Levi Bouman · Gepubliceerd 2026-06-23 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead*
+*Door Levi Bouman · Gepubliceerd 2026-06-23 · Bijgewerkt 2026-06-23 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead*
 
 Een koper vraagt ChatGPT naar de beste tool in jouw categorie. De AI schotelt een shortlist van drie merken voor. De koper kiest er één, belandt op de site en converteert een week later. In GA4 zie je die sessie terug als direct verkeer of een branded search. Het moment dat echt de doorslag gaf, namelijk de AI die jouw merk op de shortlist zette, vind je nergens terug in je rapportages.
 

@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/geo-metrics-that-matter
 alternate_markdown: https://content.trackbase.ai/nl/blog/geo-metrics-that-matter.md
 date_published: 2026-08-04
+date_modified: 2026-08-04
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 3
 
 > Presence rate, Share of Voice, citations, sentiment, AI referrals and crawler activity: the seven numbers that cover Generative Engine Optimization on one page.
 
-*By Levi Bouman · Published 2026-08-04 · Original article: https://trackbase.ai/blog/geo-metrics-that-matter*
+*By Levi Bouman · Published 2026-08-04 · Updated 2026-08-04 · Original article: https://trackbase.ai/blog/geo-metrics-that-matter*
 
 Generative Engine Optimization has a measurement problem: half the industry reports vanity screenshots of one good ChatGPT answer, the other half drowns in dashboards nobody reads. Seven numbers, reviewed weekly, cover what actually matters. Here they are, with how to get each one.
 
@@ -56,110 +57,15 @@ Which AI bots visit, which pages they read, how often they return. Crawling prec
 
 ## Putting the seven together
 
-|
-Metric
-
- |
-
-Cadence
-
- |
-
-Leading or lagging
-
- |
+| Metric | Cadence | Leading or lagging |
 | --- | --- | --- |
-|
-
-Presence rate
-
- |
-
-Daily data, weekly review
-
- |
-
-Core outcome
-
- |
-|
-
-[Share of Voice](https://trackbase.ai/blog/how-to-measure-ai-share-of-voice)
-
- |
-
-Daily data, weekly review
-
- |
-
-Core outcome
-
- |
-|
-
-Average position
-
- |
-
-Weekly
-
- |
-
-Outcome refinement
-
- |
-|
-
-Citation rate
-
- |
-
-Weekly
-
- |
-
-Driver
-
- |
-|
-
-[Sentiment](https://trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins) / accuracy
-
- |
-
-Weekly
-
- |
-
-Quality guard
-
- |
-|
-
-AI referral conversions
-
- |
-
-Monthly
-
- |
-
-Business proof
-
- |
-|
-
-Crawler activity
-
- |
-
-Weekly
-
- |
-
-Leading indicator
-
- |
+| Presence rate | Daily data, weekly review | Core outcome |
+| [Share of Voice](https://trackbase.ai/blog/how-to-measure-ai-share-of-voice) | Daily data, weekly review | Core outcome |
+| Average position | Weekly | Outcome refinement |
+| Citation rate | Weekly | Driver |
+| [Sentiment](https://trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins) / accuracy | Weekly | Quality guard |
+| AI referral conversions | Monthly | Business proof |
+| Crawler activity | Weekly | Leading indicator |
 
 One page, seven numbers, each with a trend arrow. If your [GEO](https://trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference) reporting does not fit on that page, it is measuring effort instead of progress.
 

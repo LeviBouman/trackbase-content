@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company
 alternate_markdown: https://content.trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company.md
 date_published: 2026-07-17
+date_modified: 2026-07-17
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 6
 
 > A six-step method to track your brand across ChatGPT and 10 other AI models: build a prompt library, score your visibility, and turn the results into action.
 
-*By Levi Bouman · Published 2026-07-17 · Original article: https://trackbase.ai/blog/track-what-chatgpt-says-about-your-company*
+*By Levi Bouman · Published 2026-07-17 · Updated 2026-07-17 · Original article: https://trackbase.ai/blog/track-what-chatgpt-says-about-your-company*
 
 Somewhere today, a potential customer asked ChatGPT a question you would love to answer. The model named a few brands. Maybe yours, probably not. This guide covers how to find out, and how to set up tracking that tells you whether it is getting better.
 

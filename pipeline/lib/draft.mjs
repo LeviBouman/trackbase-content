@@ -24,8 +24,13 @@ export function loadDraft(file) {
   for (const k of required) if (!raw[k]) throw new Error(`draft ${file}: missing ${k}`);
   if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(raw.slug)) throw new Error(`draft ${file}: slug must be kebab-case`);
   if (!/^\d{4}-\d{2}-\d{2}$/.test(raw.date)) throw new Error(`draft ${file}: date must be YYYY-MM-DD`);
-  const contentHtml = raw.contentHtml || markdownToFramerHtml(raw.contentMarkdown);
-  const contentHtmlNl = raw.contentHtmlNl || (raw.contentMarkdownNl ? markdownToFramerHtml(raw.contentMarkdownNl) : null);
+  // Long bodies may live next to the draft as markdown files: "contentMarkdownFile": "<slug>.en.md"
+  const dir = path.dirname(file);
+  const readIf = (f) => (f ? fs.readFileSync(path.join(dir, f), "utf8") : null);
+  const md = raw.contentMarkdown || readIf(raw.contentMarkdownFile);
+  const mdNl = raw.contentMarkdownNl || readIf(raw.contentMarkdownNlFile);
+  const contentHtml = raw.contentHtml || (md ? markdownToFramerHtml(md) : null);
+  const contentHtmlNl = raw.contentHtmlNl || (mdNl ? markdownToFramerHtml(mdNl) : null);
   if (!contentHtml) throw new Error(`draft ${file}: contentHtml or contentMarkdown required`);
   return {
     slug: raw.slug,

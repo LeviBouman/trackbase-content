@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/monitor-changes-in-ai-answers-over-time
 alternate_markdown: https://content.trackbase.ai/nl/blog/monitor-changes-in-ai-answers-over-time.md
 date_published: 2026-08-10
+date_modified: 2026-08-10
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 3
 
 > AI answers drift as models retrain and sources change. How to store responses, separate signal from noise and build the routine that catches shifts early.
 
-*By Levi Bouman · Published 2026-08-10 · Original article: https://trackbase.ai/blog/monitor-changes-in-ai-answers-over-time*
+*By Levi Bouman · Published 2026-08-10 · Updated 2026-08-10 · Original article: https://trackbase.ai/blog/monitor-changes-in-ai-answers-over-time*
 
 The AI answer about your brand is not a fact, it is a feed. Models retrain, retrieval sources update, competitors publish, and the answer a customer gets in September is not the one another customer got in June. Monitoring changes over time is how you catch the drift early, in both directions.
 

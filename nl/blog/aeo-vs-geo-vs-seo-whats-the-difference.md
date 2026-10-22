@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference
 alternate_markdown: https://content.trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference.md
 date_published: 2026-06-02
+date_modified: 2026-06-02
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > SEO is voor zoekmachines, AEO voor antwoordmachines, en GEO richt zich op generatieve AI-modellen. Ze overlappen deels, maar zijn echt verschillend. Wie ze op één hoop gooit, wordt onzichtbaar op de kanalen die er het meest toe doen.
 
-*Door Levi Bouman · Gepubliceerd 2026-06-02 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference*
+*Door Levi Bouman · Gepubliceerd 2026-06-02 · Bijgewerkt 2026-06-02 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference*
 
 Drie afkortingen, één doel: zorgen dat je merk wordt gevonden. SEO richt zich op zoekmachines, AEO op antwoordmachines en GEO op generatieve AI-modellen. Ze overlappen elkaar, maar ze zijn niet hetzelfde. Behandel je ze alsof dat wel zo is? Dan word je onzichtbaar op de kanalen die er het meest toe doen.
 

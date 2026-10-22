@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/how-to-use-the-trackbase-mcp-in-claude
 alternate_markdown: https://content.trackbase.ai/nl/blog/how-to-use-the-trackbase-mcp-in-claude.md
 date_published: 2026-09-28
+date_modified: 2026-09-28
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 8
 
 > Connect Trackbase to Claude with MCP and ask your AI visibility data anything. 12 practical workflows, from competitor gaps to cited sources, with prompts.
 
-*By Levi Bouman · Published 2026-09-28 · Original article: https://trackbase.ai/blog/how-to-use-the-trackbase-mcp-in-claude*
+*By Levi Bouman · Published 2026-09-28 · Updated 2026-09-28 · Original article: https://trackbase.ai/blog/how-to-use-the-trackbase-mcp-in-claude*
 
 The platform answers the questions you already knew to ask. The harder questions come later: why a competitor wins a prompt you expected to own, which sources ChatGPT trusts in your category, or whether a price change has reached AI answers yet. With the Trackbase MCP server you can ask those questions in plain language, in Claude or any other MCP client, and get the answer straight from your own tracking data.
 
@@ -36,69 +37,14 @@ Every tool is read-only and scoped to your organization. Claude can read your da
 
 ## What Claude can read through the Trackbase MCP
 
-|
-Data
-
- |
-
-What Claude gets
-
- |
+| Data | What Claude gets |
 | --- | --- |
-|
-
-Visibility overview
-
- |
-
-Visibility Score, share of voice, mentions, citations, presence rate and average position, per day and per AI model, with the change against the previous period
-
- |
-|
-
-Competitor intelligence
-
- |
-
-Competitor rankings, share of voice, competitive gap and head-to-head wins and losses
-
- |
-|
-
-Prompt responses and mentions
-
- |
-
-The full AI answers to your tracked prompts, whether your brand was mentioned, its position, the sentiment and the sources cited
-
- |
-|
-
-Sources intelligence
-
- |
-
-The URLs and domains AI models cite, per prompt and per model, including the prompts that cite your own pages
-
- |
-|
-
-Crawler and visitor analytics
-
- |
-
-AI crawler visits to your site and visits that come from AI assistants, once both are connected
-
- |
-|
-
-ChatGPT Shopping
-
- |
-
-Carousel positions, price positioning, merchant share, product history and price or tag alerts, when Shopping tracking is enabled
-
- |
+| Visibility overview | Visibility Score, share of voice, mentions, citations, presence rate and average position, per day and per AI model, with the change against the previous period |
+| Competitor intelligence | Competitor rankings, share of voice, competitive gap and head-to-head wins and losses |
+| Prompt responses and mentions | The full AI answers to your tracked prompts, whether your brand was mentioned, its position, the sentiment and the sources cited |
+| Sources intelligence | The URLs and domains AI models cite, per prompt and per model, including the prompts that cite your own pages |
+| Crawler and visitor analytics | AI crawler visits to your site and visits that come from AI assistants, once both are connected |
+| ChatGPT Shopping | Carousel positions, price positioning, merchant share, product history and price or tag alerts, when Shopping tracking is enabled |
 
 All data tools accept a time window of up to 365 days. The visibility, competitor, answer and source tools can also be filtered by AI model.
 

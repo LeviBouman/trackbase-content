@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend
 alternate_markdown: https://content.trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend.md
 date_published: 2026-06-20
+date_modified: 2026-06-20
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 3
 
 > Vraag ChatGPT naar de beste CRM, de beste hardloopschoenen of de beste AI visibility tool. Je krijgt een shortlist terug. Die lijst is niet willekeurig. En hij is ook niet gebaseerd op één enkel ding.
 
-*Door Levi Bouman · Gepubliceerd 2026-06-20 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend*
+*Door Levi Bouman · Gepubliceerd 2026-06-20 · Bijgewerkt 2026-06-20 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend*
 
 Vraag ChatGPT om de beste CRM, de beste hardloopschoenen of de beste AI visibility tool. Je krijgt direct een shortlist. Die selectie is niet willekeurig en ook niet het resultaat van één specifieke factor. Het is de optelsom van drie lagen over elkaar heen: wat het model heeft geleerd tijdens de training, wat het live kan ophalen, en hoe vaak anderen op het internet over je merk praten.
 

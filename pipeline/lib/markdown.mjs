@@ -11,6 +11,25 @@ const td = new TurndownService({
 });
 td.use(gfm);
 td.remove(["script", "style"]);
+// Framer stores tables as <table><tbody><tr><th><p>..</p></th>..</tr>..</tbody></table> (no <thead>),
+// which the GFM plugin does not recognise. Treat the first row as the header.
+td.addRule("framerTable", {
+  filter: "table",
+  replacement: (content, node) => {
+    const list = (el, tag) => Array.prototype.slice.call(el.getElementsByTagName(tag));
+    const rows = list(node, "tr").map((tr) =>
+      Array.prototype.slice
+        .call(tr.childNodes)
+        .filter((c) => /^T[HD]$/i.test(c.nodeName))
+        .map((c) => td.turndown(c.innerHTML).replace(/\s*\n+\s*/g, " ").replace(/\|/g, "\\|").trim())
+    );
+    if (!rows.length) return content;
+    const width = Math.max(...rows.map((r) => r.length));
+    const pad = (r) => [...r, ...Array(width - r.length).fill("")];
+    const lines = [pad(rows[0]), Array(width).fill("---"), ...rows.slice(1).map(pad)].map((r) => `| ${r.join(" | ")} |`);
+    return `\n\n${lines.join("\n")}\n\n`;
+  },
+});
 
 /** Framer rich text HTML -> clean markdown with absolute links. */
 export function htmlToMarkdown(html, { lang = "en" } = {}) {

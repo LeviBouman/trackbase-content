@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/how-can-brands-influence-ai-recommendations
 alternate_markdown: https://content.trackbase.ai/nl/blog/how-can-brands-influence-ai-recommendations.md
 date_published: 2026-10-05
+date_modified: 2026-10-05
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > You cannot buy your way into an AI recommendation. Here is how training data, retrieval, source authority and consensus actually shape whether a model recommends your brand.
 
-*By Levi Bouman · Published 2026-10-05 · Original article: https://trackbase.ai/blog/how-can-brands-influence-ai-recommendations*
+*By Levi Bouman · Published 2026-10-05 · Updated 2026-10-05 · Original article: https://trackbase.ai/blog/how-can-brands-influence-ai-recommendations*
 
 You cannot bribe ChatGPT the way you can buy a sponsored search result. There is no ad auction, no bid, no guaranteed placement. Yet some brands show up in AI recommendations again and again while others never do. **Influence over AI recommendations comes from structured, verifiable presence across the sources models already trust, not from any form of direct payment or submission.**
 

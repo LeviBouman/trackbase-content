@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up
 alternate_markdown: https://content.trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md
 date_published: 2026-06-29
+date_modified: 2026-06-29
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > De moderne software buyer journey begint steeds vaker in een chatvenster, niet in een zoekmachine. Een koper typt bijvoorbeeld “best [category] tool for [use case]” in ChatGPT en krijgt direct een shortlist. Jouw merk staat erop, of niet. Het grootste deel van de evaluatie is al voorbij voordat iemand überhaupt je homepage bezoekt.
 
-*Door Bodrik Bakker · Gepubliceerd 2026-06-29 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up*
+*Door Bodrik Bakker · Gepubliceerd 2026-06-29 · Bijgewerkt 2026-06-29 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up*
 
 De zoektocht naar nieuwe software begint tegenwoordig vaak in een chatvenster, niet in een zoekmachine. Een koper typt “beste \[categorie\] tool voor \[use case\]” in ChatGPT en krijgt een shortlist. Jouw merk staat daarop, of niet. Het grootste deel van de evaluatie vindt al plaats voordat iemand überhaupt je homepage bezoekt.
 

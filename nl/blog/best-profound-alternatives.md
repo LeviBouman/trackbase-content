@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/best-profound-alternatives
 alternate_markdown: https://content.trackbase.ai/blog/best-profound-alternatives.md
 date_published: 2026-07-14
+date_modified: 2026-07-14
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 5
 
 > Profound is gemaakt voor enterprise-budgetten. Deze 9 alternatieven tracken je merk in ChatGPT, Gemini en Perplexity vanaf 29 tot 300 euro per maand. Eerlijk vergeleken.
 
-*Door Bodrik Bakker · Gepubliceerd 2026-07-14 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/best-profound-alternatives*
+*Door Bodrik Bakker · Gepubliceerd 2026-07-14 · Bijgewerkt 2026-07-14 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/best-profound-alternatives*
 
 Profound heeft de categorie AI-visibility zo'n beetje gedefinieerd en blijft voor enterprise-teams een sterk product. Maar met de custom prijzen is het voor de meeste bedrijven niet te verantwoorden. Niet vreemd dus dat "Profound alternatieven" een veelgehoorde zoekterm werd. Wij bouwen zo’n alternatief. Onze disclosure vooraf: Trackbase is van ons en opent deze lijst. En we vertellen je bij elke optie eerlijk wat Profound nog steeds beter doet.
 

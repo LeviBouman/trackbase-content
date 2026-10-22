@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/how-do-i-know-if-ai-recommends-my-products-or-services
 alternate_markdown: https://content.trackbase.ai/blog/how-do-i-know-if-ai-recommends-my-products-or-services.md
 date_published: 2026-09-08
+date_modified: 2026-09-08
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > Eén enkele ChatGPT-check zegt je niets. Ontdek hoe je een herhaalbare test opzet om te zien of AI-modellen je merk daadwerkelijk aanbevelen, citeren of juist negeren.
 
-*Door Levi Bouman · Gepubliceerd 2026-09-08 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-do-i-know-if-ai-recommends-my-products-or-services*
+*Door Levi Bouman · Gepubliceerd 2026-09-08 · Bijgewerkt 2026-09-08 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-do-i-know-if-ai-recommends-my-products-or-services*
 
 Je hebt ChatGPT vast al eens gevraagd wat het van je product vindt. Het antwoord stelde je gerust of was een harde klap, en daarna ging je weer door. **Zo'n eenmalige check zegt je bijna niets. AI-antwoorden zijn namelijk stochastisch en veranderen bij elke poging.**
 

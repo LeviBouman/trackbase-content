@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook
 alternate_markdown: https://content.trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md
 date_published: 2026-07-02
+date_modified: 2026-07-02
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > You already know AI visibility matters. The harder question is what to actually do about it on Monday morning. This is the owned-side playbook: the work on your own properties that you fully control. For the off-site half, see the guide on earning AI citations.
 
-*By Levi Bouman · Published 2026-07-02 · Original article: https://trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook*
+*By Levi Bouman · Published 2026-07-02 · Updated 2026-07-02 · Original article: https://trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook*
 
 You already know AI visibility matters. The harder question is what to actually do about it on Monday morning. This is the owned-side playbook: the work on your own properties that you fully control. For the off-site half, see the guide on [earning AI citations](https://trackbase.ai/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust).
 

@@ -5,7 +5,7 @@
 //   node pipeline/refresh-post.mjs --slug <slug> --relink            (glossary links only)
 //   node pipeline/refresh-post.mjs --slug <slug> --touch --updated 2026-10-24   (date only; use sparingly)
 import fs from "node:fs";
-import { getFramer, IDS, getNlLocale, getBlogItemNl, setBlogItemNl, switchToBranch, sleep, wordCount, getGlossaryTerms } from "./lib/framer.mjs";
+import { getFramer, IDS, getNlLocale, getBlogItemNl, setBlogItemNl, switchToBranch, sleep, wordCount, getGlossaryTerms, sameContent } from "./lib/framer.mjs";
 import { markdownToFramerHtml } from "./lib/draft.mjs";
 import { linkGlossaryTerms } from "./lib/glossary.mjs";
 
@@ -80,14 +80,14 @@ if (touch) {
 if (!Object.keys(fieldData).length) { console.log("nothing to change"); process.exit(0); }
 if (args.includes("--dry-run")) { console.log(JSON.stringify({ slug, changed, words: wordCount(fieldData[F.content]?.value || current[F.content]?.value) }, null, 2)); process.exit(0); }
 
-await item.setAttributes({ fieldData });
+await item.setAttributes({ draft: item.draft, fieldData }); // pass draft explicitly so a draft never flips to published
 console.log("updated", slug, "->", changed.join(", "));
 
 if (Object.keys(wantNl).length) {
   await sleep(10000);
   item = (await blog.getItems()).find((i) => i.slug === slug);
   const got = await getBlogItemNl(framer, item, nl.id);
-  const diff = Object.entries(wantNl).filter(([k, v]) => got?.[k] !== v).map(([k]) => k);
+  const diff = Object.entries(wantNl).filter(([k, v]) => !sameContent(got?.[k], v)).map(([k]) => k);
   if (diff.length) {
     console.log("NL values changed by auto-translate, re-setting:", diff.join(", "));
     console.log("NL re-set:", (await setBlogItemNl(framer, item, nl.id, wantNl)) ? "ok" : "CHECK MANUALLY");

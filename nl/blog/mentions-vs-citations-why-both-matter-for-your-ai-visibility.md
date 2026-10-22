@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility
 alternate_markdown: https://content.trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md
 date_published: 2026-06-08
+date_modified: 2026-06-08
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > In AI-zoekopdrachten herken je een winnend merk aan twee dingen: hoe vaak het wordt genoemd, en hoe vaak het als bron dient. Dat lijkt op elkaar. Maar het is een wereld van verschil.
 
-*Door Levi Bouman · Gepubliceerd 2026-06-08 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility*
+*Door Levi Bouman · Gepubliceerd 2026-06-08 · Bijgewerkt 2026-06-08 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility*
 
 Bij zoeken via AI bepalen twee dingen of je merk aan het [winnen](https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend) is: hoe vaak je genoemd wordt én hoe vaak je als bron geciteerd wordt. Dat klinkt hetzelfde, maar dat is het niet. Dit is het verschil, waarom ze allebei tellen en hoe je ze meet.
 

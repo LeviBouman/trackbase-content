@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook
 alternate_markdown: https://content.trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md
 date_published: 2026-07-02
+date_modified: 2026-07-02
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > Je weet al dat AI-zichtbaarheid belangrijk is. De moeilijkere vraag is wat je er maandagochtend concreet aan gaat doen. Dit is het playbook voor je eigen kanalen: het werk aan de properties waar je de volledige controle over hebt. Voor het off-site gedeelte lees je onze gids over het verdienen van AI-citaten.
 
-*Door Levi Bouman · Gepubliceerd 2026-07-02 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook*
+*Door Levi Bouman · Gepubliceerd 2026-07-02 · Bijgewerkt 2026-07-02 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook*
 
 Dat AI-zichtbaarheid cruciaal is, weet je inmiddels wel. Maar wat ga je er maandagochtend concreet aan doen? Dit is het playbook voor je eigen kanalen – de kanalen waar je volledige controle over hebt. Benieuwd naar de rest? Bekijk dan onze gids over [AI-citaties verdienen](https://trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust).
 

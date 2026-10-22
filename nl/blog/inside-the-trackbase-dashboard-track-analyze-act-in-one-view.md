@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view
 alternate_markdown: https://content.trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md
 date_published: 2026-06-14
+date_modified: 2026-06-14
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > Aan AI visibility data heb je pas wat als je er ook naar kunt handelen. Het Trackbase-platform draait om drie stappen: Track, Analyze, Act. Daarnaast helpen onze 7 modules je om van een ruw signaal direct naar je volgende, geprioriteerde actie te gaan.
 
-*Door Levi Bouman · Gepubliceerd 2026-06-14 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view*
+*Door Levi Bouman · Gepubliceerd 2026-06-14 · Bijgewerkt 2026-06-14 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view*
 
 Je hebt pas echt iets aan AI visibility data als je er direct actie op kunt ondernemen. Het Trackbase-platform is ontworpen rond drie stappen: tracken, analyseren en actie ondernemen. Onze 7 modules helpen je om ruwe signalen razendsnel om te zetten in prioriteiten. Dit is wat elke module doet.
 

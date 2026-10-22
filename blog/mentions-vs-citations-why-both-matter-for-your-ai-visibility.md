@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility
 alternate_markdown: https://content.trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md
 date_published: 2026-06-08
+date_modified: 2026-06-08
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > In AI search, two things tell you whether a brand is winning: how often it’s mentioned, and how often it’s cited as a source. They sound similar. They’re not.
 
-*By Levi Bouman · Published 2026-06-08 · Original article: https://trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility*
+*By Levi Bouman · Published 2026-06-08 · Updated 2026-06-08 · Original article: https://trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility*
 
 In AI search, two things tell you whether a brand is [winning](https://trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend): how often it’s mentioned, and how often it’s cited as a source. They sound similar. They’re not. Here’s the difference, why both matter, and how to track them.
 

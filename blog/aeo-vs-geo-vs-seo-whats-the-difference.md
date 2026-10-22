@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference
 alternate_markdown: https://content.trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference.md
 date_published: 2026-06-02
+date_modified: 2026-06-02
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > SEO targets search engines, AEO targets answer engines, and GEO targets generative AI models. They overlap, but they’re not the same and treating them as one is how you end up invisible in the channels that matter most.
 
-*By Levi Bouman · Published 2026-06-02 · Original article: https://trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference*
+*By Levi Bouman · Published 2026-06-02 · Updated 2026-06-02 · Original article: https://trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference*
 
 Three acronyms, one goal: getting your brand found. SEO targets search engines, AEO targets answer engines, and GEO targets generative AI models. They overlap, but they’re not the same and treating them as one is how you end up invisible in the channels that matter most.
 

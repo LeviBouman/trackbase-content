@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/how-can-brands-influence-ai-recommendations
 alternate_markdown: https://content.trackbase.ai/blog/how-can-brands-influence-ai-recommendations.md
 date_published: 2026-10-05
+date_modified: 2026-10-05
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 5
 
 > Je kunt je niet inkopen in een AI-aanbeveling. Dit is hoe trainingsdata, retrieval, bronautoriteit en consensus bepalen of een model jouw merk aanbeveelt.
 
-*Door Levi Bouman · Gepubliceerd 2026-10-05 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-can-brands-influence-ai-recommendations*
+*Door Levi Bouman · Gepubliceerd 2026-10-05 · Bijgewerkt 2026-10-05 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-can-brands-influence-ai-recommendations*
 
 Je kunt ChatGPT niet omkopen zoals je een gesponsord zoekresultaat koopt. Er is geen advertentieveiling, geen bod en geen gegarandeerde plaatsing. Toch duiken sommige merken telkens weer op in AI-aanbevelingen, terwijl andere onzichtbaar blijven. **Je invloed op AI-aanbevelingen hangt af van een gestructureerde, betrouwbare aanwezigheid op de bronnen die modellen al vertrouwen, niet van directe betaling of aanmelding.**
 

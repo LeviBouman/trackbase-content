@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service
 alternate_markdown: https://content.trackbase.ai/nl/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service.md
 date_published: 2026-07-08
+date_modified: 2026-07-08
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > Clients will soon ask why ChatGPT doesn't recommend them. Learn how agencies package AI visibility and GEO tracking as a recurring retainer service.
 
-*By Bodrik Bakker · Published 2026-07-08 · Original article: https://trackbase.ai/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service*
+*By Bodrik Bakker · Published 2026-07-08 · Updated 2026-07-08 · Original article: https://trackbase.ai/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service*
 
 Your clients are about to start asking why they do not show up when someone asks ChatGPT for the best provider in their category. The agencies that have a clear answer, and a service to back it, will win those conversations. The ones that shrug will lose retainers to the ones that do not.
 

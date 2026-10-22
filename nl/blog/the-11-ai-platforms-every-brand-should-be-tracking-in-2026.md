@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026
 alternate_markdown: https://content.trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md
 date_published: 2026-06-05
+date_modified: 2026-06-05
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > Je klanten stellen hun vragen al lang niet meer alleen aan ChatGPT. Ze gebruiken ook Claude, Perplexity, Gemini en Grok. En al die verschillende AI-engines werken net weer even anders.
 
-*Door Levi Bouman · Gepubliceerd 2026-06-05 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026*
+*Door Levi Bouman · Gepubliceerd 2026-06-05 · Bijgewerkt 2026-06-05 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026*
 
 Je klanten stellen hun vragen allang niet meer alleen aan ChatGPT. Ze gebruiken ook Claude, Perplexity, Gemini, Grok en een groeiende lijst andere AI-engines die allemaal anders werken. Om je echte AI-zichtbaarheid te meten, moet je ze allemaal volgen. Dat begint bij snappen [hoe deze modellen bepalen](https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend) welke merken ze laten zien. Trackbase monitort de 11 belangrijkste platformen van dit moment. Dit is wat ze doen en waarom het ertoe doet.
 

@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/best-ai-visibility-tools
 alternate_markdown: https://content.trackbase.ai/nl/blog/best-ai-visibility-tools.md
 date_published: 2026-07-20
+date_modified: 2026-07-20
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 7
 
 > We compared 15 tools that track brand visibility in ChatGPT, Gemini and Perplexity. Pricing, model coverage and honest watch outs, including for our own platform.
 
-*By Levi Bouman · Published 2026-07-20 · Original article: https://trackbase.ai/blog/best-ai-visibility-tools*
+*By Levi Bouman · Published 2026-07-20 · Updated 2026-07-20 · Original article: https://trackbase.ai/blog/best-ai-visibility-tools*
 
 Your customers ask ChatGPT which product to buy. These tools tell you whether the answer includes you.
 
@@ -30,408 +31,34 @@ We build one of the platforms on this list, so read the Trackbase entry with tha
 
 ## Quick picks
 
-|
-Use case
-
- |
-
-Tool
-
- |
+| Use case | Tool |
 | --- | --- |
-|
-
-Best overall for SMB and mid-market
-
- |
-
-Trackbase
-
- |
-|
-
-Best for enterprise budgets
-
- |
-
-[Profound](https://trackbase.ai/blog/trackbase-vs-profound)
-
- |
-|
-
-Best [for agencies](https://trackbase.ai/solutions/agency) on Ahrefs already
-
- |
-
-Ahrefs Brand Radar
-
- |
-|
-
-Cheapest way to start
-
- |
-
-Otterly.ai
-
- |
-|
-
-Best inside an existing SEO suite
-
- |
-
-[Semrush](https://trackbase.ai/blog/semrush-hubspot-vs-dedicated-ai-visibility-platform) AI Visibility Toolkit
-
- |
-|
-
-Best for e-commerce and [ChatGPT Shopping](https://trackbase.ai/features/chatgpt-shopping)
-
- |
-
-Trackbase
-
- |
+| Best overall for SMB and mid-market | Trackbase |
+| Best for enterprise budgets | [Profound](https://trackbase.ai/blog/trackbase-vs-profound) |
+| Best [for agencies](https://trackbase.ai/solutions/agency) on Ahrefs already | Ahrefs Brand Radar |
+| Cheapest way to start | Otterly.ai |
+| Best inside an existing SEO suite | [Semrush](https://trackbase.ai/blog/semrush-hubspot-vs-dedicated-ai-visibility-platform) AI Visibility Toolkit |
+| Best for e-commerce and [ChatGPT Shopping](https://trackbase.ai/features/chatgpt-shopping) | Trackbase |
 
 ## Comparison table
 
-|
-#
-
- |
-
-Tool
-
- |
-
-AI models
-
- |
-
-Starting price
-
- |
-
-Best for
-
- |
+| # | Tool | AI models | Starting price | Best for |
 | --- | --- | --- | --- | --- |
-|
-
-1
-
- |
-
-Trackbase
-
- |
-
-11
-
- |
-
-€49/mo
-
- |
-
-SMB, [e-commerce](https://trackbase.ai/solutions/e-commerce), agencies
-
- |
-|
-
-2
-
- |
-
-Profound
-
- |
-
-~6 major
-
- |
-
-Custom, enterprise
-
- |
-
-Large brands
-
- |
-|
-
-3
-
- |
-
-Peec AI
-
- |
-
-~6
-
- |
-
-From ~€90/mo
-
- |
-
-Marketing teams
-
- |
-|
-
-4
-
- |
-
-Otterly.ai
-
- |
-
-~5
-
- |
-
-From ~$29/mo
-
- |
-
-Solo marketers, starters
-
- |
-|
-
-5
-
- |
-
-Scrunch AI
-
- |
-
-~6
-
- |
-
-Custom
-
- |
-
-Mid-market to enterprise
-
- |
-|
-
-6
-
- |
-
-Ahrefs Brand Radar
-
- |
-
-AI Overviews, ChatGPT, more
-
- |
-
-Part of Ahrefs plans
-
- |
-
-Existing Ahrefs users
-
- |
-|
-
-7
-
- |
-
-Semrush AI Visibility Toolkit
-
- |
-
-ChatGPT, AIO, Perplexity, more
-
- |
-
-Semrush One add-on
-
- |
-
-Existing Semrush users
-
- |
-|
-
-8
-
- |
-
-SE Ranking AI Visibility Tracker
-
- |
-
-AIO, ChatGPT, Gemini, Perplexity
-
- |
-
-Add-on to SE Ranking
-
- |
-
-SEO teams
-
- |
-|
-
-9
-
- |
-
-Nightwatch
-
- |
-
-LLMs + classic SERPs
-
- |
-
-From $32/mo
-
- |
-
-Rank tracking + AI in one
-
- |
-|
-
-10
-
- |
-
-Rankability
-
- |
-
-Multiple LLMs
-
- |
-
-Mid-tier SaaS pricing
-
- |
-
-Content-driven agencies
-
- |
-|
-
-11
-
- |
-
-AthenaHQ
-
- |
-
-Major LLMs
-
- |
-
-Custom
-
- |
-
-GEO-focused teams
-
- |
-|
-
-12
-
- |
-
-Knowatoa
-
- |
-
-Major LLMs
-
- |
-
-Freemium
-
- |
-
-Small teams
-
- |
-|
-
-13
-
- |
-
-Rankscale.ai
-
- |
-
-Major LLMs
-
- |
-
-Trial + tiers
-
- |
-
-GEO analysis
-
- |
-|
-
-14
-
- |
-
-Writesonic GEO
-
- |
-
-Major LLMs
-
- |
-
-Bundled with Writesonic
-
- |
-
-[Content teams](https://trackbase.ai/solutions/content-teams)
-
- |
-|
-
-15
-
- |
-
-Frase AI Tracking
-
- |
-
-Major engines
-
- |
-
-From $39/mo
-
- |
-
-Content + tracking combo
-
- |
+| 1 | Trackbase | 11 | €49/mo | SMB, [e-commerce](https://trackbase.ai/solutions/e-commerce), agencies |
+| 2 | Profound | ~6 major | Custom, enterprise | Large brands |
+| 3 | Peec AI | ~6 | From ~€90/mo | Marketing teams |
+| 4 | Otterly.ai | ~5 | From ~$29/mo | Solo marketers, starters |
+| 5 | Scrunch AI | ~6 | Custom | Mid-market to enterprise |
+| 6 | Ahrefs Brand Radar | AI Overviews, ChatGPT, more | Part of Ahrefs plans | Existing Ahrefs users |
+| 7 | Semrush AI Visibility Toolkit | ChatGPT, AIO, Perplexity, more | Semrush One add-on | Existing Semrush users |
+| 8 | SE Ranking AI Visibility Tracker | AIO, ChatGPT, Gemini, Perplexity | Add-on to SE Ranking | SEO teams |
+| 9 | Nightwatch | LLMs + classic SERPs | From $32/mo | Rank tracking + AI in one |
+| 10 | Rankability | Multiple LLMs | Mid-tier SaaS pricing | Content-driven agencies |
+| 11 | AthenaHQ | Major LLMs | Custom | GEO-focused teams |
+| 12 | Knowatoa | Major LLMs | Freemium | Small teams |
+| 13 | Rankscale.ai | Major LLMs | Trial + tiers | GEO analysis |
+| 14 | Writesonic GEO | Major LLMs | Bundled with Writesonic | [Content teams](https://trackbase.ai/solutions/content-teams) |
+| 15 | Frase AI Tracking | Major engines | From $39/mo | Content + tracking combo |
 
 ## How we ranked these tools
 

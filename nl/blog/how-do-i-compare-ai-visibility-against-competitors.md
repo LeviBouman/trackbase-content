@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/how-do-i-compare-ai-visibility-against-competitors
 alternate_markdown: https://content.trackbase.ai/blog/how-do-i-compare-ai-visibility-against-competitors.md
 date_published: 2026-09-08
+date_modified: 2026-09-08
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > Wil je je AI-visibility vergelijken met concurrenten? Dat vraagt om meer dan één gelukkige ChatGPT-prompt. Zo meet je de Share of Voice, positie en sentiment gaps écht goed.
 
-*Door Bodrik Bakker · Gepubliceerd 2026-09-08 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-do-i-compare-ai-visibility-against-competitors*
+*Door Bodrik Bakker · Gepubliceerd 2026-09-08 · Bijgewerkt 2026-09-08 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-do-i-compare-ai-visibility-against-competitors*
 
 Je weet al dat je concurrenten bestaan. Wat je waarschijnlijk niet weet, is welke van hen door AI-modellen stilletjes worden bevoordeeld zodra een koper een categorievraag stelt in plaats van naar jouw merknaam te zoeken. **Dat verschil zie je pas als je het direct naast elkaar meet, en niet merk voor merk afzonderlijk.**
 

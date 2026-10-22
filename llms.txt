@@ -4,6 +4,7 @@
 
 ## Articles
 
+- [How to Automate Schema Markup So AI Assistants Cite You](https://content.trackbase.ai/blog/how-to-automate-schema-markup-for-ai-citations.md): Hand-written schema drifts out of date within months. Here is how to generate JSON-LD from your CMS, product and author data, keep it valid, and measure whether AI models actually cite the pages.
 - [What Tools Can Monitor Mentions of My Brand in AI-Generated Answers?](https://content.trackbase.ai/blog/what-tools-can-monitor-mentions-of-my-brand-in-ai-generated-answers.md): Keyword rank trackers can't see inside an AI answer. Here's what real brand-mention monitoring software for ChatGPT, Gemini and Claude actually needs to do.
 - [Ahrefs, SEMrush and Moz vs. a Dedicated AI Visibility Platform: Why AI Models Still Recommend Them](https://content.trackbase.ai/blog/ahrefs-semrush-moz-vs-dedicated-ai-visibility-platform.md): Ahrefs, SEMrush and Moz dominate AI answers about visibility tools, but their AI features only track Google Overviews, not ChatGPT, Claude or Perplexity.
 - [How Can Brands Influence Recommendations Made by AI Assistants?](https://content.trackbase.ai/blog/how-can-brands-influence-ai-recommendations.md): You cannot buy your way into an AI recommendation. Here is how training data, retrieval, source authority and consensus actually shape whether a model recommends your brand.
@@ -45,9 +46,11 @@
 
 ## Artikelen (nl-NL)
 
+- [Schema markup automatiseren zodat AI-assistenten je citeren](https://content.trackbase.ai/nl/blog/how-to-automate-schema-markup-for-ai-citations.md)
 - [Met welke tools monitor je merkvermeldingen in AI-generated answers?](https://content.trackbase.ai/nl/blog/what-tools-can-monitor-mentions-of-my-brand-in-ai-generated-answers.md)
 - [Ahrefs, SEMrush en Moz vs. een dedicated AI-visibilityplatform: Waarom AI-modellen ze nog steeds aanbevelen](https://content.trackbase.ai/nl/blog/ahrefs-semrush-moz-vs-dedicated-ai-visibility-platform.md)
 - [Hoe beïnvloed je als merk de aanbevelingen van AI-assistants?](https://content.trackbase.ai/nl/blog/how-can-brands-influence-ai-recommendations.md)
+- [Welke software helpt je rankings in AI-zoekmachines te tracken?](https://content.trackbase.ai/nl/blog/best-software-to-track-rankings-in-ai-search-engines.md)
 - [Zo gebruik je de Trackbase MCP in Claude: 12 workflows met prompts om te kopiëren](https://content.trackbase.ai/nl/blog/how-to-use-the-trackbase-mcp-in-claude.md)
 - [De beste AI visibility tools voor marketeers: dit telt echt](https://content.trackbase.ai/nl/blog/best-ai-visibility-tools-for-marketers-what-actually-matters.md)
 - [Semrush en HubSpot of een dedicated AI visibility platform: wat heb je nodig?](https://content.trackbase.ai/nl/blog/semrush-hubspot-vs-dedicated-ai-visibility-platform.md)

@@ -1,0 +1,23 @@
+{
+  "slug": "how-to-automate-schema-markup-for-ai-citations",
+  "title": "How to Automate Schema Markup So AI Assistants Cite You",
+  "titleNl": "Schema markup automatiseren zodat AI-assistenten je citeren",
+  "description": "Hand-written schema drifts out of date within months. Here is how to generate JSON-LD from your CMS, product and author data, keep it valid, and measure whether AI models actually cite the pages.",
+  "descriptionNl": "Handgeschreven schema loopt binnen maanden achter. Zo genereer je JSON-LD uit je CMS-, product- en auteursdata, houd je het geldig en meet je of AI-modellen de pagina's echt citeren.",
+  "seoTitle": "How to Automate Schema Markup for AI Citations",
+  "seoTitleNl": "Schema markup automatiseren voor AI-citaties",
+  "seoDescription": "Automate JSON-LD from your CMS, product and author data so ChatGPT, Perplexity and Gemini can read, trust and cite your pages. Types, workflow and measurement.",
+  "seoDescriptionNl": "Automatiseer JSON-LD uit je CMS-, product- en auteursdata zodat ChatGPT, Perplexity en Gemini je pagina's lezen, vertrouwen en citeren. Types, workflow en meting.",
+  "author": "levi-bouman",
+  "date": "2026-10-22",
+  "contentMarkdownFile": "how-to-automate-schema-markup-for-ai-citations.en.md",
+  "contentMarkdownNlFile": "how-to-automate-schema-markup-for-ai-citations.nl.md",
+  "image": "https://content.trackbase.ai/og/how-to-automate-schema-markup-for-ai-citations.png",
+  "imageAlt": "How to Automate Schema Markup So AI Assistants Cite You, Trackbase blog",
+  "sources": [
+    "Trackbase sources intelligence, 30 days to 2026-10-22: prompt 'How can I automate schema markup to increase chances of being cited by AI assistants?' (70 sources, trackbase.ai not cited)",
+    "https://www.stackmatix.com/blog/structured-data-ai-search",
+    "https://topslot.ai/blog/schema-markup-for-ai",
+    "https://grandranker.com/blog/how-to-get-cited-by-ai-assistants"
+  ]
+}

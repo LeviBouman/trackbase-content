@@ -3,7 +3,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { getFramer, IDS, getNlLocale, getBlogItemNl, setBlogItemNl, switchToBranch, sleep, wordCount } from "./lib/framer.mjs";
+import { getFramer, IDS, getNlLocale, getBlogItemNl, setBlogItemNl, switchToBranch, sleep, wordCount, sameContent } from "./lib/framer.mjs";
 import { loadDraft, applyGlossary, validatePost } from "./lib/draft.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -35,6 +35,20 @@ console.log("glossary links:", JSON.stringify(report));
 
 const authorId = IDS.authors[post.author];
 if (!authorId) throw new Error(`unknown author slug: ${post.author}`);
+
+// Image: Framer fetches image URLs itself, which fails while content.trackbase.ai is not yet
+// reachable. If the OG card exists locally (og/<slug>.png) upload the bytes directly instead.
+let imageValue = post.image;
+const localOg = path.join(ROOT, "og", `${post.slug}.png`);
+if (fs.existsSync(localOg) && !dryRun) {
+  const asset = await framer.uploadImage({
+    image: { bytes: new Uint8Array(fs.readFileSync(localOg)), mimeType: "image/png" },
+    name: `${post.slug}.png`,
+    altText: post.imageAlt,
+  });
+  imageValue = asset.url;
+  console.log("uploaded OG card ->", imageValue);
+}
 const F = IDS.blogFields;
 const loc = (v) => (v ? { [nl.id]: { action: "set", value: v } } : undefined);
 
@@ -42,7 +56,7 @@ const fieldData = {
   [F.title]: { type: "string", value: post.title, valueByLocale: loc(post.titleNl) },
   [F.category]: { type: "collectionReference", value: IDS.categoryAiVisibility },
   [F.date]: { type: "date", value: post.date },
-  [F.mainImage]: { type: "image", value: post.image, alt: post.imageAlt },
+  [F.mainImage]: { type: "image", value: imageValue, alt: post.imageAlt },
   [F.shortDescription]: { type: "string", value: post.description, valueByLocale: loc(post.descriptionNl) },
   [F.content]: { type: "formattedText", value: contentHtml, valueByLocale: loc(contentHtmlNl) },
   [F.author1]: { type: "collectionReference", value: authorId },
@@ -68,7 +82,7 @@ await sleep(10000);
 item = (await blog.getItems()).find((i) => i.slug === post.slug);
 const got = await getBlogItemNl(framer, item, nl.id);
 const want = { title: post.titleNl, shortDescription: post.descriptionNl, content: contentHtmlNl, seoTitle: post.seoTitleNl, seoDescription: post.seoDescriptionNl };
-const diff = Object.entries(want).filter(([k, v]) => v && got?.[k] !== v).map(([k]) => k);
+const diff = Object.entries(want).filter(([k, v]) => v && !sameContent(got?.[k], v)).map(([k]) => k);
 if (diff.length) {
   console.log("NL values changed by auto-translate, re-setting:", diff.join(", "));
   const ok = await setBlogItemNl(framer, item, nl.id, want);

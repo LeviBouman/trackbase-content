@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026
 alternate_markdown: https://content.trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md
 date_published: 2026-06-05
+date_modified: 2026-06-05
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > Your customers aren’t just asking ChatGPT anymore. They’re asking Claude, Perplexity, Gemini, Grok and a growing list of AI engines that all generate answers differently.
 
-*By Levi Bouman · Published 2026-06-05 · Original article: https://trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026*
+*By Levi Bouman · Published 2026-06-05 · Updated 2026-06-05 · Original article: https://trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026*
 
 Your customers aren’t just asking ChatGPT anymore. They’re asking Claude, Perplexity, Gemini, Grok and a growing list of AI engines that all generate answers differently. To get a real view of your AI visibility, you need to track them all. This starts with understanding [how these models decide](https://trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend) which brands to surface. Trackbase monitors the 11 most relevant platforms in the market today. Here’s what each one does and why it matters.
 

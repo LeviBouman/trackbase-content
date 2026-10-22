@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters
 alternate_markdown: https://content.trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters.md
 date_published: 2026-05-30
+date_modified: 2026-05-30
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 1
 
 > Millions of people now skip Google and go straight to ChatGPT, Gemini, or Perplexity when they want a recommendation.
 
-*By Levi Bouman · Published 2026-05-30 · Original article: https://trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters*
+*By Levi Bouman · Published 2026-05-30 · Updated 2026-05-30 · Original article: https://trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters*
 
 Millions of people now skip Google and go straight to ChatGPT, Gemini, or Perplexity when they want a recommendation. If your brand isn’t showing up in those answers, you’re losing customers you never even knew were looking.
 

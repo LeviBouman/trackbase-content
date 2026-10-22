@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different
 alternate_markdown: https://content.trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md
 date_published: 2026-06-11
+date_modified: 2026-06-11
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > Most AI-tracking tools count mentions. Trackbase measures something more useful: a Visibility Score that combines presence, positioning, frequency, sentiment and competitive performance into one number you can act on.
 
-*By Levi Bouman · Published 2026-06-11 · Original article: https://trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different*
+*By Levi Bouman · Published 2026-06-11 · Updated 2026-06-11 · Original article: https://trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different*
 
 Most AI-tracking tools count mentions. Trackbase measures something more useful: a Visibility Score that combines presence, positioning, frequency, sentiment and competitive performance into one number you can act on. Here’s how it works and why it tells you more than a simple mention count.
 

@@ -140,7 +140,7 @@ export async function setBlogItemNl(framer, item, nlLocaleId, values, { retries 
       const src = (group.sources || []).find((s) => s.value === en && s.type === type);
       if (!src) { pending++; continue; }
       const current = src.valueByLocale?.[nlLocaleId]?.value;
-      if (current === nl) continue;
+      if (sameContent(current, nl)) continue;
       await framer.setLocalizationData({
         update: { [src.id]: { [nlLocaleId]: { action: "set", value: nl } } },
       });
@@ -152,7 +152,7 @@ export async function setBlogItemNl(framer, item, nlLocaleId, values, { retries 
     const g2 = check.find((g) => (g.id && g.id.includes(item.id)) || g.name === item.slug);
     const wrong = pairs.filter(([en, nl, type]) => {
       const src = (g2?.sources || []).find((s) => s.value === en && s.type === type);
-      return src && src.valueByLocale?.[nlLocaleId]?.value !== nl;
+      return src && !sameContent(src.valueByLocale?.[nlLocaleId]?.value, nl);
     });
     if (wrong.length === 0 && pending === 0) return true;
     if (attempt === retries) {
@@ -160,6 +160,12 @@ export async function setBlogItemNl(framer, item, nlLocaleId, values, { retries 
       return false;
     }
   }
+}
+
+/** Framer normalizes stored HTML (adds dir="auto", reorders attributes), so compare text content only. */
+export function sameContent(a, b) {
+  if (a == null || b == null) return a == b;
+  return stripHtml(a) === stripHtml(b);
 }
 
 export async function getEmployees(framer) {

@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice
 alternate_markdown: https://content.trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice.md
 date_published: 2026-07-29
+date_modified: 2026-07-29
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 3
 
 > AI Share of Voice tells you who is winning the market conversation inside ChatGPT and Gemini. The formula, the benchmarks and the four moves that improve it.
 
-*By Levi Bouman · Published 2026-07-29 · Original article: https://trackbase.ai/blog/how-to-measure-ai-share-of-voice*
+*By Levi Bouman · Published 2026-07-29 · Updated 2026-07-29 · Original article: https://trackbase.ai/blog/how-to-measure-ai-share-of-voice*
 
 Your Visibility Score tells you whether AI models mention you. Share of Voice tells you who is winning. It is the single best metric for the competitive question, because it forces every mention into context: being named five times means something completely different in a market where the leader is named fifty times versus eight.
 
@@ -36,71 +37,12 @@ The formula:
 
 ## How is Share of Voice different from mentions, citations and visibility?
 
-|
-Metric
-
- |
-
-What it counts
-
- |
-
-What it answers
-
- |
+| Metric | What it counts | What it answers |
 | --- | --- | --- |
-|
-
-Mention
-
- |
-
-Your brand named in an answer
-
- |
-
-Am I present?
-
- |
-|
-
-Citation
-
- |
-
-Your site linked as a source
-
- |
-
-Does the model use my content?
-
- |
-|
-
-[Visibility Score](https://trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different)
-
- |
-
-Share of prompts where you appear
-
- |
-
-How broad is my presence?
-
- |
-|
-
-Share of Voice
-
- |
-
-Your mentions versus everyone else\\u2019s
-
- |
-
-Am I winning the market conversation?
-
- |
+| Mention | Your brand named in an answer | Am I present? |
+| Citation | Your site linked as a source | Does the model use my content? |
+| [Visibility Score](https://trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different) | Share of prompts where you appear | How broad is my presence? |
+| Share of Voice | Your mentions versus everyone else\\u2019s | Am I winning the market conversation? |
 
 Teams that track only their own mentions routinely misread their situation. Mentions can rise while Share of Voice falls, which means the market conversation is growing faster than your part of it. That combination looks like progress and is actually erosion.
 

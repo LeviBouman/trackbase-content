@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters
 alternate_markdown: https://content.trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters.md
 date_published: 2026-05-30
+date_modified: 2026-05-30
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 1
 
 > Miljoenen mensen skippen Google tegenwoordig. Ze gaan direct naar ChatGPT, Gemini of Perplexity als ze een aanbeveling zoeken.
 
-*Door Levi Bouman · Gepubliceerd 2026-05-30 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters*
+*Door Levi Bouman · Gepubliceerd 2026-05-30 · Bijgewerkt 2026-05-30 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters*
 
 Miljoenen mensen slaan Google tegenwoordig over en gaan direct naar ChatGPT, Gemini of Perplexity voor aanbevelingen. Als je merk niet in die antwoorden verschijnt, verlies je klanten waarvan je niet eens wist dat ze rechten.
 

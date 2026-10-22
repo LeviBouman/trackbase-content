@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/how-do-i-compare-ai-visibility-against-competitors
 alternate_markdown: https://content.trackbase.ai/nl/blog/how-do-i-compare-ai-visibility-against-competitors.md
 date_published: 2026-09-08
+date_modified: 2026-09-08
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > Comparing AI visibility to competitors takes more than one lucky ChatGPT answer. Here is how to measure Share of Voice, position and sentiment gaps properly.
 
-*By Bodrik Bakker · Published 2026-09-08 · Original article: https://trackbase.ai/blog/how-do-i-compare-ai-visibility-against-competitors*
+*By Bodrik Bakker · Published 2026-09-08 · Updated 2026-09-08 · Original article: https://trackbase.ai/blog/how-do-i-compare-ai-visibility-against-competitors*
 
 You already know your competitors exist. What you probably do not know is which of them AI models quietly favor every time a buyer asks a category question instead of your brand name. **That gap only becomes visible once you measure it side by side, not one brand at a time.**
 

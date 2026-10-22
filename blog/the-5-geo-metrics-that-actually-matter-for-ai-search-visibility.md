@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/the-5-geo-metrics-that-actually-matter-for-ai-search-visibility
 alternate_markdown: https://content.trackbase.ai/nl/blog/the-5-geo-metrics-that-actually-matter-for-ai-search-visibility.md
 date_published: 2026-09-10
+date_modified: 2026-09-10
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > Visibility Score, Share of Voice, citations, sentiment and position: the five metrics that show whether your GEO strategy is actually working.
 
-*By Levi Bouman · Published 2026-09-10 · Original article: https://trackbase.ai/blog/the-5-geo-metrics-that-actually-matter-for-ai-search-visibility*
+*By Levi Bouman · Published 2026-09-10 · Updated 2026-09-10 · Original article: https://trackbase.ai/blog/the-5-geo-metrics-that-actually-matter-for-ai-search-visibility*
 
 Traditional SEO metrics answer a simple question: did you rank. Generative Engine Optimization needs a different scoreboard, because the outcome you care about is not a ranking position, it is whether an AI model chose to mention you, cite you, and describe you well when a buyer asked.
 

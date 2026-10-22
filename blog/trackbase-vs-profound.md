@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/trackbase-vs-profound
 alternate_markdown: https://content.trackbase.ai/nl/blog/trackbase-vs-profound.md
 date_published: 2026-07-11
+date_modified: 2026-07-11
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > An honest comparison between Trackbase and Profound: model coverage, pricing, shopping tracking and who each platform is actually for.
 
-*By Bodrik Bakker · Published 2026-07-11 · Original article: https://trackbase.ai/blog/trackbase-vs-profound*
+*By Bodrik Bakker · Published 2026-07-11 · Updated 2026-07-11 · Original article: https://trackbase.ai/blog/trackbase-vs-profound*
 
 We are Trackbase, so you know which side of this comparison we are on. We wrote it anyway because the question lands in our inbox weekly, and because the honest answer is not "always us". Profound is a good product for a specific type of buyer. This page exists to help you figure out quickly which type you are.
 
@@ -30,200 +31,22 @@ We are Trackbase, so you know which side of this comparison we are on. We wrote 
 
 ## Side by side
 
-|
-
- |
-
-Trackbase
-
- |
-
-Profound
-
- |
+|  | Trackbase | Profound |
 | --- | --- | --- |
-|
-
-[AI models](https://trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026) tracked
-
- |
-
-11 (incl. AI Overview, AI Mode, Copilot)
-
- |
-
-Major models (~6)
-
- |
-|
-
-Refresh
-
- |
-
-Daily
-
- |
-
-Daily on major plans
-
- |
-|
-
-Visibility Score / [Share of Voice](https://trackbase.ai/blog/how-to-measure-ai-share-of-voice)
-
- |
-
-Yes
-
- |
-
-Yes
-
- |
-|
-
-[Sentiment analysis](https://trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins)
-
- |
-
-Yes
-
- |
-
-Yes
-
- |
-|
-
-Cited source analysis
-
- |
-
-Yes
-
- |
-
-Yes
-
- |
-|
-
-Conversation volume data
-
- |
-
-No
-
- |
-
-Yes
-
- |
-|
-
-Agent analytics
-
- |
-
-No
-
- |
-
-Yes
-
- |
-|
-
-AI [crawler analytics](https://trackbase.ai/features/crawler-analytics) (server-side)
-
- |
-
-Yes
-
- |
-
-Limited
-
- |
-|
-
-[ChatGPT Shopping](https://trackbase.ai/features/chatgpt-shopping) tracking
-
- |
-
-Yes
-
- |
-
-No
-
- |
-|
-
-Prioritized [recommendations](https://trackbase.ai/blog/how-ai-assistants-decide-which-brands-to-recommend)
-
- |
-
-Yes, with impact scores
-
- |
-
-Yes
-
- |
-|
-
-White-label / multi-brand
-
- |
-
-Yes (Enterprise/Agency plan)
-
- |
-
-Enterprise
-
- |
-|
-
-Data hosting
-
- |
-
-EU
-
- |
-
-US
-
- |
-|
-
-Pricing
-
- |
-
-[From €49](https://trackbase.ai/pricing)/mo, public
-
- |
-
-Custom quote
-
- |
-|
-
-Free trial
-
- |
-
-14 days, no credit card
-
- |
-
-Demo-led
-
- |
+| [AI models](https://trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026) tracked | 11 (incl. AI Overview, AI Mode, Copilot) | Major models (~6) |
+| Refresh | Daily | Daily on major plans |
+| Visibility Score / [Share of Voice](https://trackbase.ai/blog/how-to-measure-ai-share-of-voice) | Yes | Yes |
+| [Sentiment analysis](https://trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins) | Yes | Yes |
+| Cited source analysis | Yes | Yes |
+| Conversation volume data | No | Yes |
+| Agent analytics | No | Yes |
+| AI [crawler analytics](https://trackbase.ai/features/crawler-analytics) (server-side) | Yes | Limited |
+| [ChatGPT Shopping](https://trackbase.ai/features/chatgpt-shopping) tracking | Yes | No |
+| Prioritized [recommendations](https://trackbase.ai/blog/how-ai-assistants-decide-which-brands-to-recommend) | Yes, with impact scores | Yes |
+| White-label / multi-brand | Yes (Enterprise/Agency plan) | Enterprise |
+| Data hosting | EU | US |
+| Pricing | [From €49](https://trackbase.ai/pricing)/mo, public | Custom quote |
+| Free trial | 14 days, no credit card | Demo-led |
 
 *Comparison based on public documentation and customer feedback, July 2026. Spot something outdated? Email hello@*[*trackbase*](https://trackbase.ai/features)*.ai and we will correct it.*
 

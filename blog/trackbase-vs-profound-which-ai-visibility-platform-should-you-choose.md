@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/trackbase-vs-profound-which-ai-visibility-platform-should-you-choose
 alternate_markdown: https://content.trackbase.ai/nl/blog/trackbase-vs-profound-which-ai-visibility-platform-should-you-choose.md
 date_published: 2026-09-10
+date_modified: 2026-09-10
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 3
 
 > Comparing Trackbase and Profound for AI visibility tracking: pricing, competitor analysis, sentiment and which platform fits smaller teams and agencies best.
 
-*By Bodrik Bakker · Published 2026-09-10 · Original article: https://trackbase.ai/blog/trackbase-vs-profound-which-ai-visibility-platform-should-you-choose*
+*By Bodrik Bakker · Published 2026-09-10 · Updated 2026-09-10 · Original article: https://trackbase.ai/blog/trackbase-vs-profound-which-ai-visibility-platform-should-you-choose*
 
 If you have started shopping for an AI visibility platform, you have almost certainly landed on a page comparing tools to Profound. It is the name most enterprise buyers hear first, and its pricing and reporting-first model shape how the whole category gets evaluated.
 

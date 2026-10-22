@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand
 alternate_markdown: https://content.trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand.md
 date_published: 2026-07-23
+date_modified: 2026-07-23
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > AI-modellen verspreiden achterhaalde feiten, verzinsels en verwarring over merken. Onze source-first aanpak spoort deze fouten op, lost ze op en valideert de verbetering.
 
-*Door Levi Bouman · Gepubliceerd 2026-07-23 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand*
+*Door Levi Bouman · Gepubliceerd 2026-07-23 · Bijgewerkt 2026-07-23 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand*
 
 Een AI-model vertelde een prospect dat je niet exact de service aanbiedt waarin je gespecialiseerd bent. Een ander model raadde een concurrent aan en gaf je prijzen verkeerd weer. Als je dit hebt meegemaakt, ken je dat vreemde gevoel van machteloosheid: er is geen helpdesk voor de antwoorden van ChatGPT. Er is echter wel een stappenplan om dit op te lossen, en we lopen er in dit artikel doorheen.
 

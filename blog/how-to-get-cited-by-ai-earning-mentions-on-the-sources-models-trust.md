@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust
 alternate_markdown: https://content.trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust.md
 date_published: 2026-07-05
+date_modified: 2026-07-05
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > Changing how AI talks about your brand starts outside your own website: independent citations weigh far more than your own marketing. Here is how to earn them.
 
-*By Levi Bouman · Published 2026-07-05 · Original article: https://trackbase.ai/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust*
+*By Levi Bouman · Published 2026-07-05 · Updated 2026-07-05 · Original article: https://trackbase.ai/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust*
 
 The fastest way to change how AI talks about your brand usually is not on your own website. It is everywhere else. A [citation, where the model uses you as a source](https://trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility), carries more weight than any line you write about yourself, because [AI models weight independent mentions](https://trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend) far above your own marketing copy.
 

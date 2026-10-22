@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins
 alternate_markdown: https://content.trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins.md
 date_published: 2026-06-26
+date_modified: 2026-06-26
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > Two brands appear in the same ChatGPT answer. One is described as a solid, well-reviewed option that teams trust. The other is listed as an option, though the model adds that some users report slow support. Both were mentioned. Only one is getting the click.
 
-*By Bodrik Bakker · Published 2026-06-26 · Original article: https://trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins*
+*By Bodrik Bakker · Published 2026-06-26 · Updated 2026-06-26 · Original article: https://trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins*
 
 Two brands appear in the same ChatGPT answer. One is described as a solid, well-reviewed option that teams trust. The other is listed as an option, though the model adds that some users report slow support. Both were mentioned. Only one is getting the click.
 

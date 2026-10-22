@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/ai-visibility-vs-seo
 alternate_markdown: https://content.trackbase.ai/blog/ai-visibility-vs-seo.md
 date_published: 2026-08-01
+date_modified: 2026-08-01
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > SEO rankt pagina's, AI-modellen bevelen merken aan. Ontdek de vijf structurele verschillen, de koppeling tussen beide statistieken en waarom je ze nog steeds allebei nodig hebt.
 
-*Door Bodrik Bakker · Gepubliceerd 2026-08-01 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/ai-visibility-vs-seo*
+*Door Bodrik Bakker · Gepubliceerd 2026-08-01 · Bijgewerkt 2026-08-01 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/ai-visibility-vs-seo*
 
 SEO zorgt dat je in een lijst met links verschijnt. AI visibility zorgt dat je merk genoemd wordt in een antwoord. Hoewel de basis voor circa zeventig procent hetzelfde is, verschilt de definitie van succes compleet. De meeste teams zijn momenteel nog ingericht, beoordeeld en gefinancierd op slechts één van de twee.
 
@@ -54,69 +55,14 @@ Zoekresultaten worden continu bijgewerkt zodra pagina's opnieuw gecrawld worden.
 
 ## Hoe vertalen de metrics zich?
 
-|
-SEO-metric
-
- |
-
-AI visibility-equivalent
-
- |
+| SEO-metric | AI visibility-equivalent |
 | --- | --- |
-|
-
-Keywordposities
-
- |
-
-Zichtbaarheid op categorie-prompts
-
- |
-|
-
-Organisch verkeer
-
- |
-
-Vermeldingen en AI-referralverkeer
-
- |
-|
-
-Backlinks
-
- |
-
-Citaten van je domein in antwoorden
-
- |
-|
-
-Search-aandeel
-
- |
-
-[Share of Voice](https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice) in AI-antwoorden
-
- |
-|
-
-Gewonnen SERP-features
-
- |
-
-Positie in aanbevelingslijsten
-
- |
-|
-
-Crawl-statistieken
-
- |
-
-AI-crawlerbezoeken (server-side)
-
- |
+| Keywordposities | Zichtbaarheid op categorie-prompts |
+| Organisch verkeer | Vermeldingen en AI-referralverkeer |
+| Backlinks | Citaten van je domein in antwoorden |
+| Search-aandeel | [Share of Voice](https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice) in AI-antwoorden |
+| Gewonnen SERP-features | Positie in aanbevelingslijsten |
+| Crawl-statistieken | AI-crawlerbezoeken (server-side) |
 
 De formules waar de meeste teams mee werken: zichtbaarheid = (prompts met jouw merk ÷ [gevolgde prompts](https://trackbase.ai/nl/features/prompt-tracking)) × 100, en Share of Voice = (jouw vermeldingen ÷ alle merkvermeldingen) × 100.
 

@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/ai-search-engines-are-becoming-purchase-channels-why-your-brand-needs-visibility-now
 alternate_markdown: https://content.trackbase.ai/blog/ai-search-engines-are-becoming-purchase-channels-why-your-brand-needs-visibility-now.md
 date_published: 2026-09-04
+date_modified: 2026-09-04
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > Steeds meer mensen typen hun aankoopvragen niet meer in Google, maar in ChatGPT, Claude of Perplexity. Nieuw branche-onderzoek laat zien hoe snel dat gedrag verandert, en wat dat betekent voor merken die afhankelijk zijn van online vindbaarheid.
 
-*Door Bodrik Bakker · Gepubliceerd 2026-09-04 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/ai-search-engines-are-becoming-purchase-channels-why-your-brand-needs-visibility-now*
+*Door Bodrik Bakker · Gepubliceerd 2026-09-04 · Bijgewerkt 2026-09-04 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/ai-search-engines-are-becoming-purchase-channels-why-your-brand-needs-visibility-now*
 
 Steeds meer mensen typen hun aankoopvragen niet meer in Google, maar in ChatGPT, Claude of Perplexity. Nieuw branche-onderzoek laat zien hoe snel dat gedrag verandert, en wat dat betekent voor merken die afhankelijk zijn van online vindbaarheid.
 

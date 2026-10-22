@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend
 alternate_markdown: https://content.trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend.md
 date_published: 2026-07-26
+date_modified: 2026-07-26
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > Training data, live retrieval, authority and consensus: the four forces behind every AI brand recommendation, and which lever to pull for each.
 
-*By Levi Bouman · Published 2026-07-26 · Original article: https://trackbase.ai/blog/how-ai-assistants-decide-which-brands-to-recommend*
+*By Levi Bouman · Published 2026-07-26 · Updated 2026-07-26 · Original article: https://trackbase.ai/blog/how-ai-assistants-decide-which-brands-to-recommend*
 
 When ChatGPT recommends a brand, it is not consulting a ranking or taking payment. It is predicting, word by word, what a good answer looks like based on everything it has read. Understanding that mechanism is the difference between guessing at AI visibility and working on it deliberately. There are four forces at play, and each one responds to different work.
 
@@ -52,97 +53,14 @@ There is a compounding effect hiding in this: brands that AI recommends get writ
 
 ## Different platforms weigh these forces differently
 
-|
-Platform
-
- |
-
-Primary basis
-
- |
-
-What that means for you
-
- |
+| Platform | Primary basis | What that means for you |
 | --- | --- | --- |
-|
-
-[ChatGPT](https://trackbase.ai/blog/track-what-chatgpt-says-about-your-company)
-
- |
-
-Training data, browsing for current topics
-
- |
-
-Long-term footprint matters most; recent sources for news-like queries
-
- |
-|
-
-Perplexity
-
- |
-
-Live search with [citations](https://trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility)
-
- |
-
-The fast lane: publish citable answers and appear within weeks
-
- |
-|
-
-Google AI Overview / AI Mode
-
- |
-
-Google index and ranking signals
-
- |
-
-[Classic SEO](https://trackbase.ai/blog/ai-visibility-vs-seo) strength carries over directly
-
- |
-|
-
-Gemini
-
- |
-
-Google infrastructure plus training data
-
- |
-
-Similar to above, with a heavier model-memory component
-
- |
-|
-
-Copilot
-
- |
-
-Bing index
-
- |
-
-The most neglected channel; Bing Webmaster Tools is the entry ticket
-
- |
-|
-
-Claude
-
- |
-
-Training data, cautious tone
-
- |
-
-Consensus sensitivity is highest; inconsistent sources produce hedged answers
-
- |
+| [ChatGPT](https://trackbase.ai/blog/track-what-chatgpt-says-about-your-company) | Training data, browsing for current topics | Long-term footprint matters most; recent sources for news-like queries |
+| Perplexity | Live search with [citations](https://trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility) | The fast lane: publish citable answers and appear within weeks |
+| Google AI Overview / AI Mode | Google index and ranking signals | [Classic SEO](https://trackbase.ai/blog/ai-visibility-vs-seo) strength carries over directly |
+| Gemini | Google infrastructure plus training data | Similar to above, with a heavier model-memory component |
+| Copilot | Bing index | The most neglected channel; Bing Webmaster Tools is the entry ticket |
+| Claude | Training data, cautious tone | Consensus sensitivity is highest; inconsistent sources produce hedged answers |
 
 ## Query intent changes which brands surface
 

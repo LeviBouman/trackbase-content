@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different
 alternate_markdown: https://content.trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md
 date_published: 2026-06-11
+date_modified: 2026-06-11
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > De meeste AI-trackingtools tellen alleen vermeldingen. Trackbase meet wat er écht toe doet: een Visibility Score. Eén helder getal dat je aanwezigheid, positie, frequentie, sentiment én prestaties ten opzichte van concurrenten samenbrengt in direct actie op te ondernemen.
 
-*Door Levi Bouman · Gepubliceerd 2026-06-11 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different*
+*Door Levi Bouman · Gepubliceerd 2026-06-11 · Bijgewerkt 2026-06-11 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different*
 
 De meeste AI-trackingtools tellen alleen vermeldingen. Trackbase meet iets wat veel waardevoller is: een Visibility Score die aanwezigheid, positionering, frequentie, sentiment en prestaties ten opzichte van concurrenten combineert in één concreet getal. Lees hier hoe het werkt en waarom dit je veel meer vertelt dan een simpele som van vermeldingen.
 

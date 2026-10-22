@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service
 alternate_markdown: https://content.trackbase.ai/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service.md
 date_published: 2026-07-08
+date_modified: 2026-07-08
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 2
 
 > Klanten gaan vragen waarom ChatGPT hen niet aanbeveelt. Zo bied je als agency AI visibility en GEO tracking aan als terugkerende dienst.
 
-*Door Bodrik Bakker · Gepubliceerd 2026-07-08 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service*
+*Door Bodrik Bakker · Gepubliceerd 2026-07-08 · Bijgewerkt 2026-07-08 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service*
 
 Je klanten gaan binnenkort vragen waarom ze niet verschijnen als iemand ChatGPT vraagt naar de beste aanbieder in hun categorie. Bureaus met een duidelijk antwoord én een passend aanbod winnen deze gesprekken. Wie zijn schouders ophaalt, verliest zijn klanten aan bureaus die dat niet doen.
 

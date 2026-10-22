@@ -8,6 +8,7 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/ai-visibility-content-gap-analysis
 alternate_markdown: https://content.trackbase.ai/nl/blog/ai-visibility-content-gap-analysis.md
 date_published: 2026-08-07
+date_modified: 2026-08-07
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 3
 
 > Find the prompts your brand is losing because the winning content is not yours. A timed four-step process, from prompt list to ranked build list.
 
-*By Levi Bouman · Published 2026-08-07 · Original article: https://trackbase.ai/blog/ai-visibility-content-gap-analysis*
+*By Levi Bouman · Published 2026-08-07 · Updated 2026-08-07 · Original article: https://trackbase.ai/blog/ai-visibility-content-gap-analysis*
 
 A content gap analysis for AI visibility answers one question: which prompts is your brand losing because the content that would win them does not exist on your domain? You can find the top of that list in half an hour. This is the clock-on-the-wall version.
 

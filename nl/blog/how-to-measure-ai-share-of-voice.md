@@ -8,6 +8,7 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/how-to-measure-ai-share-of-voice
 alternate_markdown: https://content.trackbase.ai/blog/how-to-measure-ai-share-of-voice.md
 date_published: 2026-07-29
+date_modified: 2026-07-29
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
@@ -22,7 +23,7 @@ reading_time_minutes: 4
 
 > Ontdek wie het gesprek domineert in ChatGPT en Gemini met AI Share of Voice. Dit is de formule, de benchmarks en vier stappen om je positie te verbeteren.
 
-*Door Levi Bouman · Gepubliceerd 2026-07-29 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice*
+*Door Levi Bouman · Gepubliceerd 2026-07-29 · Bijgewerkt 2026-07-29 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice*
 
 Je Visibility Score laat zien of AI-modellen je noemen. Share of Voice laat zien wie er wint. Het is de allerbeste maatstaf voor concurrentieanalyse, omdat het elke vermelding in de juiste context plaatst. Vijf keer genoemd worden betekent immers iets heel anders in een markt waar de koploper vijftig keer wordt genoemd, dan in een markt waar diegene er maar acht krijgt.
 
@@ -36,71 +37,12 @@ De formule:
 
 ## Wat is het verschil tussen Share of Voice, vermeldingen, citaten en visibility?
 
-|
-Metric
-
- |
-
-Wat wordt er geteld?
-
- |
-
-Welke vraag beantwoordt het?
-
- |
+| Metric | Wat wordt er geteld? | Welke vraag beantwoordt het? |
 | --- | --- | --- |
-|
-
-Vermelding (mention)
-
- |
-
-Je merknaam in een antwoord
-
- |
-
-Ben ik aanwezig?
-
- |
-|
-
-Citaat (citation)
-
- |
-
-Een link naar je site als bron
-
- |
-
-Gebruikt het model mijn content?
-
- |
-|
-
-[Visibility Score](https://trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different)
-
- |
-
-Het aandeel [prompts](https://trackbase.ai/nl/features/prompt-tracking) waarin je verschijnt
-
- |
-
-Hoe breed is mijn aanwezigheid?
-
- |
-|
-
-Share of Voice
-
- |
-
-Jouw vermeldingen versus die van de rest
-
- |
-
-Domineer ik het gesprek in de markt?
-
- |
+| Vermelding (mention) | Je merknaam in een antwoord | Ben ik aanwezig? |
+| Citaat (citation) | Een link naar je site als bron | Gebruikt het model mijn content? |
+| [Visibility Score](https://trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different) | Het aandeel [prompts](https://trackbase.ai/nl/features/prompt-tracking) waarin je verschijnt | Hoe breed is mijn aanwezigheid? |
+| Share of Voice | Jouw vermeldingen versus die van de rest | Domineer ik het gesprek in de markt? |
 
 Teams die alleen hun eigen vermeldingen bijhouden, trekken vaak de verkeerde conclusies. Je vermeldingen kunnen stijgen terwijl je Share of Voice daalt. Dat betekent dat de markt sneller groeit dan jouw aandeel daarin. Dat voelt als vooruitgang, maar is eigenlijk krimp.
 
