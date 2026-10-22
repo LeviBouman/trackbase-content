@@ -24,7 +24,7 @@ On Windows Git Bash also set `MSYS_NO_PATHCONV=1` so CMS paths like `/blog/:Blog
 | `node pipeline/export-markdown.mjs [--slug x] [--branch b]` | CMS → `blog/*.md`, `nl/blog/*.md`, `posts.json`, `index.md`, `llms.txt`, `sitemap.xml` |
 | `node pipeline/create-post.mjs --draft pipeline/drafts/<slug>.json [--branch b] [--dry-run]` | Validates a draft, links glossary terms (max 5 per language), creates the CMS item with EN + nl-NL in one call, verifies the Dutch values against auto-translate |
 | `node pipeline/refresh-post.mjs --slug <slug> --draft pipeline/drafts/<slug>.refresh.json` | Rewrites fields of an existing post and stamps `Updated` (the original `Date` stays). `--relink` only adds glossary links |
-| `python pipeline/og-card.py --slug <slug> --title "..."` | 1200×675 OG title card in the existing navy card style → `og/<slug>.png` |
+| `node pipeline/og-card.mjs --slug <slug> --title "..."` | 1200×675 OG title card in the existing navy card style → `og/<slug>.png` (`og-card.py` is the Pillow equivalent) |
 | `node pipeline/publish.mjs --verify /blog/<slug>,/nl/blog/<slug> --expect "<title>"` | Publishes **main** to production and checks that the paths answer with a full page |
 | `node pipeline/framer-setup.mjs --branch blog-pipeline --step fields\|code\|page\|all` | One-time template setup (see below). Idempotent |
 | `node pipeline/verify-template.mjs --branch b` | Lists the template nodes added by the setup and saves a canvas screenshot |

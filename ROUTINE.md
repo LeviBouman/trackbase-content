@@ -4,7 +4,7 @@ You are the content pipeline for trackbase.ai. Each run you publish ONE new, ori
 
 ## Environment
 
-- Repository: this repo (`LeviBouman/trackbase-content`). Scripts in `pipeline/` (Node 22, Python 3 with Pillow). At the start of every run: `npm --prefix pipeline ci` and `python3 -m pip install -q pillow` (skip if already installed). Use `python3` where this file says `python`. Fonts for the OG cards are bundled in `pipeline/fonts/`.
+- Repository: this repo (`LeviBouman/trackbase-content`). Scripts in `pipeline/` (Node 22 only; no Python needed). At the start of every run: `npm --prefix pipeline ci`. OG cards are rendered by `node pipeline/og-card.mjs` with the fonts bundled in `pipeline/fonts/` (`og-card.py` is a Pillow fallback for local use).
 - Secrets (environment variables, never print them): `FRAMER_PROJECT_URL`, `FRAMER_API_KEY`, `TRACKBASE_MCP_TOKEN`.
 - Trackbase MCP: configured in `.mcp.json` (tools such as `get_sources_intelligence`, `get_cited_prompts`, `list_fan_out_prompts`, `get_visibility_overview`, `list_tracked_pages`, `get_competitor_intelligence`). If the MCP tools are not available in the session, call the same tools over HTTP (JSON-RPC 2.0) and read the `structuredContent` of the result:
 
@@ -48,7 +48,7 @@ Requirements:
 ## Step 4 — Create, export, commit, publish
 
 ```
-python pipeline/og-card.py --slug <slug> --title "<title>"
+node pipeline/og-card.mjs --slug <slug> --title "<title>"
 node pipeline/create-post.mjs --draft pipeline/drafts/<slug>.json --dry-run     # fix every reported problem first
 node pipeline/create-post.mjs --draft pipeline/drafts/<slug>.json
 node pipeline/export-markdown.mjs
