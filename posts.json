@@ -1,5 +1,41 @@
 [
   {
+    "slug": "aeo-vs-geo-vs-seo-whats-the-difference",
+    "id": "N5Rfi9efK",
+    "title": "AEO vs GEO vs SEO: What’s the Difference?",
+    "titleNl": "AEO vs GEO vs SEO: wat is het verschil?",
+    "description": "SEO targets search engines, AEO targets answer engines, and GEO targets generative AI models. They overlap, but they’re not the same and treating them as one is how you end up invisible in the channels that matter most.",
+    "date": "2026-06-02",
+    "updated": "2026-10-23",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 1009,
+    "url": "https://trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference",
+    "urlNl": "https://trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference",
+    "markdown": "https://content.trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference.md",
+    "image": "https://framerusercontent.com/images/GexPRWEUHk7tvmdYkXxJWpQm9w.webp",
+    "hasNl": true
+  },
+  {
+    "slug": "how-to-track-brand-sentiment-in-dutch-ai-answers",
+    "id": "hjTypAZmu",
+    "title": "How to Track Brand Sentiment in Dutch AI Answers (2026)",
+    "titleNl": "Merksentiment volgen in Nederlandse AI-antwoorden (2026)",
+    "description": "Build a Dutch prompt set, score every AI mention with a Net Sentiment Score and find the sources that drive the tone. A practical guide for Dutch brands.",
+    "date": "2026-10-23",
+    "updated": "2026-10-23",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 1144,
+    "url": "https://trackbase.ai/blog/how-to-track-brand-sentiment-in-dutch-ai-answers",
+    "urlNl": "https://trackbase.ai/nl/blog/how-to-track-brand-sentiment-in-dutch-ai-answers",
+    "markdown": "https://content.trackbase.ai/blog/how-to-track-brand-sentiment-in-dutch-ai-answers.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/how-to-track-brand-sentiment-in-dutch-ai-answers.md",
+    "image": "https://framerusercontent.com/images/NSFf5H17zxDcdOBL8ptTlbFaw.png",
+    "hasNl": true
+  },
+  {
     "slug": "what-is-ai-visibility-and-why-it-matters",
     "id": "prvb6pjWh",
     "title": "What Is AI Visibility? And Why It Matters",
@@ -699,24 +735,6 @@
     "markdown": "https://content.trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md",
     "markdownNl": "https://content.trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md",
     "image": "https://framerusercontent.com/images/PtTAB670i9NnUPJUmQBi1JXgUM.webp",
-    "hasNl": true
-  },
-  {
-    "slug": "aeo-vs-geo-vs-seo-whats-the-difference",
-    "id": "N5Rfi9efK",
-    "title": "AEO vs GEO vs SEO: What’s the Difference?",
-    "titleNl": "AEO vs GEO vs SEO: wat is het verschil?",
-    "description": "SEO targets search engines, AEO targets answer engines, and GEO targets generative AI models. They overlap, but they’re not the same and treating them as one is how you end up invisible in the channels that matter most.",
-    "date": "2026-06-02",
-    "updated": "2026-06-02",
-    "author": "levi-bouman",
-    "category": "AI Visibility",
-    "words": 418,
-    "url": "https://trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference",
-    "urlNl": "https://trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference",
-    "markdown": "https://content.trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference.md",
-    "markdownNl": "https://content.trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference.md",
-    "image": "https://framerusercontent.com/images/GexPRWEUHk7tvmdYkXxJWpQm9w.webp",
     "hasNl": true
   }
 ]

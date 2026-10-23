@@ -8,6 +8,8 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 
 ## Articles (English)
 
+- [AEO vs GEO vs SEO: What’s the Difference?](https://content.trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference.md) · 2026-06-02 (updated 2026-10-23) · HTML: https://trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference
+- [How to Track Brand Sentiment in Dutch AI Answers (2026)](https://content.trackbase.ai/blog/how-to-track-brand-sentiment-in-dutch-ai-answers.md) · 2026-10-23 (updated 2026-10-23) · HTML: https://trackbase.ai/blog/how-to-track-brand-sentiment-in-dutch-ai-answers
 - [What Is AI Visibility? And Why It Matters](https://content.trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters.md) · 2026-05-30 (updated 2026-10-22) · HTML: https://trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters
 - [How to Automate Schema Markup So AI Assistants Cite You](https://content.trackbase.ai/blog/how-to-automate-schema-markup-for-ai-citations.md) · 2026-10-22 (updated 2026-10-22) · HTML: https://trackbase.ai/blog/how-to-automate-schema-markup-for-ai-citations
 - [Affordable AI Visibility Tools for Dutch Startups (2026)](https://content.trackbase.ai/blog/affordable-ai-visibility-tools-for-dutch-startups.md) · 2026-10-22 (updated 2026-10-22) · HTML: https://trackbase.ai/blog/affordable-ai-visibility-tools-for-dutch-startups
@@ -47,10 +49,11 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 - [How Trackbase Calculates Visibility Score & Its Differences](https://content.trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md) · 2026-06-11 (updated 2026-06-11) · HTML: https://trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different
 - [Mentions vs Citations: Why Both Matter for AI Visibility](https://content.trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md) · 2026-06-08 (updated 2026-06-08) · HTML: https://trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility
 - [Top 11 AI Platforms Every Brand Should Be Tracking in 2026](https://content.trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md) · 2026-06-05 (updated 2026-06-05) · HTML: https://trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026
-- [AEO vs GEO vs SEO: What’s the Difference?](https://content.trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference.md) · 2026-06-02 (updated 2026-06-02) · HTML: https://trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference
 
 ## Artikelen (Nederlands)
 
+- [AEO vs GEO vs SEO: wat is het verschil?](https://content.trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference.md) · 2026-06-02 (bijgewerkt 2026-10-23) · HTML: https://trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference
+- [Merksentiment volgen in Nederlandse AI-antwoorden (2026)](https://content.trackbase.ai/nl/blog/how-to-track-brand-sentiment-in-dutch-ai-answers.md) · 2026-10-23 (bijgewerkt 2026-10-23) · HTML: https://trackbase.ai/nl/blog/how-to-track-brand-sentiment-in-dutch-ai-answers
 - [Wat is AI visibility? En waarom het ertoe doet](https://content.trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters.md) · 2026-05-30 (bijgewerkt 2026-10-22) · HTML: https://trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters
 - [Schema markup automatiseren zodat AI-assistenten je citeren](https://content.trackbase.ai/nl/blog/how-to-automate-schema-markup-for-ai-citations.md) · 2026-10-22 (bijgewerkt 2026-10-22) · HTML: https://trackbase.ai/nl/blog/how-to-automate-schema-markup-for-ai-citations
 - [Betaalbare AI-zichtbaarheidstools voor Nederlandse startups (2026)](https://content.trackbase.ai/nl/blog/affordable-ai-visibility-tools-for-dutch-startups.md) · 2026-10-22 (bijgewerkt 2026-10-22) · HTML: https://trackbase.ai/nl/blog/affordable-ai-visibility-tools-for-dutch-startups
@@ -90,4 +93,3 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 - [Zo berekent Trackbase je visibility score (en dit is wat er anders is)](https://content.trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md) · 2026-06-11 (bijgewerkt 2026-06-11) · HTML: https://trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different
 - [Mentions vs. citations: waarom ze allebei tellen voor je AI-visibiliteit](https://content.trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md) · 2026-06-08 (bijgewerkt 2026-06-08) · HTML: https://trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility
 - [De 11 belangrijkste AI-platforms die je merk moet volgen in 2026](https://content.trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md) · 2026-06-05 (bijgewerkt 2026-06-05) · HTML: https://trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026
-- [AEO vs GEO vs SEO: wat is het verschil?](https://content.trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference.md) · 2026-06-02 (bijgewerkt 2026-06-02) · HTML: https://trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference

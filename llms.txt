@@ -4,6 +4,8 @@
 
 ## Articles
 
+- [AEO vs GEO vs SEO: What’s the Difference?](https://content.trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference.md): SEO targets search engines, AEO targets answer engines, and GEO targets generative AI models. They overlap, but they’re not the same and treating them as one is how you end up invisible in the channels that matter most.
+- [How to Track Brand Sentiment in Dutch AI Answers (2026)](https://content.trackbase.ai/blog/how-to-track-brand-sentiment-in-dutch-ai-answers.md): Build a Dutch prompt set, score every AI mention with a Net Sentiment Score and find the sources that drive the tone. A practical guide for Dutch brands.
 - [What Is AI Visibility? And Why It Matters](https://content.trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters.md): AI visibility is how often, how prominently and how favourably AI assistants mention your brand. Learn the four metrics, how it differs from SEO and how to start measuring.
 - [How to Automate Schema Markup So AI Assistants Cite You](https://content.trackbase.ai/blog/how-to-automate-schema-markup-for-ai-citations.md): Hand-written schema drifts out of date within months. Here is how to generate JSON-LD from your CMS, product and author data, keep it valid, and measure whether AI models actually cite the pages.
 - [Affordable AI Visibility Tools for Dutch Startups (2026)](https://content.trackbase.ai/blog/affordable-ai-visibility-tools-for-dutch-startups.md): What do AI visibility tools really cost? Compare entry prices from $20 to €199 a month and pick the plan that fits a Dutch startup's prompts, models and budget.
@@ -43,10 +45,11 @@
 - [How Trackbase Calculates Visibility Score & Its Differences](https://content.trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md): Most AI-tracking tools count mentions. Trackbase measures something more useful: a Visibility Score that combines presence, positioning, frequency, sentiment and competitive performance into one number you can act on.
 - [Mentions vs Citations: Why Both Matter for AI Visibility](https://content.trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md): In AI search, two things tell you whether a brand is winning: how often it’s mentioned, and how often it’s cited as a source. They sound similar. They’re not.
 - [Top 11 AI Platforms Every Brand Should Be Tracking in 2026](https://content.trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md): Your customers aren’t just asking ChatGPT anymore. They’re asking Claude, Perplexity, Gemini, Grok and a growing list of AI engines that all generate answers differently.
-- [AEO vs GEO vs SEO: What’s the Difference?](https://content.trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference.md): SEO targets search engines, AEO targets answer engines, and GEO targets generative AI models. They overlap, but they’re not the same and treating them as one is how you end up invisible in the channels that matter most.
 
 ## Artikelen (nl-NL)
 
+- [AEO vs GEO vs SEO: wat is het verschil?](https://content.trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference.md)
+- [Merksentiment volgen in Nederlandse AI-antwoorden (2026)](https://content.trackbase.ai/nl/blog/how-to-track-brand-sentiment-in-dutch-ai-answers.md)
 - [Wat is AI visibility? En waarom het ertoe doet](https://content.trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters.md)
 - [Schema markup automatiseren zodat AI-assistenten je citeren](https://content.trackbase.ai/nl/blog/how-to-automate-schema-markup-for-ai-citations.md)
 - [Betaalbare AI-zichtbaarheidstools voor Nederlandse startups (2026)](https://content.trackbase.ai/nl/blog/affordable-ai-visibility-tools-for-dutch-startups.md)
@@ -86,7 +89,6 @@
 - [Zo berekent Trackbase je visibility score (en dit is wat er anders is)](https://content.trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md)
 - [Mentions vs. citations: waarom ze allebei tellen voor je AI-visibiliteit](https://content.trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md)
 - [De 11 belangrijkste AI-platforms die je merk moet volgen in 2026](https://content.trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md)
-- [AEO vs GEO vs SEO: wat is het verschil?](https://content.trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference.md)
 
 ## Optional
 

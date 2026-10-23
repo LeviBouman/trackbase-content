@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://content.trackbase.ai/</loc></url>
   <url><loc>https://content.trackbase.ai/llms.txt</loc></url>
+  <url><loc>https://content.trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference.md</loc></url>
+  <url><loc>https://content.trackbase.ai/blog/how-to-track-brand-sentiment-in-dutch-ai-answers.md</loc></url>
   <url><loc>https://content.trackbase.ai/blog/what-is-ai-visibility-and-why-it-matters.md</loc></url>
   <url><loc>https://content.trackbase.ai/blog/how-to-automate-schema-markup-for-ai-citations.md</loc></url>
   <url><loc>https://content.trackbase.ai/blog/affordable-ai-visibility-tools-for-dutch-startups.md</loc></url>
@@ -41,7 +43,8 @@
   <url><loc>https://content.trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md</loc></url>
   <url><loc>https://content.trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md</loc></url>
   <url><loc>https://content.trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md</loc></url>
-  <url><loc>https://content.trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference.md</loc></url>
+  <url><loc>https://content.trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference.md</loc></url>
+  <url><loc>https://content.trackbase.ai/nl/blog/how-to-track-brand-sentiment-in-dutch-ai-answers.md</loc></url>
   <url><loc>https://content.trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters.md</loc></url>
   <url><loc>https://content.trackbase.ai/nl/blog/how-to-automate-schema-markup-for-ai-citations.md</loc></url>
   <url><loc>https://content.trackbase.ai/nl/blog/affordable-ai-visibility-tools-for-dutch-startups.md</loc></url>
@@ -81,5 +84,4 @@
   <url><loc>https://content.trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md</loc></url>
   <url><loc>https://content.trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md</loc></url>
   <url><loc>https://content.trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md</loc></url>
-  <url><loc>https://content.trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference.md</loc></url>
 </urlset>
