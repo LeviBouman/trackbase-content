@@ -8,68 +8,108 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026
 alternate_markdown: https://content.trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md
 date_published: 2026-06-05
-date_modified: 2026-06-05
+date_modified: 2026-10-24
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
 publisher_url: https://trackbase.ai
 category: "AI Visibility"
 image: https://framerusercontent.com/images/PtTAB670i9NnUPJUmQBi1JXgUM.webp
-word_count: 463
-reading_time_minutes: 2
+word_count: 878
+reading_time_minutes: 4
 ---
 
 # De 11 belangrijkste AI-platforms die je merk moet volgen in 2026
 
 > Je klanten stellen hun vragen al lang niet meer alleen aan ChatGPT. Ze gebruiken ook Claude, Perplexity, Gemini en Grok. En al die verschillende AI-engines werken net weer even anders.
 
-*Door Levi Bouman · Gepubliceerd 2026-06-05 · Bijgewerkt 2026-06-05 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026*
+*Door Levi Bouman · Gepubliceerd 2026-06-05 · Bijgewerkt 2026-10-24 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026*
 
-Je klanten stellen hun vragen allang niet meer alleen aan ChatGPT. Ze gebruiken ook Claude, Perplexity, Gemini, Grok en een groeiende lijst andere AI-engines die allemaal anders werken. Om je echte AI-zichtbaarheid te meten, moet je ze allemaal volgen. Dat begint bij snappen [hoe deze modellen bepalen](https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend) welke merken ze laten zien. Trackbase monitort de 11 belangrijkste platformen van dit moment. Dit is wat ze doen en waarom het ertoe doet.
+Elk merk zou minstens de 11 AI-platforms moeten volgen die vandaag koop- en onderzoeksvragen beantwoorden: ChatGPT, Claude, Gemini, Grok, DeepSeek, LLaMA, Mistral, Perplexity, Google AI Overviews, Google AI Mode en Copilot. Elk model gebruikt andere data, weegt bronnen anders en noemt bij dezelfde vraag andere merken, dus een resultaat op één platform zegt weinig over de rest. Hier lees je wat elk platform is, waarom het ertoe doet en hoe je bepaalt waar je begint.
 
-## Conversational AI-modellen
+## De 11 platforms in één overzicht
 
-Dit zijn de chat-first platformen waar gebruikers direct vragen aan stellen:
+| Platform | Maker | Type | Waarom het telt |
+| --- | --- | --- | --- |
+| ChatGPT | OpenAI | Chatassistent | Breedste gebruik voor consumenten en B2B-onderzoek |
+| Claude | Anthropic | Chatassistent | Sterk bij zakelijke gebruikers en ontwikkelaars |
+| Gemini | Google | Chatassistent | Bereik via Android en Workspace |
+| Grok | xAI | Chatassistent | Ingebouwd in X, sterk op actuele onderwerpen |
+| DeepSeek | DeepSeek | Open model | Technische en ontwikkelaarspubliek |
+| LLaMA | Meta | Open-weightsfamilie | Draait achter veel assistenten van derden |
+| Mistral | Mistral AI | Europees model | Privacybewuste en Europese organisaties |
+| Perplexity | Perplexity | AI-zoekmachine | Noemt standaard bronnen |
+| Google AI Overviews | Google | AI-samenvatting in zoeken | Bereikt het Google-zoekpubliek |
+| Google AI Mode | Google | Conversationeel zoeken | Zit tussen klassiek Google en Gemini |
+| Copilot | Microsoft | Assistent in Bing, Windows, Office | Standaard-AI op veel werkplekken |
 
--   **ChatGPT**: het paradepaardje van OpenAI. De meest gebruikte AI-assistent ter wereld, veelgebruikt voor B2B-onderzoek, content workflows en consumentenvragen.
+## Conversationele AI-modellen
 
--   **Claude**: het model van Anthropic, populair bij zakelijke gebruikers en ontwikkelaars. Bekend om lange, gestructureerde antwoorden en zorgvuldige bronvermelding.
+Dit zijn chatplatforms waar mensen hun vraag direct aan het model stellen.
 
--   **Gemini**: de conversational AI van Google, geïntegreerd in Workspace en Android. Heeft een enorm bereik binnen de bestaande Google-gebruikersgroep.
+-   **ChatGPT** is het vlaggenschip van OpenAI en voor de meeste merken de eerste plek om te kijken. Het wordt gebruikt voor consumentenvragen, B2B-onderzoek en contentworkflows. Het heeft ook shopping- en advertentieomgevingen, die Trackbase apart monitort.
 
--   **Grok**: het model van xAI, ingebouwd in X (Twitter). Sterk in actuele en trending vragen.
+-   **Claude** van Anthropic is populair bij zakelijke teams en ontwikkelaars en geeft vaak lange, gestructureerde antwoorden.
 
--   **DeepSeek**: een toonaangevend open model uit China, dat steeds vaker wordt gebruikt in technische en developer-contexten.
+-   **Gemini** is de assistent van Google, geïntegreerd in Android en Workspace en daardoor sterk in bereik binnen een bestaande gebruikersgroep.
 
--   **LLaMA**: de open-weights modellengroep van Meta. Drijft veel AI-assistenten van derden en zakelijke toepassingen aan.
+-   **Grok** van xAI zit in X en krijgt vaak vragen over trending en actuele onderwerpen.
 
--   **Mistral**: een Europees model dat populair is bij privacybewuste bedrijven en EU-instellingen.
+-   **DeepSeek** is een toonaangevend open model uit China dat steeds vaker in technische contexten wordt gebruikt.
 
-## AI-zoekmachines en discovery platformen
+-   **LLaMA** is de open-weightsmodelfamilie van Meta. Het draait achter veel assistenten van derden en bedrijfsimplementaties.
 
-Deze platformen combineren zoeken met AI-gegenereerde antwoorden en vermelden vaak direct de bronnen:
+-   **Mistral** is een Europees model met een achterban onder privacybewuste organisaties.
 
--   **Perplexity**: een pure AI-zoekmachine die standaard bronnen citeert. Veel gebruikt voor research-vragen.
+## AI-zoek- en ontdekplatforms
 
--   **Google AI Overviews**: de AI-samenvatting bovenaan de Google-zoekresultaten. Bereikt het complete zoekpubliek van Google.
+Deze combineren zoeken met gegenereerde antwoorden en tonen vaak hun bronnen.
 
--   **Google AI Mode**: Google's diepere conversational zoekervaring, die het gat dicht tussen het traditionele Google en Gemini.
+-   **Perplexity** is een AI-zoekmachine die standaard bronnen noemt, waardoor je goed ziet welke pagina's een antwoord bepalen.
 
--   **Copilot**: de AI-assistent van Microsoft, ingebouwd in Bing, Windows, Office en Edge. De standaard AI voor veel zakelijke gebruikers.
+-   **Google AI Overviews** is de gegenereerde samenvatting bovenaan veel Google-resultaten.
+
+-   **Google AI Mode** is een diepere conversationele zoekervaring.
+
+-   **Copilot** is de assistent van Microsoft, ingebouwd in Bing, Windows, Office en Edge. Voor zakelijke kopers is het vaak de AI die ze op het werk tot hun beschikking hebben.
 
 ## Waarom één platform volgen niet genoeg is
 
-Elk platform traint op andere data, weegt bronnen anders en toont merken op een eigen manier. Een merk dat domineert op Perplexity is misschien onzichtbaar op Gemini. En een B2B SaaS-bedrijf dat sterk scoort in [ChatGPT](https://trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company) heeft soms nul aanwezigheid op Copilot, terwijl hun zakelijke kopers juist dáár werken.
+Platforms verschillen in trainingsdata, in hoe ze bronnen ophalen en rangschikken en in hoe ze merken presenteren. Een merk dat op Perplexity als eerste wordt genoemd, kan op Gemini ontbreken. Een B2B-softwarebedrijf dat goed scoort in ChatGPT, komt misschien niet voor in Copilot, terwijl zijn zakelijke kopers de hele dag met Copilot werken. Meer over de werking lees je in [hoe AI-modellen bepalen welke merken ze aanbevelen](https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend).
 
-Alleen het platform volgen dat je zelf gebruikt? Dan mis je het grootste deel van je doelgroep.
+Alleen de assistent volgen die je zelf gebruikt, geeft een blinde vlek zo groot als je publiek. Klanten melden niet welk model ze gebruikten, dus de enige veilige aanpak is de hele set meten. Ook het [verschil tussen vermeldingen en citaties](https://trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility) pakt per platform anders uit: sommige noemen je merk zonder link, andere citeren je pagina zonder je te noemen.
 
-## Hoe Trackbase alle 11 platformen dekt
+## Hoe bepaal je waar je begint
 
-Trackbase vuurt elke 24 uur een vaste set prompts af op alle 11 de platformen. De resultaten zie je terug in één overzichtelijk platform. Hier vind je je zichtbaarheidsscore, sentiment, [share of voice](https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice) en de positie van je concurrenten, per platform én gecombineerd. Je ziet direct waar je wint, waar je laat liggen en waar je prioriteiten moeten liggen.
+Kun je niet op dag één alles volgen, houd dan deze volgorde aan:
 
-[AI-zichtbaarheid](https://trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters) draait niet om één platform. De winnende merken in 2026 volgen ChatGPT, Claude, Gemini, Perplexity en nog 7 andere platformen op één centrale plek.
+1.  **Waar je klanten al zijn.** Vraag sales en support welke assistenten klanten noemen.
 
-**Start je gratis proefperiode bij** [**Trackbase**](https://trackbase.ai/nl/features) **en ontdek waar je echt verschijnt.**
+2.  **Waar je categorie wordt beslist.** Vergelijkings- en "beste tools"-vragen worden vaak beantwoord door ChatGPT, Perplexity en de Google-omgevingen.
+
+3.  **Waar je kopers werken.** Zakelijke doelgroepen hebben vaak standaard Copilot of Gemini.
+
+4.  **Waar je bronnen ziet.** Perplexity en de Google AI-omgevingen laten het makkelijkst zien welke pagina's je moet verbeteren.
+
+Het Essential-abonnement van Trackbase monitort 3 AI-modellen en Professional alle 11. Bekijk de [prijzenpagina](https://trackbase.ai/nl/pricing) voor de actuele abonnementen en de 14 dagen gratis proef. Trackbase host de data in de EU (Nederland).
+
+## Zo dekt Trackbase alle 11 af
+
+Trackbase draait elke 24 uur een vaste set prompts over de platforms. De resultaten komen samen in één dashboard met je Visibility Score, sentiment, [Share of Voice](https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice) en concurrentieranking, per platform en gecombineerd. Je ziet waar je wint, waar je verliest en waar je mee verder moet. Het volledige werkproces zie je in het [functie-overzicht](https://trackbase.ai/nl/features), en met de [gratis AI-zichtbaarheidscheck](https://trackbase.ai/nl/free-ai-visibility-checker) krijg je een eerste indruk. Specifiek voor ChatGPT: lees [hoe je volgt wat ChatGPT over je bedrijf zegt](https://trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company).
+
+## FAQ
+
+### Welke AI-platforms zijn het belangrijkst voor mijn merk?
+
+Dat hangt af van je doelgroep. ChatGPT heeft het breedste bereik, Perplexity en Google AI Overviews tellen bij onderzoeks- en vergelijkingsvragen en Copilot of Gemini tellen als je kopers in een Microsoft- of Google-omgeving werken. Volg bij voorkeur alle 11; begin anders waar je klanten echt hun vragen stellen.
+
+### Moet ik ook open modellen zoals LLaMA, Mistral en DeepSeek volgen?
+
+Ze draaien vaak achter andere producten, dus merken die erin voorkomen zijn meestal breed op het web gedocumenteerd. Ze geven snel een signaal hoe consistent je merk wordt beschreven en zijn relevant voor technische en privacygerichte doelgroepen.
+
+### Hoe vaak moet ik AI-zichtbaarheid meten?
+
+Antwoorden veranderen van dag tot dag, dus een dagelijkse meting geeft een betrouwbaarder trend dan een maandelijkse steekproef. Trackbase ververst de data elke 24 uur.
 
 ---
 
