@@ -13,7 +13,7 @@ Markdown mirrors, OG images and the content pipeline for the [trackbase.ai](http
 All scripts are Node 22 ES modules in `pipeline/` using the official `framer-api`. They read two environment variables and never store them:
 
 ```
-FRAMER_PROJECT_URL=https://framer.com/projects/Trackbase-ai--iWfXq5iiNUZBVK9BxmzP-43FIb
+FRAMER_PROJECT_URL=<your Framer project URL>
 FRAMER_API_KEY=<project API key from Framer Site Settings>
 ```
 
