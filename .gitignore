@@ -3,6 +3,6 @@ node_modules/
 .env.*
 *.log
 pipeline/tmp/
-pipeline/drafts/*.html
+pipeline/drafts/
 .DS_Store
 Thumbs.db
