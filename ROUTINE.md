@@ -51,7 +51,7 @@ node pipeline/create-post.mjs --draft pipeline/drafts/<slug>.json --dry-run     
 node pipeline/create-post.mjs --draft pipeline/drafts/<slug>.json
 node pipeline/export-markdown.mjs
 git add -A && git commit -m "Add post: <slug>" && git push origin main
-node pipeline/publish.mjs --verify /blog/<slug>,/nl/blog/<slug> --expect "<title>"
+node pipeline/publish.mjs --verify /blog/<slug>,/nl/blog/<slug>   # checks each path for its own EN/NL title from posts.json
 ```
 
 Then confirm `https://content.trackbase.ai/blog/<slug>.md` answers 200 (GitHub Pages can take a few minutes; retry up to 10 minutes). If the Trackbase MCP exposes a page-tracker add tool, add the new URL; otherwise skip.
