@@ -4,6 +4,8 @@
 
 ## Articles
 
+- [Mentions vs Citations: Why Both Matter for AI Visibility](https://content.trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md): In AI search, two things tell you whether a brand is winning: how often it’s mentioned, and how often it’s cited as a source. They sound similar. They’re not.
+- [How AI Visibility Tools Fit Your SEO Workflow and GA4](https://content.trackbase.ai/blog/how-ai-visibility-tools-fit-seo-workflows-ga4.md): AI visibility tools connect to SEO at three points: prompt tracking, citation data and AI referral traffic in GA4. Here is how to combine them in one workflow and report.
 - [Top 11 AI Platforms Every Brand Should Be Tracking in 2026](https://content.trackbase.ai/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md): Your customers aren’t just asking ChatGPT anymore. They’re asking Claude, Perplexity, Gemini, Grok and a growing list of AI engines that all generate answers differently.
 - [AI Visibility Tools for Dutch E-commerce: What to Look For](https://content.trackbase.ai/blog/how-to-choose-ai-visibility-tools-for-dutch-ecommerce.md): Which AI visibility tool fits a Dutch webshop? Six criteria, a Dutch prompt list and a 14-day test plan to compare tools on your own product categories.
 - [AEO vs GEO vs SEO: What’s the Difference?](https://content.trackbase.ai/blog/aeo-vs-geo-vs-seo-whats-the-difference.md): SEO targets search engines, AEO targets answer engines, and GEO targets generative AI models. They overlap, but they’re not the same and treating them as one is how you end up invisible in the channels that matter most.
@@ -45,10 +47,11 @@
 - [Why Brands Choose Trackbase Over Other AI Visibility Tools](https://content.trackbase.ai/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md): AI visibility tools are appearing fast, and they’re not all built the same. If you’re comparing options, four things actually matter: how many platforms you cover, where your data lives, how often it refreshes, and whether the tool tells you what to do next.
 - [Inside the Trackbase Platform: Track, Analyze, Act in One View](https://content.trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md): AI visibility data is only useful if you can act on it. The Trackbase platform is built around three steps: Track, Analyze, Act. We also have 7 modules that take you from raw signal to your prioritised next move.
 - [How Trackbase Calculates Visibility Score & Its Differences](https://content.trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md): Most AI-tracking tools count mentions. Trackbase measures something more useful: a Visibility Score that combines presence, positioning, frequency, sentiment and competitive performance into one number you can act on.
-- [Mentions vs Citations: Why Both Matter for AI Visibility](https://content.trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md): In AI search, two things tell you whether a brand is winning: how often it’s mentioned, and how often it’s cited as a source. They sound similar. They’re not.
 
 ## Artikelen (nl-NL)
 
+- [Mentions vs. citations: waarom ze allebei tellen voor je AI-visibiliteit](https://content.trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md)
+- [Hoe AI-zichtbaarheidstools passen in je SEO-workflow en GA4](https://content.trackbase.ai/nl/blog/how-ai-visibility-tools-fit-seo-workflows-ga4.md)
 - [De 11 belangrijkste AI-platforms die je merk moet volgen in 2026](https://content.trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026.md)
 - [AI-zichtbaarheidstools voor Nederlandse webshops: waar let je op?](https://content.trackbase.ai/nl/blog/how-to-choose-ai-visibility-tools-for-dutch-ecommerce.md)
 - [AEO vs GEO vs SEO: wat is het verschil?](https://content.trackbase.ai/nl/blog/aeo-vs-geo-vs-seo-whats-the-difference.md)
@@ -90,7 +93,6 @@
 - [Waarom merken voor Trackbase kiezen (en niet voor andere AI visibility-tools)](https://content.trackbase.ai/nl/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md)
 - [Binnen in het Trackbase-platform: volg, analyseer en stuur bij in één oogopslag](https://content.trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md)
 - [Zo berekent Trackbase je visibility score (en dit is wat er anders is)](https://content.trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md)
-- [Mentions vs. citations: waarom ze allebei tellen voor je AI-visibiliteit](https://content.trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md)
 
 ## Optional
 

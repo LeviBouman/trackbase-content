@@ -1,5 +1,41 @@
 [
   {
+    "slug": "mentions-vs-citations-why-both-matter-for-your-ai-visibility",
+    "id": "OQVNEAC8g",
+    "title": "Mentions vs Citations: Why Both Matter for AI Visibility",
+    "titleNl": "Mentions vs. citations: waarom ze allebei tellen voor je AI-visibiliteit",
+    "description": "In AI search, two things tell you whether a brand is winning: how often it’s mentioned, and how often it’s cited as a source. They sound similar. They’re not.",
+    "date": "2026-06-08",
+    "updated": "2026-10-26",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 855,
+    "url": "https://trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility",
+    "urlNl": "https://trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility",
+    "markdown": "https://content.trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md",
+    "image": "https://framerusercontent.com/images/qbSXrATDEYIdyPpfPUbj5aOUSk.webp",
+    "hasNl": true
+  },
+  {
+    "slug": "how-ai-visibility-tools-fit-seo-workflows-ga4",
+    "id": "IWx48LKex",
+    "title": "How AI Visibility Tools Fit Your SEO Workflow and GA4",
+    "titleNl": "Hoe AI-zichtbaarheidstools passen in je SEO-workflow en GA4",
+    "description": "AI visibility tools connect to SEO at three points: prompt tracking, citation data and AI referral traffic in GA4. Here is how to combine them in one workflow and report.",
+    "date": "2026-10-26",
+    "updated": "2026-10-26",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 1144,
+    "url": "https://trackbase.ai/blog/how-ai-visibility-tools-fit-seo-workflows-ga4",
+    "urlNl": "https://trackbase.ai/nl/blog/how-ai-visibility-tools-fit-seo-workflows-ga4",
+    "markdown": "https://content.trackbase.ai/blog/how-ai-visibility-tools-fit-seo-workflows-ga4.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/how-ai-visibility-tools-fit-seo-workflows-ga4.md",
+    "image": "https://framerusercontent.com/images/tWiozhtoFGvRtIi97YGy1QjjtwM.png",
+    "hasNl": true
+  },
+  {
     "slug": "the-11-ai-platforms-every-brand-should-be-tracking-in-2026",
     "id": "OhpEBaOav",
     "title": "Top 11 AI Platforms Every Brand Should Be Tracking in 2026",
@@ -735,24 +771,6 @@
     "markdown": "https://content.trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md",
     "markdownNl": "https://content.trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md",
     "image": "https://framerusercontent.com/images/vdWMjFrlKVwv2vtFljdIZj0R0o.webp",
-    "hasNl": true
-  },
-  {
-    "slug": "mentions-vs-citations-why-both-matter-for-your-ai-visibility",
-    "id": "OQVNEAC8g",
-    "title": "Mentions vs Citations: Why Both Matter for AI Visibility",
-    "titleNl": "Mentions vs. citations: waarom ze allebei tellen voor je AI-visibiliteit",
-    "description": "In AI search, two things tell you whether a brand is winning: how often it’s mentioned, and how often it’s cited as a source. They sound similar. They’re not.",
-    "date": "2026-06-08",
-    "updated": "2026-06-08",
-    "author": "levi-bouman",
-    "category": "AI Visibility",
-    "words": 472,
-    "url": "https://trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility",
-    "urlNl": "https://trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility",
-    "markdown": "https://content.trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md",
-    "markdownNl": "https://content.trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md",
-    "image": "https://framerusercontent.com/images/qbSXrATDEYIdyPpfPUbj5aOUSk.webp",
     "hasNl": true
   }
 ]
