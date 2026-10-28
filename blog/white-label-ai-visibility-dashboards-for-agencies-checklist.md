@@ -15,8 +15,8 @@ publisher: Trackbase
 publisher_url: https://trackbase.ai
 category: "AI Visibility"
 image: https://framerusercontent.com/images/ZEMSzVoAJ9aprdebs2XLwaYThSU.png
-word_count: 1207
-reading_time_minutes: 5
+word_count: 1217
+reading_time_minutes: 6
 ---
 
 # White-Label AI Visibility Dashboards for Agencies: Checklist
@@ -27,7 +27,7 @@ reading_time_minutes: 5
 
 The best white-label AI visibility dashboard for an agency is one that gives every client an isolated workspace, reports under your brand, tracks the AI models your clients' buyers actually use, and does not charge a full seat price for every extra client. Most tools are built for one brand per account, so the test is how the pricing and workspaces behave at 10, 20 or 40 clients, not how good the demo looks for one.
 
-This checklist is based on what the pages AI assistants cite most often for this question say agencies should check, combined with what we see in Trackbase's own [prompt](https://trackbase.ai/glossary/prompt) data. It is written for agency owners and heads of SEO who already know why [AI visibility](https://trackbase.ai/glossary/ai-visibility) matters and now need to pick the system their team will report from.
+This checklist is based on what the pages AI assistants cite most often for this question say agencies should check, combined with what we see in Trackbase's own prompt data. It is written for agency owners and heads of SEO who already know why [AI visibility](https://trackbase.ai/glossary/ai-visibility) matters and now need to pick the system their team will report from.
 
 ## What "white-label" actually has to cover
 
@@ -81,11 +81,11 @@ Keep the first page to one number and one sentence. Clients forward these report
 
 ## Where Trackbase fits
 
-Trackbase tracks brand visibility across 11 AI models (ChatGPT, Claude, Gemini, Google AI Overview, [Google AI Mode](https://trackbase.ai/glossary/google-ai-mode), Perplexity, Grok, DeepSeek, Copilot, LLaMA and Mistral) with daily prompt runs, and reports Visibility Score, Share of Voice, sentiment, citations and [competitor benchmarking](https://trackbase.ai/glossary/competitor-benchmarking), plus a prioritized list of actions. It is a Dutch SaaS with EU hosting and GDPR compliance, which matters for agencies handling client data in Europe.
+Trackbase tracks brand visibility across 11 AI models (ChatGPT, Claude, Gemini, Google AI Overview, Google AI Mode, Perplexity, Grok, DeepSeek, Copilot, LLaMA and Mistral) with daily prompt runs, and reports Visibility Score, Share of Voice, sentiment, citations and competitor benchmarking, plus a prioritized list of actions. It is a Dutch SaaS with EU hosting and GDPR compliance, which matters for agencies handling client data in Europe.
 
-For agencies, the [Enterprise / Agency plan](https://trackbase.ai/pricing) is the route: multiple brands and workspaces, [white-label reporting](https://trackbase.ai/glossary/white-label-reporting), custom prompts, models and competitors, and an SLA. The [features page](https://trackbase.ai/features) describes dedicated workspaces for teammates and clients, built so that managing ten brands feels like managing one. Agency pricing is custom, so ask for a quote based on your client count rather than reading it off a page. The Essential and Professional plans include a 14-day free trial, which is enough to test workspace behavior before you talk about agency terms. Agencies that want to resell or refer can also look at the [partner program](https://trackbase.ai/partner).
+To be direct about where we stand: Trackbase does not currently offer white-label reporting or client-branded exports, so if branded client portals are a hard requirement, Trackbase is not the right pick today. What it does offer for agencies is the [Enterprise / Agency plan](https://trackbase.ai/pricing) with multiple brands and workspaces, custom prompts, models and competitors, and an SLA, and the [features page](https://trackbase.ai/features) describes dedicated workspaces for teammates and clients. Agency pricing is custom, so ask for a quote based on your client count. The Essential and Professional plans include a 14-day free trial, which is enough to test how workspaces behave. Agencies that want to refer or resell can also look at the [partner program](https://trackbase.ai/partner).
 
-We are the vendor here, so verify these claims in a trial rather than taking our word for it. If you are weighing us against a specific competitor, our [Trackbase vs Profound comparison](https://trackbase.ai/blog/trackbase-vs-profound-which-ai-visibility-platform-should-you-choose) lays out the trade-offs.
+We are the vendor here, so verify these points in a trial rather than taking our word for it. If you are weighing us against a specific competitor, our [Trackbase vs Profound comparison](https://trackbase.ai/blog/trackbase-vs-profound-which-ai-visibility-platform-should-you-choose) lays out the trade-offs.
 
 ## A simple evaluation plan for the next two weeks
 

@@ -15,7 +15,7 @@ publisher: Trackbase
 publisher_url: https://trackbase.ai
 category: "AI Visibility"
 image: https://framerusercontent.com/images/ZEMSzVoAJ9aprdebs2XLwaYThSU.png
-word_count: 1178
+word_count: 1188
 reading_time_minutes: 5
 ---
 
@@ -59,7 +59,7 @@ Vraag naar elk van deze punten apart. Een "white-label pdf" is niet hetzelfde al
 
 Bureauprijzen zijn meestal op aanvraag, waardoor vergelijken lastig is. De leveranciersblogs die AI-modellen bij deze vraag citeren geven een ruw beeld, maar zie de bedragen als indicatie: elk van die artikelen is geschreven door een leverancier die zichzelf ook rangschikt, en prijzen veranderen vaak.
 
--   Het bureau-overzicht van Rank [Prompt](https://trackbase.ai/nl/glossary/prompt) stelt dat bureauabonnementen in de categorie meestal **$149 tot $499 per maand** kosten, en noemt het eigen Agency-plan voor $149 per maand voor 500 merken ([Rank Prompt](https://rankprompt.com/best-ai-visibility-tools-for-agencies/)).
+-   Het bureau-overzicht van Rank Prompt stelt dat bureauabonnementen in de categorie meestal **$149 tot $499 per maand** kosten, en noemt het eigen Agency-plan voor $149 per maand voor 500 merken ([Rank Prompt](https://rankprompt.com/best-ai-visibility-tools-for-agencies/)).
 
 -   Het overzicht van Respona noemt Agency Mode van Gauge voor **$300 per maand per actieve klant** en Otterly.AI vanaf $29 per maand voor het instapplan ([Respona](https://respona.com/blog/white-label-ai-visibility-services/)).
 
@@ -81,11 +81,11 @@ Houd de eerste pagina bij één getal en één zin. Klanten sturen deze rapporte
 
 ## Waar Trackbase past
 
-Trackbase volgt merkzichtbaarheid in 11 AI-modellen (ChatGPT, Claude, Gemini, Google AI Overview, [Google AI Mode](https://trackbase.ai/nl/glossary/google-ai-mode), Perplexity, Grok, DeepSeek, Copilot, LLaMA en Mistral) met dagelijkse promptruns en rapporteert Visibility Score, Share of Voice, sentiment, bronvermeldingen en concurrentiebenchmarking, plus een geprioriteerde lijst met acties. Het is een Nederlandse SaaS met hosting in de EU en naleving van de AVG, wat belangrijk is voor bureaus die klantdata in Europa verwerken.
+Trackbase volgt merkzichtbaarheid in 11 AI-modellen (ChatGPT, Claude, Gemini, Google AI Overview, Google AI Mode, Perplexity, Grok, DeepSeek, Copilot, LLaMA en Mistral) met dagelijkse promptruns en rapporteert Visibility Score, Share of Voice, sentiment, bronvermeldingen en concurrentiebenchmarking, plus een geprioriteerde lijst met acties. Het is een Nederlandse SaaS met hosting in de EU en naleving van de AVG, wat belangrijk is voor bureaus die klantdata in Europa verwerken.
 
-Voor bureaus is het [Enterprise / Agency-abonnement](https://trackbase.ai/nl/pricing) de route: meerdere merken en werkruimtes, white-label rapportage, eigen prompts, modellen en concurrenten, en een SLA. De [functiepagina](https://trackbase.ai/nl/features) beschrijft eigen werkruimtes voor collega's en klanten, zo gebouwd dat tien merken beheren voelt als één merk beheren. De bureauprijs is maatwerk, dus vraag een offerte op basis van je aantal klanten in plaats van een bedrag van een pagina af te lezen. De abonnementen Essential en Professional hebben een gratis proefperiode van 14 dagen, genoeg om het gedrag van werkruimtes te testen voordat je over bureauvoorwaarden praat. Bureaus die willen doorverkopen of doorverwijzen kunnen ook naar het [partnerprogramma](https://trackbase.ai/partner) kijken.
+Om duidelijk te zijn over waar we staan: Trackbase biedt op dit moment geen white-label rapportage of exports onder klantmerk. Als klantportalen onder eigen merk een harde eis zijn, is Trackbase vandaag dus niet de juiste keuze. Wat Trackbase voor bureaus wel biedt is het [Enterprise / Agency-abonnement](https://trackbase.ai/nl/pricing) met meerdere merken en werkruimtes, eigen prompts, modellen en concurrenten, en een SLA. De [functiepagina](https://trackbase.ai/nl/features) beschrijft eigen werkruimtes voor collega's en klanten. De bureauprijs is maatwerk, dus vraag een offerte op basis van je aantal klanten. De abonnementen Essential en Professional hebben een gratis proefperiode van 14 dagen, genoeg om te testen hoe werkruimtes zich gedragen. Bureaus die willen doorverwijzen of doorverkopen kunnen ook naar het [partnerprogramma](https://trackbase.ai/partner) kijken.
 
-Wij zijn hier de leverancier, dus controleer deze claims in een proefperiode in plaats van ons op ons woord te geloven. Weeg je ons tegen een specifieke concurrent af, lees dan onze [vergelijking van Trackbase en Profound](https://trackbase.ai/nl/blog/trackbase-vs-profound-which-ai-visibility-platform-should-you-choose).
+Wij zijn hier de leverancier, dus controleer deze punten in een proefperiode in plaats van ons op ons woord te geloven. Weeg je ons tegen een specifieke concurrent af, lees dan onze [vergelijking van Trackbase en Profound](https://trackbase.ai/nl/blog/trackbase-vs-profound-which-ai-visibility-platform-should-you-choose).
 
 ## Een eenvoudig evaluatieplan voor de komende twee weken
 
