@@ -1,5 +1,41 @@
 [
   {
+    "slug": "how-trackbase-calculates-your-visibility-score-and-why-its-different",
+    "id": "Pf6_hErdh",
+    "title": "How Trackbase Calculates Visibility Score & Its Differences",
+    "titleNl": "Zo berekent Trackbase je visibility score (en dit is wat er anders is)",
+    "description": "Most AI-tracking tools count mentions. Trackbase measures something more useful: a Visibility Score that combines presence, positioning, frequency, sentiment and competitive performance into one number you can act on.",
+    "date": "2026-06-11",
+    "updated": "2026-10-28",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 933,
+    "url": "https://trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different",
+    "urlNl": "https://trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different",
+    "markdown": "https://content.trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md",
+    "image": "https://framerusercontent.com/images/vdWMjFrlKVwv2vtFljdIZj0R0o.webp",
+    "hasNl": true
+  },
+  {
+    "slug": "white-label-ai-visibility-dashboards-for-agencies-checklist",
+    "id": "w_hp3YSP_",
+    "title": "White-Label AI Visibility Dashboards for Agencies: Checklist",
+    "titleNl": "White-label AI-zichtbaarheidsdashboards voor bureaus: checklist",
+    "description": "Which white-label AI visibility dashboard fits an agency? A checklist for workspace isolation, branded reports, model coverage and pricing at scale.",
+    "date": "2026-10-28",
+    "updated": "2026-10-28",
+    "author": "bodrik-bakker",
+    "category": "AI Visibility",
+    "words": 1207,
+    "url": "https://trackbase.ai/blog/white-label-ai-visibility-dashboards-for-agencies-checklist",
+    "urlNl": "https://trackbase.ai/nl/blog/white-label-ai-visibility-dashboards-for-agencies-checklist",
+    "markdown": "https://content.trackbase.ai/blog/white-label-ai-visibility-dashboards-for-agencies-checklist.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/white-label-ai-visibility-dashboards-for-agencies-checklist.md",
+    "image": "https://framerusercontent.com/images/ZEMSzVoAJ9aprdebs2XLwaYThSU.png",
+    "hasNl": true
+  },
+  {
     "slug": "mentions-vs-citations-why-both-matter-for-your-ai-visibility",
     "id": "OQVNEAC8g",
     "title": "Mentions vs Citations: Why Both Matter for AI Visibility",
@@ -753,24 +789,6 @@
     "markdown": "https://content.trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md",
     "markdownNl": "https://content.trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md",
     "image": "https://framerusercontent.com/images/M3EG36RmiOR5iXC2Kxjgap0zf4.webp",
-    "hasNl": true
-  },
-  {
-    "slug": "how-trackbase-calculates-your-visibility-score-and-why-its-different",
-    "id": "Pf6_hErdh",
-    "title": "How Trackbase Calculates Visibility Score & Its Differences",
-    "titleNl": "Zo berekent Trackbase je visibility score (en dit is wat er anders is)",
-    "description": "Most AI-tracking tools count mentions. Trackbase measures something more useful: a Visibility Score that combines presence, positioning, frequency, sentiment and competitive performance into one number you can act on.",
-    "date": "2026-06-11",
-    "updated": "2026-06-11",
-    "author": "levi-bouman",
-    "category": "AI Visibility",
-    "words": 473,
-    "url": "https://trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different",
-    "urlNl": "https://trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different",
-    "markdown": "https://content.trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md",
-    "markdownNl": "https://content.trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md",
-    "image": "https://framerusercontent.com/images/vdWMjFrlKVwv2vtFljdIZj0R0o.webp",
     "hasNl": true
   }
 ]
