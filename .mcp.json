@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "trackbase-eigen": {
+      "type": "http",
+      "url": "https://app.trackbase.ai/api/mcp",
+      "headers": { "Authorization": "Bearer ${TRACKBASE_OWN_KEY}" }
+    }
+  }
+}
