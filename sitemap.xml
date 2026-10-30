@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://content.trackbase.ai/</loc></url>
   <url><loc>https://content.trackbase.ai/llms.txt</loc></url>
+  <url><loc>https://content.trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md</loc></url>
+  <url><loc>https://content.trackbase.ai/blog/what-features-should-enterprise-teams-require-from-an-ai-monitoring-platform.md</loc></url>
   <url><loc>https://content.trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md</loc></url>
   <url><loc>https://content.trackbase.ai/blog/white-label-ai-visibility-dashboards-for-agencies-checklist.md</loc></url>
   <url><loc>https://content.trackbase.ai/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md</loc></url>
@@ -45,7 +47,8 @@
   <url><loc>https://content.trackbase.ai/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead.md</loc></url>
   <url><loc>https://content.trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend.md</loc></url>
   <url><loc>https://content.trackbase.ai/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md</loc></url>
-  <url><loc>https://content.trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md</loc></url>
+  <url><loc>https://content.trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md</loc></url>
+  <url><loc>https://content.trackbase.ai/nl/blog/what-features-should-enterprise-teams-require-from-an-ai-monitoring-platform.md</loc></url>
   <url><loc>https://content.trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md</loc></url>
   <url><loc>https://content.trackbase.ai/nl/blog/white-label-ai-visibility-dashboards-for-agencies-checklist.md</loc></url>
   <url><loc>https://content.trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility.md</loc></url>
@@ -89,5 +92,4 @@
   <url><loc>https://content.trackbase.ai/nl/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead.md</loc></url>
   <url><loc>https://content.trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend.md</loc></url>
   <url><loc>https://content.trackbase.ai/nl/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md</loc></url>
-  <url><loc>https://content.trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md</loc></url>
 </urlset>

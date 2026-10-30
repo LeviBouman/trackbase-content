@@ -1,5 +1,41 @@
 [
   {
+    "slug": "inside-the-trackbase-dashboard-track-analyze-act-in-one-view",
+    "id": "Jk0Dujti1",
+    "title": "Inside the Trackbase Platform: Track, Analyze, Act in One View",
+    "titleNl": "Binnen in het Trackbase-platform: volg, analyseer en stuur bij in één oogopslag",
+    "description": "AI visibility data is only useful if you can act on it. The Trackbase platform is built around three steps: Track, Analyze, Act. We also have 7 modules that take you from raw signal to your prioritised next move.",
+    "date": "2026-06-14",
+    "updated": "2026-10-30",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 820,
+    "url": "https://trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view",
+    "urlNl": "https://trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view",
+    "markdown": "https://content.trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md",
+    "image": "https://framerusercontent.com/images/M3EG36RmiOR5iXC2Kxjgap0zf4.webp",
+    "hasNl": true
+  },
+  {
+    "slug": "what-features-should-enterprise-teams-require-from-an-ai-monitoring-platform",
+    "id": "f18H_u9BC",
+    "title": "What Features Should Enterprise Teams Require in AI Monitoring?",
+    "titleNl": "Welke functies moeten enterprise-teams eisen van AI-monitoring?",
+    "description": "A seven-point checklist for enterprise marketing teams choosing an AI monitoring platform for multi-brand operations, based on what AI models actually cite.",
+    "date": "2026-10-30",
+    "updated": "2026-10-30",
+    "author": "bodrik-bakker",
+    "category": "AI Visibility",
+    "words": 1139,
+    "url": "https://trackbase.ai/blog/what-features-should-enterprise-teams-require-from-an-ai-monitoring-platform",
+    "urlNl": "https://trackbase.ai/nl/blog/what-features-should-enterprise-teams-require-from-an-ai-monitoring-platform",
+    "markdown": "https://content.trackbase.ai/blog/what-features-should-enterprise-teams-require-from-an-ai-monitoring-platform.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/what-features-should-enterprise-teams-require-from-an-ai-monitoring-platform.md",
+    "image": "https://framerusercontent.com/images/gkuGYcTm4HDZqqYMlEhJNW3303g.png",
+    "hasNl": true
+  },
+  {
     "slug": "how-trackbase-calculates-your-visibility-score-and-why-its-different",
     "id": "Pf6_hErdh",
     "title": "How Trackbase Calculates Visibility Score & Its Differences",
@@ -771,24 +807,6 @@
     "markdown": "https://content.trackbase.ai/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md",
     "markdownNl": "https://content.trackbase.ai/nl/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md",
     "image": "https://framerusercontent.com/images/WcwzyUkzBsXo5MYhgfjQAgjwekk.webp",
-    "hasNl": true
-  },
-  {
-    "slug": "inside-the-trackbase-dashboard-track-analyze-act-in-one-view",
-    "id": "Jk0Dujti1",
-    "title": "Inside the Trackbase Platform: Track, Analyze, Act in One View",
-    "titleNl": "Binnen in het Trackbase-platform: volg, analyseer en stuur bij in één oogopslag",
-    "description": "AI visibility data is only useful if you can act on it. The Trackbase platform is built around three steps: Track, Analyze, Act. We also have 7 modules that take you from raw signal to your prioritised next move.",
-    "date": "2026-06-14",
-    "updated": "2026-06-14",
-    "author": "levi-bouman",
-    "category": "AI Visibility",
-    "words": 422,
-    "url": "https://trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view",
-    "urlNl": "https://trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view",
-    "markdown": "https://content.trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md",
-    "markdownNl": "https://content.trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md",
-    "image": "https://framerusercontent.com/images/M3EG36RmiOR5iXC2Kxjgap0zf4.webp",
     "hasNl": true
   }
 ]
