@@ -1,5 +1,41 @@
 [
   {
+    "slug": "why-brands-choose-trackbase-over-other-ai-visibility-tools",
+    "id": "tQryQjkEL",
+    "title": "Why Brands Choose Trackbase Over Other AI Visibility Tools",
+    "titleNl": "Waarom merken voor Trackbase kiezen (en niet voor andere AI visibility-tools)",
+    "description": "Four criteria separate AI visibility tools: platform coverage, EU data hosting, refresh frequency and ranked actions. Here is how Trackbase compares on each.",
+    "date": "2026-06-17",
+    "updated": "2026-11-02",
+    "author": "bodrik-bakker",
+    "category": "AI Visibility",
+    "words": 950,
+    "url": "https://trackbase.ai/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools",
+    "urlNl": "https://trackbase.ai/nl/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools",
+    "markdown": "https://content.trackbase.ai/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md",
+    "image": "https://framerusercontent.com/images/WcwzyUkzBsXo5MYhgfjQAgjwekk.webp",
+    "hasNl": true
+  },
+  {
+    "slug": "prioritized-model-specific-ai-visibility-actions",
+    "id": "D3L7Rvbw_",
+    "title": "Tools With Prioritized, Model-Specific AI Visibility Actions",
+    "titleNl": "Tools met geprioriteerde, modelspecifieke AI-zichtbaarheidsacties",
+    "description": "Which tools turn AI visibility data into a ranked, model-specific to-do list? What to look for, how the main approaches compare and how to prioritize yourself.",
+    "date": "2026-11-02",
+    "updated": "2026-11-02",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 1232,
+    "url": "https://trackbase.ai/blog/prioritized-model-specific-ai-visibility-actions",
+    "urlNl": "https://trackbase.ai/nl/blog/prioritized-model-specific-ai-visibility-actions",
+    "markdown": "https://content.trackbase.ai/blog/prioritized-model-specific-ai-visibility-actions.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/prioritized-model-specific-ai-visibility-actions.md",
+    "image": "https://framerusercontent.com/images/AwbD5b5gaCrSWU9gXKIke6obbI.png",
+    "hasNl": true
+  },
+  {
     "slug": "inside-the-trackbase-dashboard-track-analyze-act-in-one-view",
     "id": "Jk0Dujti1",
     "title": "Inside the Trackbase Platform: Track, Analyze, Act in One View",
@@ -789,24 +825,6 @@
     "markdown": "https://content.trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend.md",
     "markdownNl": "https://content.trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend.md",
     "image": "https://framerusercontent.com/images/4ebr1Qq2x8IqAN2rPXPL0B4SQ.webp",
-    "hasNl": true
-  },
-  {
-    "slug": "why-brands-choose-trackbase-over-other-ai-visibility-tools",
-    "id": "tQryQjkEL",
-    "title": "Why Brands Choose Trackbase Over Other AI Visibility Tools",
-    "titleNl": "Waarom merken voor Trackbase kiezen (en niet voor andere AI visibility-tools)",
-    "description": "AI visibility tools are appearing fast, and they’re not all built the same. If you’re comparing options, four things actually matter: how many platforms you cover, where your data lives, how often it refreshes, and whether the tool tells you what to do next.",
-    "date": "2026-06-17",
-    "updated": "2026-06-17",
-    "author": "bodrik-bakker",
-    "category": "AI Visibility",
-    "words": 401,
-    "url": "https://trackbase.ai/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools",
-    "urlNl": "https://trackbase.ai/nl/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools",
-    "markdown": "https://content.trackbase.ai/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md",
-    "markdownNl": "https://content.trackbase.ai/nl/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md",
-    "image": "https://framerusercontent.com/images/WcwzyUkzBsXo5MYhgfjQAgjwekk.webp",
     "hasNl": true
   }
 ]

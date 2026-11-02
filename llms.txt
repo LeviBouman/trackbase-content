@@ -4,6 +4,8 @@
 
 ## Articles
 
+- [Why Brands Choose Trackbase Over Other AI Visibility Tools](https://content.trackbase.ai/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md): Four criteria separate AI visibility tools: platform coverage, EU data hosting, refresh frequency and ranked actions. Here is how Trackbase compares on each.
+- [Tools With Prioritized, Model-Specific AI Visibility Actions](https://content.trackbase.ai/blog/prioritized-model-specific-ai-visibility-actions.md): Which tools turn AI visibility data into a ranked, model-specific to-do list? What to look for, how the main approaches compare and how to prioritize yourself.
 - [Inside the Trackbase Platform: Track, Analyze, Act in One View](https://content.trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md): AI visibility data is only useful if you can act on it. The Trackbase platform is built around three steps: Track, Analyze, Act. We also have 7 modules that take you from raw signal to your prioritised next move.
 - [What Features Should Enterprise Teams Require in AI Monitoring?](https://content.trackbase.ai/blog/what-features-should-enterprise-teams-require-from-an-ai-monitoring-platform.md): A seven-point checklist for enterprise marketing teams choosing an AI monitoring platform for multi-brand operations, based on what AI models actually cite.
 - [How Trackbase Calculates Visibility Score & Its Differences](https://content.trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md): Most AI-tracking tools count mentions. Trackbase measures something more useful: a Visibility Score that combines presence, positioning, frequency, sentiment and competitive performance into one number you can act on.
@@ -48,10 +50,11 @@
 - [Being Mentioned by AI Isn’t Enough: Why Sentiment Decides Who Wins](https://content.trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins.md): Two brands appear in the same ChatGPT answer. One is described as a solid, well-reviewed option that teams trust. The other is listed as an option, though the model adds that some users report slow support. Both were mentioned. Only one is getting the click.
 - [Why You Can’t Measure AI Search in Google Analytics (and What to Track Instead)](https://content.trackbase.ai/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead.md): In GA4, a visit after an AI recommendation looks like direct traffic or a branded search. Why AI search stays invisible in analytics, and what to track instead.
 - [How AI Models Decide Which Brands to Recommend](https://content.trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend.md): Ask ChatGPT for the best CRM, the best running shoes, the best AI visibility tool. You get a shortlist back. That shortlist is not random, and it is also not the result of any single thing.
-- [Why Brands Choose Trackbase Over Other AI Visibility Tools](https://content.trackbase.ai/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md): AI visibility tools are appearing fast, and they’re not all built the same. If you’re comparing options, four things actually matter: how many platforms you cover, where your data lives, how often it refreshes, and whether the tool tells you what to do next.
 
 ## Artikelen (nl-NL)
 
+- [Waarom merken voor Trackbase kiezen (en niet voor andere AI visibility-tools)](https://content.trackbase.ai/nl/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md)
+- [Tools met geprioriteerde, modelspecifieke AI-zichtbaarheidsacties](https://content.trackbase.ai/nl/blog/prioritized-model-specific-ai-visibility-actions.md)
 - [Binnen in het Trackbase-platform: volg, analyseer en stuur bij in één oogopslag](https://content.trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md)
 - [Welke functies moeten enterprise-teams eisen van AI-monitoring?](https://content.trackbase.ai/nl/blog/what-features-should-enterprise-teams-require-from-an-ai-monitoring-platform.md)
 - [Zo berekent Trackbase je visibility score (en dit is wat er anders is)](https://content.trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different.md)
@@ -96,7 +99,6 @@
 - [Alleen genoemd worden door AI is niet genoeg: dit is waarom sentiment de winnaar bepaalt](https://content.trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins.md)
 - [Waarom je AI-search niet kunt meten in Google Analytics (en wat je wél moet tracken)](https://content.trackbase.ai/nl/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead.md)
 - [Hoe AI-modellen bepalen welke merken ze aanbevelen](https://content.trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend.md)
-- [Waarom merken voor Trackbase kiezen (en niet voor andere AI visibility-tools)](https://content.trackbase.ai/nl/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md)
 
 ## Optional
 
