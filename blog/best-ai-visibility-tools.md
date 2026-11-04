@@ -15,7 +15,7 @@ publisher: Trackbase
 publisher_url: https://trackbase.ai
 category: "AI Visibility"
 image: https://framerusercontent.com/images/oOwdVspN1Gv0utJoQjYXQJDd2QM.png
-word_count: 1628
+word_count: 1625
 reading_time_minutes: 7
 ---
 
@@ -84,7 +84,7 @@ Two things set it apart in this list. First, crawler analytics: a WordPress plug
 
 -   **AI models:** 11, including ChatGPT, Gemini, Google AI Overview, Google AI Mode, Perplexity, Claude, Copilot, Grok, DeepSeek, Llama, Mistral
 
--   **Pricing:** [from €49](https://trackbase.ai/pricing)/month, 14-day free trial, no credit card
+-   **Pricing:** [from €49](https://trackbase.ai/pricing)/month, 14-day free trial
 
 -   **Best for:** SMB and mid-market brands, webshops, agencies (white-label)
 

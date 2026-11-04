@@ -15,7 +15,7 @@ publisher: Trackbase
 publisher_url: https://trackbase.ai
 category: "AI Visibility"
 image: https://framerusercontent.com/images/WcwzyUkzBsXo5MYhgfjQAgjwekk.webp
-word_count: 941
+word_count: 942
 reading_time_minutes: 4
 ---
 
@@ -81,7 +81,7 @@ Elke actie komt voort uit je eigen trackingdata (contentgaps, dekking door concu
 | Waar staat de data? | Een benoemde regio met AVG-dekking | Nederland, EU |
 | Hoe vaak ververst de data? | Dagelijks of vaker | Elke 24 uur |
 | Zegt de tool wat je nu moet doen? | Gerangschikte acties op basis van je eigen data | Impactscore 1 tot 10 per actie |
-| Kan ik het eerst testen? | Een gratis proefperiode zonder creditcard | 14 dagen gratis proberen |
+| Kan ik het eerst testen? | Een gratis proefperiode van 14 dagen | 14 dagen gratis proberen |
 
 Gebruik dezelfde tabel bij andere aanbieders, ook bij de partijen die we vergelijken in ons artikel [Trackbase vs Profound](https://trackbase.ai/nl/blog/trackbase-vs-profound-which-ai-visibility-platform-should-you-choose). Vraag om antwoorden op papier en test ze in een proefperiode.
 

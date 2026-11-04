@@ -4,6 +4,8 @@
 
 ## Articles
 
+- [How to Get Cited by AI: Earn Mentions on Trusted Sources](https://content.trackbase.ai/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust.md): Independent citations weigh far more than your own marketing. Here is how to find the sources AI already cites in your category and earn a place on them.
+- [AI Citation Tracking Alternatives: How to Choose in 2026](https://content.trackbase.ai/blog/ai-citation-tracking-alternatives-how-to-choose-in-2026.md): Looking for an alternative to your AI mention and citation tracker? Use this six-point test: URL-level data, engine coverage, source gaps, freshness, pricing and next steps.
 - [Why Brands Choose Trackbase Over Other AI Visibility Tools](https://content.trackbase.ai/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md): Four criteria separate AI visibility tools: platform coverage, EU data hosting, refresh frequency and ranked actions. Here is how Trackbase compares on each.
 - [Tools With Prioritized, Model-Specific AI Visibility Actions](https://content.trackbase.ai/blog/prioritized-model-specific-ai-visibility-actions.md): Which tools turn AI visibility data into a ranked, model-specific to-do list? What to look for, how the main approaches compare and how to prioritize yourself.
 - [Inside the Trackbase Platform: Track, Analyze, Act in One View](https://content.trackbase.ai/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md): AI visibility data is only useful if you can act on it. The Trackbase platform is built around three steps: Track, Analyze, Act. We also have 7 modules that take you from raw signal to your prioritised next move.
@@ -44,7 +46,6 @@
 - [9 Best Profound Alternatives for AI Visibility Tracking (2026)](https://content.trackbase.ai/blog/best-profound-alternatives.md): Profound is built for enterprise budgets. These 9 alternatives track your brand in ChatGPT, Gemini and Perplexity from 29 to 300 euros per month. Compared honestly.
 - [Trackbase vs Profound: Which AI Visibility Platform Fits You?](https://content.trackbase.ai/blog/trackbase-vs-profound.md): An honest comparison between Trackbase and Profound: model coverage, pricing, shopping tracking and who each platform is actually for.
 - [AI Visibility for Agencies: How to Offer GEO Tracking as a Service](https://content.trackbase.ai/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service.md): Clients will soon ask why ChatGPT doesn't recommend them. Learn how agencies package AI visibility and GEO tracking as a recurring retainer service.
-- [How to Get Cited by AI: Earning Mentions on the Sources Models Trust](https://content.trackbase.ai/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust.md): Changing how AI talks about your brand starts outside your own website: independent citations weigh far more than your own marketing. Here is how to earn them.
 - [How to Improve Your AI Visibility: A Practical Playbook](https://content.trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md): You already know AI visibility matters. The harder question is what to actually do about it on Monday morning. This is the owned-side playbook: the work on your own properties that you fully control. For the off-site half, see the guide on earning AI citations.
 - [AI Visibility for B2B SaaS: Where Buyers Look and How to Show Up](https://content.trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md): The modern software buying journey often starts in a chat window, not a search bar. A buyer types “best [category] tool for [use case]” into ChatGPT and gets a shortlist back. Your brand is on that list, or it is not, and most of the evaluation happens before anyone visits your homepage.
 - [Being Mentioned by AI Isn’t Enough: Why Sentiment Decides Who Wins](https://content.trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins.md): Two brands appear in the same ChatGPT answer. One is described as a solid, well-reviewed option that teams trust. The other is listed as an option, though the model adds that some users report slow support. Both were mentioned. Only one is getting the click.
@@ -53,6 +54,8 @@
 
 ## Artikelen (nl-NL)
 
+- [Geciteerd worden door AI: verdien vermeldingen op vertrouwde bronnen](https://content.trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust.md)
+- [Alternatieven voor AI-citatietracking: zo kies je in 2026](https://content.trackbase.ai/nl/blog/ai-citation-tracking-alternatives-how-to-choose-in-2026.md)
 - [Waarom merken voor Trackbase kiezen (en niet voor andere AI visibility-tools)](https://content.trackbase.ai/nl/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools.md)
 - [Tools met geprioriteerde, modelspecifieke AI-zichtbaarheidsacties](https://content.trackbase.ai/nl/blog/prioritized-model-specific-ai-visibility-actions.md)
 - [Binnen in het Trackbase-platform: volg, analyseer en stuur bij in één oogopslag](https://content.trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view.md)
@@ -93,7 +96,6 @@
 - [De 9 beste alternatieven voor Profound om je AI visibility tracking te meten (2026)](https://content.trackbase.ai/nl/blog/best-profound-alternatives.md)
 - [Trackbase vs Profound: welke AI-visibility-tool past bij jou?](https://content.trackbase.ai/nl/blog/trackbase-vs-profound.md)
 - [AI visibility voor agencies: zo bied je GEO tracking aan als dienst](https://content.trackbase.ai/nl/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service.md)
-- [Zo word je geciteerd door AI: herkenning krijgen in de bronnen die modellen vertrouwen](https://content.trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust.md)
 - [Zo verbeter je je AI-visibility: een praktisch playbook](https://content.trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md)
 - [AI visibility voor B2B SaaS: waar kopers zoeken en hoe je verschijnt](https://content.trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md)
 - [Alleen genoemd worden door AI is niet genoeg: dit is waarom sentiment de winnaar bepaalt](https://content.trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins.md)

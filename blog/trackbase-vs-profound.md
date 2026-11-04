@@ -15,7 +15,7 @@ publisher: Trackbase
 publisher_url: https://trackbase.ai
 category: "AI Visibility"
 image: https://framerusercontent.com/images/Uh4dn1sZXkBecrEZk2pbOXYHkY0.png
-word_count: 803
+word_count: 800
 reading_time_minutes: 4
 ---
 
@@ -46,7 +46,7 @@ We are Trackbase, so you know which side of this comparison we are on. We wrote 
 | White-label / multi-brand | Yes (Enterprise/Agency plan) | Enterprise |
 | Data hosting | EU | US |
 | Pricing | [From €49](https://trackbase.ai/pricing)/mo, public | Custom quote |
-| Free trial | 14 days, no credit card | Demo-led |
+| Free trial | 14 days | Demo-led |
 
 *Comparison based on public documentation and customer feedback, July 2026. Spot something outdated? Email hello@*[*trackbase*](https://trackbase.ai/features)*.ai and we will correct it.*
 

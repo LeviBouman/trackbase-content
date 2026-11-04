@@ -15,7 +15,7 @@ publisher: Trackbase
 publisher_url: https://trackbase.ai
 category: "AI Visibility"
 image: https://framerusercontent.com/images/Uh4dn1sZXkBecrEZk2pbOXYHkY0.png
-word_count: 848
+word_count: 846
 reading_time_minutes: 4
 ---
 
@@ -46,7 +46,7 @@ Wij zijn Trackbase. Je weet dus al aan welke kant we in deze vergelijking staan.
 | White-label / multi-brand | Ja (Enterprise/Agency-pakket) | Enterprise |
 | Datahosting | EU | VS |
 | Tarieven | [Vanaf €49](https://trackbase.ai/nl/pricing)/maand, openbaar | Offerte op maat |
-| Gratis proefperiode | 14 dagen, zonder creditcard | Via demo |
+| Gratis proefperiode | 14 dagen | Via demo |
 
 *Vergelijking op basis van openbare documentatie en feedback van klanten, juli 2026. Klopt er iets niet meer? Mail naar hello@*[*trackbase*](https://trackbase.ai/nl/features)*.ai, dan passen we het aan.*
 
