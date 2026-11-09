@@ -4,6 +4,7 @@
 
 ## Articles
 
+- [Free and Low-Cost AI Visibility Trackers for Small Webshops](https://content.trackbase.ai/blog/free-and-low-cost-ai-visibility-trackers-for-small-ecommerce-teams.md): Which free checkers and low-cost trackers work for small e-commerce teams, what they cost, and how to pick the smallest plan that gives real insight.
 - [Why You Can’t Measure AI Search in Google Analytics (and What to Track Instead)](https://content.trackbase.ai/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead.md): In GA4, a visit after an AI recommendation looks like direct traffic or a branded search. Why AI search stays invisible in analytics, and what to track instead.
 - [Model-by-Model AI Visibility Reporting: Real-Time or Daily?](https://content.trackbase.ai/blog/model-by-model-ai-visibility-reporting-real-time-or-daily.md): Can AI visibility platforms report per-model performance and citations in real time? What 'real-time' really means, what to demand and how to evaluate tools.
 - [How to Get Cited by AI: Earn Mentions on Trusted Sources](https://content.trackbase.ai/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust.md): Independent citations weigh far more than your own marketing. Here is how to find the sources AI already cites in your category and earn a place on them.
@@ -55,6 +56,7 @@
 
 ## Artikelen (nl-NL)
 
+- [Gratis en goedkope AI-zichtbaarheidstrackers voor kleine webshops](https://content.trackbase.ai/nl/blog/free-and-low-cost-ai-visibility-trackers-for-small-ecommerce-teams.md)
 - [Waarom je AI-search niet kunt meten in Google Analytics (en wat je wél moet tracken)](https://content.trackbase.ai/nl/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead.md)
 - [AI-zichtbaarheid per model rapporteren: realtime of dagelijks?](https://content.trackbase.ai/nl/blog/model-by-model-ai-visibility-reporting-real-time-or-daily.md)
 - [Geciteerd worden door AI: verdien vermeldingen op vertrouwde bronnen](https://content.trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust.md)

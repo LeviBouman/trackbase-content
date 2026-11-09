@@ -8,6 +8,7 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 
 ## Articles (English)
 
+- [Free and Low-Cost AI Visibility Trackers for Small Webshops](https://content.trackbase.ai/blog/free-and-low-cost-ai-visibility-trackers-for-small-ecommerce-teams.md) · 2026-11-09 (updated 2026-11-09) · HTML: https://trackbase.ai/blog/free-and-low-cost-ai-visibility-trackers-for-small-ecommerce-teams
 - [Why You Can’t Measure AI Search in Google Analytics (and What to Track Instead)](https://content.trackbase.ai/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead.md) · 2026-06-23 (updated 2026-11-06) · HTML: https://trackbase.ai/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead
 - [Model-by-Model AI Visibility Reporting: Real-Time or Daily?](https://content.trackbase.ai/blog/model-by-model-ai-visibility-reporting-real-time-or-daily.md) · 2026-11-06 (updated 2026-11-06) · HTML: https://trackbase.ai/blog/model-by-model-ai-visibility-reporting-real-time-or-daily
 - [How to Get Cited by AI: Earn Mentions on Trusted Sources](https://content.trackbase.ai/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust.md) · 2026-07-05 (updated 2026-11-04) · HTML: https://trackbase.ai/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust
@@ -59,6 +60,7 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 
 ## Artikelen (Nederlands)
 
+- [Gratis en goedkope AI-zichtbaarheidstrackers voor kleine webshops](https://content.trackbase.ai/nl/blog/free-and-low-cost-ai-visibility-trackers-for-small-ecommerce-teams.md) · 2026-11-09 (bijgewerkt 2026-11-09) · HTML: https://trackbase.ai/nl/blog/free-and-low-cost-ai-visibility-trackers-for-small-ecommerce-teams
 - [Waarom je AI-search niet kunt meten in Google Analytics (en wat je wél moet tracken)](https://content.trackbase.ai/nl/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead.md) · 2026-06-23 (bijgewerkt 2026-11-06) · HTML: https://trackbase.ai/nl/blog/why-you-cant-measure-ai-search-in-google-analytics-and-what-to-track-instead
 - [AI-zichtbaarheid per model rapporteren: realtime of dagelijks?](https://content.trackbase.ai/nl/blog/model-by-model-ai-visibility-reporting-real-time-or-daily.md) · 2026-11-06 (bijgewerkt 2026-11-06) · HTML: https://trackbase.ai/nl/blog/model-by-model-ai-visibility-reporting-real-time-or-daily
 - [Geciteerd worden door AI: verdien vermeldingen op vertrouwde bronnen](https://content.trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust.md) · 2026-07-05 (bijgewerkt 2026-11-04) · HTML: https://trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust
