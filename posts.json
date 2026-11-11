@@ -1,5 +1,41 @@
 [
   {
+    "slug": "how-ai-models-decide-which-brands-to-recommend",
+    "id": "Irv1MKXHi",
+    "title": "How AI Models Decide Which Brands to Recommend",
+    "titleNl": "Hoe AI-modellen bepalen welke merken ze aanbevelen",
+    "description": "Ask ChatGPT for the best CRM, the best running shoes, the best AI visibility tool. You get a shortlist back. That shortlist is not random, and it is also not the result of any single thing.",
+    "date": "2026-06-20",
+    "updated": "2026-11-11",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 1151,
+    "url": "https://trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend",
+    "urlNl": "https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend",
+    "markdown": "https://content.trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend.md",
+    "image": "https://framerusercontent.com/images/4ebr1Qq2x8IqAN2rPXPL0B4SQ.webp",
+    "hasNl": true
+  },
+  {
+    "slug": "ai-visibility-metrics-for-dutch-marketing-teams",
+    "id": "RA1U4Vrzl",
+    "title": "AI Visibility Metrics for Dutch Marketing Teams (2026)",
+    "titleNl": "AI-zichtbaarheid meten: de KPI's voor Nederlandse marketeers",
+    "description": "Six metrics Dutch marketing teams should monitor to improve discovery in AI assistants, and how to measure them on Dutch prompts, per model, every day.",
+    "date": "2026-11-11",
+    "updated": "2026-11-11",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 1187,
+    "url": "https://trackbase.ai/blog/ai-visibility-metrics-for-dutch-marketing-teams",
+    "urlNl": "https://trackbase.ai/nl/blog/ai-visibility-metrics-for-dutch-marketing-teams",
+    "markdown": "https://content.trackbase.ai/blog/ai-visibility-metrics-for-dutch-marketing-teams.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/ai-visibility-metrics-for-dutch-marketing-teams.md",
+    "image": "https://framerusercontent.com/images/Pw0C6hylEA1yt6kVGCrCea4dc.png",
+    "hasNl": true
+  },
+  {
     "slug": "free-and-low-cost-ai-visibility-trackers-for-small-ecommerce-teams",
     "id": "cz_kHyHG2",
     "title": "Free and Low-Cost AI Visibility Trackers for Small Webshops",
@@ -861,24 +897,6 @@
     "markdown": "https://content.trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins.md",
     "markdownNl": "https://content.trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins.md",
     "image": "https://framerusercontent.com/images/WOGS3D2L4jXy6SsctdBtpdbyVY.webp",
-    "hasNl": true
-  },
-  {
-    "slug": "how-ai-models-decide-which-brands-to-recommend",
-    "id": "Irv1MKXHi",
-    "title": "How AI Models Decide Which Brands to Recommend",
-    "titleNl": "Hoe AI-modellen bepalen welke merken ze aanbevelen",
-    "description": "Ask ChatGPT for the best CRM, the best running shoes, the best AI visibility tool. You get a shortlist back. That shortlist is not random, and it is also not the result of any single thing.",
-    "date": "2026-06-20",
-    "updated": "2026-06-20",
-    "author": "levi-bouman",
-    "category": "AI Visibility",
-    "words": 704,
-    "url": "https://trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend",
-    "urlNl": "https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend",
-    "markdown": "https://content.trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend.md",
-    "markdownNl": "https://content.trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend.md",
-    "image": "https://framerusercontent.com/images/4ebr1Qq2x8IqAN2rPXPL0B4SQ.webp",
     "hasNl": true
   }
 ]

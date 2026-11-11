@@ -8,76 +8,111 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend
 alternate_markdown: https://content.trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend.md
 date_published: 2026-06-20
-date_modified: 2026-06-20
+date_modified: 2026-11-11
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
 publisher_url: https://trackbase.ai
 category: "AI Visibility"
 image: https://framerusercontent.com/images/4ebr1Qq2x8IqAN2rPXPL0B4SQ.webp
-word_count: 732
-reading_time_minutes: 3
+word_count: 1124
+reading_time_minutes: 5
 ---
 
 # Hoe AI-modellen bepalen welke merken ze aanbevelen
 
 > Vraag ChatGPT naar de beste CRM, de beste hardloopschoenen of de beste AI visibility tool. Je krijgt een shortlist terug. Die lijst is niet willekeurig. En hij is ook niet gebaseerd op één enkel ding.
 
-*Door Levi Bouman · Gepubliceerd 2026-06-20 · Bijgewerkt 2026-06-20 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend*
+*Door Levi Bouman · Gepubliceerd 2026-06-20 · Bijgewerkt 2026-11-11 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend*
 
-Vraag ChatGPT om de beste CRM, de beste hardloopschoenen of de beste AI visibility tool. Je krijgt direct een shortlist. Die selectie is niet willekeurig en ook niet het resultaat van één specifieke factor. Het is de optelsom van drie lagen over elkaar heen: wat het model heeft geleerd tijdens de training, wat het live kan ophalen, en hoe vaak anderen op het internet over je merk praten.
+AI-modellen bepalen welke merken ze aanbevelen door drie lagen te combineren: wat ze tijdens de training hebben geleerd, wat ze live van het web kunnen ophalen en hoe vaak onafhankelijke bronnen over je merk praten. Welke laag zwaarder weegt hangt af van de prompt, het model en de markt, waardoor hetzelfde merk in het ene antwoord kan winnen en in het volgende ontbreekt.
 
-Elke laag telt. Maar ze wegen niet voor elke prompt even zwaar.
+Vraag ChatGPT om de beste CRM, de beste hardloopschoenen of de beste AI visibility tool en je krijgt een shortlist terug. Die lijst is niet willekeurig en ook niet het resultaat van één factor. Dit artikel legt elke laag uit, laat zien hoe ze samenwerken en sluit af met een checklist van wat je kunt beïnvloeden.
 
-## Wat het model al weet
+## Laag 1: wat het model al weet
 
-Elk LLM is getraind op een snapshot van het openbare web. Wikipedia, Reddit, G2, nieuwsarchieven, forums, vergelijkingsblogs en miljoenen marketingspagina's. Als je merk vaak en met autoriteit in die bronnen voorkomt, neemt het model dat in zich op. Je merknaam raakt dan langzaam maar zeker gekoppeld aan de juiste categorie in de gewichten van het model.
+Elk groot taalmodel is getraind op een snapshot van het openbare web: Wikipedia, Reddit, reviewsites, nieuwsarchieven, forums, vergelijkingsblogs en miljoenen marketingpagina's. Komt je merk daar vaak voor, en in een context die gezaghebbend oogt, dan koppelt het model je naam aan de juiste categorie.
 
-Daarom winnen merken met sterke PR, een actieve community en een Wikipedia-pagina bijna automatisch op AI-shortlists. Het model is ze simpelweg vaker tegengekomen in contexten die ertoe doen.
+Daarom winnen merken met sterke PR, een actieve community en een Wikipedia-pagina bijna automatisch op AI-shortlists. Het model is ze simpelweg vaker tegengekomen op plekken die ertoe doen.
 
-Kleine kanttekening: trainingsdata heeft een uiterste datum. Een merk dat pas na de laatste trainingsronde is gelanceerd, is onzichtbaar in deze laag tot de volgende update. Nieuwere bedrijven moeten het dus vooral hebben van de volgende twee lagen.
+Trainingsdata heeft wel een uiterste datum. Een merk dat na de laatste trainingsronde is gelanceerd, is in deze laag onzichtbaar tot de volgende update. Nieuwere bedrijven moeten het dus vooral hebben van de volgende twee lagen.
 
-## Wat het model live kan opzoeken
+## Laag 2: wat het model live kan opzoeken
 
-De meeste moderne AI-assistenten vertrouwen niet alleen op hun geheugen. ChatGPT Search, [Perplexity](https://trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026), Gemini en Google AI Overviews voeren live webzoekopdrachten uit als de vraag daarom vraagt. Deze retrieval-laag haalt actuele content op van geïndexeerde pagina's, vat dit samen en verwerkt het in het antwoord.
+De meeste moderne assistenten vertrouwen niet alleen op hun geheugen. ChatGPT Search, [Perplexity](https://trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026), Gemini, Google AI Overviews en Google AI Mode voeren live zoekopdrachten uit als de vraag daarom vraagt. Deze retrieval-laag haalt actuele content op, vat die samen en verwerkt haar in het antwoord. De deelzoekopdrachten achter één antwoord heten query fan-outs en laten zien welke intenties het model echt probeert te bedienen.
 
-Dat is goed nieuws voor nieuwe merken of producten die pas vorig kwartaal zijn gelanceerd. Zelfs zonder jarenlange vermeldingen kan een goed gestructureerde pagina die autoriteit opbouwt voor de juiste [prompts](https://trackbase.ai/nl/features/prompt-tracking) binnen een paar weken in de AI-antwoorden verschijnen.
+Dat is goed nieuws als je recent gelanceerd bent. Een goed gestructureerde pagina die aansluit op de juiste prompts kan binnen weken in AI-antwoorden verschijnen, ook zonder jarenlange [citaties](https://trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility).
 
-De adder onder het gras: retrieval geeft de voorkeur aan pagina's waar informatie makkelijk uit te halen is. Vage intro's, ontbrekende koppen en onoverzichtelijke lappen tekst worden overgeslagen voor cleaner gestructureerde bronnen.
+De adder onder het gras: retrieval geeft de voorkeur aan pagina's waar informatie makkelijk uit te halen is. Vage intro's, ontbrekende koppen en lappen tekst zonder duidelijke stelling worden overgeslagen. AirOps meldt dat pagina's met een heldere structuur en schema 2,8 keer meer AI-citaties krijgen dan slecht opgemaakte pagina's ([AirOps](https://www.airops.com/blog/ai-search-metrics)). AirOps verkoopt zelf AI-zoektools en publiceert de steekproef niet, dus lees het getal als richtinggevend. Het sluit wel aan bij wat wij zien: antwoord-eerst-pagina's worden geciteerd.
 
-## Wie er nog meer over je praat
+## Laag 3: wie er nog meer over je praat
 
-Dit is de laag waar de meeste merken te weinig in investeren. AI-modellen hechten veel meer waarde aan onafhankelijke vermeldingen dan aan je eigen marketingteksten. Een review op G2 zegt meer dan de tagline op je homepage. Een artikel op TechCrunch heeft meer impact dan een blogpost die je zelf hebt geschreven.
+Dit is de laag waar de meeste merken te weinig in investeren. Modellen hechten meer waarde aan onafhankelijke vermeldingen dan aan je eigen marketingtekst. Een review op een gerespecteerd platform zegt meer dan de tagline op je homepage, en een redactioneel artikel weegt zwaarder dan een blog die je zelf schreef.
 
-De volgende vijf kanalen wegen het zwaarst:
+Vijf kanalen doen het meeste werk:
 
 -   Reviews op G2, Capterra en TrustRadius
 
 -   Redactionele aandacht in gerespecteerde vakmedia
 
--   Wikipedia- en Wikidata-pagina's (als je merk hiervoor in aanmerking komt)
+-   Wikipedia- en Wikidata-pagina's, als je merk daarvoor in aanmerking komt
 
 -   Discussies op Reddit, Hacker News en nicheforums waar je doelgroep echt actief is
 
 -   Vergelijkingspagina's en lijstjes van externe partijen
 
-Belangrijk om te weten: niet elke vermelding weegt even zwaar. AI-modellen filteren overduidelijke promotie er zo uit. Een lovende review op een affiliate-site doet minder dan een gebalanceerde vergelijking van een gerespecteerd analist.
+Niet elke vermelding weegt even zwaar. Modellen lijken overduidelijke promotie te discounten: een gebalanceerde vergelijking van een analist doet meestal meer dan een juichende affiliate-review. In de [geciteerde bronnen](https://trackbase.ai/nl/glossary/cited-sources) van je gevolgde prompts zie je op welke externe pagina's een model leunt.
 
-## Relevantie per prompt
+## Laag 4: aansluiting bij de specifieke prompt
 
-Zelfs met alle drie de lagen aan jouw kant moet het model nog steeds beslissen of jouw merk past bij de specifieke prompt die de gebruiker invoert.
+Zelfs met alle drie de lagen aan jouw kant moet het model nog beslissen of je merk past bij de prompt die voorligt. Je kunt domineren bij "enterprise CRM" en onzichtbaar zijn bij "CRM voor zzp'ers". De afweging kijkt naar intentie, segment, geografie en soms prijsklasse.
 
-Je kunt dominant zijn bij de zoekopdracht 'enterprise CRM', maar onzichtbaar blijven bij 'CRM voor zzp'ers'. De berekening kijkt naar intentie, segment, geografie en soms prijsklasse. Dat verklaart waarom een merk hoog kan scoren in het ene AI-platform en laag in het andere: elk model interpreteert relevantie net even anders en haalt zijn informatie uit verschillende bronnen.
+Daarom verschillen resultaten ook per model. Elk model weegt aansluiting net anders en put uit een iets andere bronnenpool, waardoor ChatGPT, Gemini en Perplexity bij dezelfde vraag regelmatig andere merken noemen.
 
-[Trackbase](https://trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view) brengt dit soort verschillen haarfijn in kaart voor alle 11 platforms die we monitoren. Zo zie je precies waar je wint, verliest en waarom.
+## De lagen in één overzicht
 
-## Wat kun je hiermee?
+| Laag | Waar het signaal vandaan komt | Snelheid van verandering | Wat je kunt doen |
+| --- | --- | --- | --- |
+| Trainingskennis | Snapshot van het web ten tijde van de training | Maanden tot jaren | Bouw blijvende PR-, community- en referentiesiteaanwezigheid op |
+| Live retrieval | Geïndexeerde pagina's op het moment van antwoorden | Dagen tot weken | Publiceer extraheerbare, antwoord-eerst-pagina's met goede structuur |
+| Externe vermeldingen | Reviews, redactionele content, forums, vergelijkingen | Weken tot maanden | Verdien gebalanceerde aandacht op bronnen die modellen al citeren |
+| Promptaansluiting | Match tussen je positionering en de vraag | Afhankelijk van je content | Dek elk segment en gebruiksscenario af met een eigen pagina |
 
-Als je begrijpt waar de input vandaan komt, kun je die sturen. Zorg voor sterke externe vermeldingen in betrouwbare bronnen. Richt je pagina's zo in dat ze makkelijk leesbaar zijn voor een crawler. Zorg dat je continu zichtbaar bent in vergelijkingscontent binnen jouw categorie. Geen snelle hacks, maar resultaten die op de lange termijn optellen.
+## Waarom één antwoord nooit het hele beeld geeft
 
-En ga meten. Zonder dagelijks te volgen wat er daadwerkelijk in de [AI-antwoorden](https://trackbase.ai/nl/blog/monitor-changes-in-ai-answers-over-time) verschijnt, ben je aan het optimaliseren in het donker.
+AI-antwoorden schommelen. Volgens *The 2026 State of AI Search* van AirOps blijft slechts 30% van de merken zichtbaar van het ene antwoord op het volgende, en maar 20% over vijf opeenvolgende runs. Hetzelfde onderzoek meldt dat merken met zowel citaties als vermeldingen 40% vaker terugkomen in meerdere antwoorden dan merken met alleen citaties. Zie dit als door een leverancier aangeleverde cijfers, maar de richting past bij wat dagelijkse tracking laat zien: één meting zegt weinig, een trend zegt veel.
 
-[AI-aanbevelingen](https://trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend) zijn geen kwestie van geluk, maar van signalen. Door te begrijpen [wat AI visibility is](https://trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters), kun je die signalen gericht beïnvloeden. De winnende merken zijn de merken die consistent aanwezig zijn in de bronnen die AI-modellen vertrouwen, die hun content structureren voor de manier waarop modellen lezen, en die dit dagelijks monitoren. Start een Trackbase-proefperiode en ontdek vandaag nog waar jouw merk staat op [11 AI platforms](https://trackbase.ai/nl/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools).
+## Wat doe je hiermee?
+
+Begrijp je de input, dan kun je die sturen:
+
+1.  **Verdien externe aandacht** in de bronnen die modellen al vertrouwen voor jouw categorie.
+
+2.  **Structureer pagina's voor extractie**: eerst een direct antwoord, duidelijke H2-kopjes, een tabel of lijst en [gestructureerde data](https://trackbase.ai/nl/glossary/structured-data).
+
+3.  **Kom voor in vergelijkingscontent** binnen je categorie, ook op pagina's die niet van jou zijn.
+
+4.  **Dek elk segment af**, zodat de afweging iets heeft om aan te koppelen.
+
+5.  **Meet dagelijks**, per model, zodat je weet welke laag je beperkt.
+
+Geen snelle winst, maar het stapelt zich op. [AI-aanbevelingen](https://trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend) volgen signalen, geen geluk, en als je begrijpt [wat AI-zichtbaarheid is](https://trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters), richt je je op de juiste signalen. Zonder dagelijks te volgen wat er in [AI-antwoorden](https://trackbase.ai/nl/blog/monitor-changes-in-ai-answers-over-time) verschijnt, optimaliseer je in het donker.
+
+[Trackbase](https://trackbase.ai/nl/blog/inside-the-trackbase-dashboard-track-analyze-act-in-one-view) is een Nederlands, in de EU gehost platform dat je prompts dagelijks draait over maximaal 11 AI-modellen en Visibility Score, Share of Voice, citaties en sentiment toont, met geprioriteerde acties erbovenop. Check waar je staat met de [gratis AI Visibility Checker](https://trackbase.ai/nl/free-ai-visibility-checker) of bekijk de [prijzen](https://trackbase.ai/nl/pricing) (14 dagen gratis proberen).
+
+## FAQ
+
+### Bevelen AI-modellen merken aan op basis van betaalde plaatsing?
+
+Bij organische antwoorden niet: aanbevelingen komen uit trainingskennis, opgehaalde bronnen en onafhankelijke vermeldingen. In sommige assistenten bestaan advertentieformaten, maar die worden apart van het organische antwoord getoond.
+
+### Hoe lang duurt het voor je in AI-antwoorden verschijnt?
+
+Nieuwe, goed gestructureerde pagina's kunnen via live retrieval binnen weken opduiken. Verschuivingen in trainingskennis en externe reputatie kosten maanden, dus begin met beide sporen tegelijk.
+
+### Waarom verschijnt mijn merk in ChatGPT maar niet in Gemini?
+
+Elk model put uit een andere bronnenpool en weegt promptaansluiting anders. Volg zichtbaarheid per model, kijk welke bronnen elk model citeert en dicht de kloof daar in plaats van op een gemiddelde te optimaliseren.
 
 ---
 
