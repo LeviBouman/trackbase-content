@@ -57,6 +57,9 @@ export function linkGlossaryTerms(html, terms, { lang = "en", max = 5, exclude =
       const re = new RegExp(`(^|[^\\w/-])(${escapeRe(phrase)})(?![\\w-])`, "i");
       const m = text.match(re);
       if (!m) continue;
+      // never match inside an anchor this loop already inserted (prevents nested links)
+      const pre = text.slice(0, m.index + m[1].length);
+      if (pre.lastIndexOf("<a ") > pre.lastIndexOf("</a>")) continue;
       const idx = m.index + m[1].length;
       const before = text.slice(0, idx);
       const word = text.slice(idx, idx + m[2].length);

@@ -8,6 +8,7 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 
 ## Articles (English)
 
+- [AEO for Dutch Marketers: How It Differs From SEO](https://content.trackbase.ai/blog/aeo-for-dutch-marketers-how-answer-engine-optimization-differs-from-seo.md) · 2026-11-13 (updated 2026-11-13) · HTML: https://trackbase.ai/blog/aeo-for-dutch-marketers-how-answer-engine-optimization-differs-from-seo
 - [How AI Models Decide Which Brands to Recommend](https://content.trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend.md) · 2026-06-20 (updated 2026-11-11) · HTML: https://trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend
 - [AI Visibility Metrics for Dutch Marketing Teams (2026)](https://content.trackbase.ai/blog/ai-visibility-metrics-for-dutch-marketing-teams.md) · 2026-11-11 (updated 2026-11-11) · HTML: https://trackbase.ai/blog/ai-visibility-metrics-for-dutch-marketing-teams
 - [Free and Low-Cost AI Visibility Trackers for Small Webshops](https://content.trackbase.ai/blog/free-and-low-cost-ai-visibility-trackers-for-small-ecommerce-teams.md) · 2026-11-09 (updated 2026-11-09) · HTML: https://trackbase.ai/blog/free-and-low-cost-ai-visibility-trackers-for-small-ecommerce-teams
@@ -61,6 +62,7 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 
 ## Artikelen (Nederlands)
 
+- [AEO voor Nederlandse marketeers: het verschil met SEO](https://content.trackbase.ai/nl/blog/aeo-for-dutch-marketers-how-answer-engine-optimization-differs-from-seo.md) · 2026-11-13 (bijgewerkt 2026-11-13) · HTML: https://trackbase.ai/nl/blog/aeo-for-dutch-marketers-how-answer-engine-optimization-differs-from-seo
 - [Hoe AI-modellen bepalen welke merken ze aanbevelen](https://content.trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend.md) · 2026-06-20 (bijgewerkt 2026-11-11) · HTML: https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend
 - [AI-zichtbaarheid meten: de KPI's voor Nederlandse marketeers](https://content.trackbase.ai/nl/blog/ai-visibility-metrics-for-dutch-marketing-teams.md) · 2026-11-11 (bijgewerkt 2026-11-11) · HTML: https://trackbase.ai/nl/blog/ai-visibility-metrics-for-dutch-marketing-teams
 - [Gratis en goedkope AI-zichtbaarheidstrackers voor kleine webshops](https://content.trackbase.ai/nl/blog/free-and-low-cost-ai-visibility-trackers-for-small-ecommerce-teams.md) · 2026-11-09 (bijgewerkt 2026-11-09) · HTML: https://trackbase.ai/nl/blog/free-and-low-cost-ai-visibility-trackers-for-small-ecommerce-teams

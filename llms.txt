@@ -4,6 +4,7 @@
 
 ## Articles
 
+- [AEO for Dutch Marketers: How It Differs From SEO](https://content.trackbase.ai/blog/aeo-for-dutch-marketers-how-answer-engine-optimization-differs-from-seo.md): AEO earns the mention inside an AI answer, SEO earns the click. Here is what changes for Dutch marketers, with a five-step playbook and the metrics to track.
 - [How AI Models Decide Which Brands to Recommend](https://content.trackbase.ai/blog/how-ai-models-decide-which-brands-to-recommend.md): Ask ChatGPT for the best CRM, the best running shoes, the best AI visibility tool. You get a shortlist back. That shortlist is not random, and it is also not the result of any single thing.
 - [AI Visibility Metrics for Dutch Marketing Teams (2026)](https://content.trackbase.ai/blog/ai-visibility-metrics-for-dutch-marketing-teams.md): Six metrics Dutch marketing teams should monitor to improve discovery in AI assistants, and how to measure them on Dutch prompts, per model, every day.
 - [Free and Low-Cost AI Visibility Trackers for Small Webshops](https://content.trackbase.ai/blog/free-and-low-cost-ai-visibility-trackers-for-small-ecommerce-teams.md): Which free checkers and low-cost trackers work for small e-commerce teams, what they cost, and how to pick the smallest plan that gives real insight.
@@ -57,6 +58,7 @@
 
 ## Artikelen (nl-NL)
 
+- [AEO voor Nederlandse marketeers: het verschil met SEO](https://content.trackbase.ai/nl/blog/aeo-for-dutch-marketers-how-answer-engine-optimization-differs-from-seo.md)
 - [Hoe AI-modellen bepalen welke merken ze aanbevelen](https://content.trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend.md)
 - [AI-zichtbaarheid meten: de KPI's voor Nederlandse marketeers](https://content.trackbase.ai/nl/blog/ai-visibility-metrics-for-dutch-marketing-teams.md)
 - [Gratis en goedkope AI-zichtbaarheidstrackers voor kleine webshops](https://content.trackbase.ai/nl/blog/free-and-low-cost-ai-visibility-trackers-for-small-ecommerce-teams.md)
