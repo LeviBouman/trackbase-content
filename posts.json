@@ -1,5 +1,41 @@
 [
   {
+    "slug": "how-to-prioritize-content-and-technical-fixes-for-ai-recommendations",
+    "id": "HnJlwBd4c",
+    "title": "How to Prioritize Content and Technical Fixes for AI Recommendations",
+    "titleNl": "Content- en techniekfixes prioriteren voor AI-aanbevelingen",
+    "description": "A practical order of operations for winning AI recommendations: fix technical blockers first, then rank content gaps by revenue proximity, gap size and effort, and re-measure every sprint.",
+    "date": "2026-11-16",
+    "updated": "2026-11-16",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 1059,
+    "url": "https://trackbase.ai/blog/how-to-prioritize-content-and-technical-fixes-for-ai-recommendations",
+    "urlNl": "https://trackbase.ai/nl/blog/how-to-prioritize-content-and-technical-fixes-for-ai-recommendations",
+    "markdown": "https://content.trackbase.ai/blog/how-to-prioritize-content-and-technical-fixes-for-ai-recommendations.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/how-to-prioritize-content-and-technical-fixes-for-ai-recommendations.md",
+    "image": "https://framerusercontent.com/images/jhIgnIqisgbtdCagEM84BWhTbG0.png",
+    "hasNl": true
+  },
+  {
+    "slug": "being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins",
+    "id": "gtkjKr_BB",
+    "title": "Being Mentioned by AI Isn’t Enough: Why Sentiment Decides Who Wins",
+    "titleNl": "Alleen genoemd worden door AI is niet genoeg: dit is waarom sentiment de winnaar bepaalt",
+    "description": "Two brands appear in the same ChatGPT answer. One is described as a solid, well-reviewed option that teams trust. The other is listed as an option, though the model adds that some users report slow support. Both were mentioned. Only one is getting the click.",
+    "date": "2026-06-26",
+    "updated": "2026-11-13",
+    "author": "bodrik-bakker",
+    "category": "AI Visibility",
+    "words": 898,
+    "url": "https://trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins",
+    "urlNl": "https://trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins",
+    "markdown": "https://content.trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins.md",
+    "image": "https://framerusercontent.com/images/WOGS3D2L4jXy6SsctdBtpdbyVY.webp",
+    "hasNl": true
+  },
+  {
     "slug": "aeo-for-dutch-marketers-how-answer-engine-optimization-differs-from-seo",
     "id": "Mfa_IH5Io",
     "title": "AEO for Dutch Marketers: How It Differs From SEO",
@@ -897,24 +933,6 @@
     "markdown": "https://content.trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md",
     "markdownNl": "https://content.trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md",
     "image": "https://framerusercontent.com/images/zcgREbWrVV1ZLxdfhKxaFCV6Bag.webp",
-    "hasNl": true
-  },
-  {
-    "slug": "being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins",
-    "id": "gtkjKr_BB",
-    "title": "Being Mentioned by AI Isn’t Enough: Why Sentiment Decides Who Wins",
-    "titleNl": "Alleen genoemd worden door AI is niet genoeg: dit is waarom sentiment de winnaar bepaalt",
-    "description": "Two brands appear in the same ChatGPT answer. One is described as a solid, well-reviewed option that teams trust. The other is listed as an option, though the model adds that some users report slow support. Both were mentioned. Only one is getting the click.",
-    "date": "2026-06-26",
-    "updated": "2026-06-26",
-    "author": "bodrik-bakker",
-    "category": "AI Visibility",
-    "words": 486,
-    "url": "https://trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins",
-    "urlNl": "https://trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins",
-    "markdown": "https://content.trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins.md",
-    "markdownNl": "https://content.trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins.md",
-    "image": "https://framerusercontent.com/images/WOGS3D2L4jXy6SsctdBtpdbyVY.webp",
     "hasNl": true
   }
 ]
