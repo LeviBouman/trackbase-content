@@ -1,6 +1,6 @@
 ---
-title: "AI visibility voor agencies: zo bied je GEO tracking aan als dienst"
-description: "Klanten gaan vragen waarom ChatGPT hen niet aanbeveelt. Zo bied je als agency AI visibility en GEO tracking aan als terugkerende dienst."
+title: "AI-zichtbaarheid voor bureaus: GEO-tracking als dienst aanbieden"
+description: "Zo verpakken bureaus AI-zichtbaarheidstracking als retainer: wat je verkoopt, wat je eist van de tool voor meerdere klanten en hoe je het prijst."
 canonical: https://trackbase.ai/nl/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service
 markdown: https://content.trackbase.ai/nl/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service.md
 language: nl-NL
@@ -8,70 +8,100 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service
 alternate_markdown: https://content.trackbase.ai/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service.md
 date_published: 2026-07-08
-date_modified: 2026-07-08
+date_modified: 2026-11-18
 author: "Bodrik Bakker"
 author_url: https://trackbase.ai/blog/author/bodrik-bakker
 publisher: Trackbase
 publisher_url: https://trackbase.ai
 category: "AI Visibility"
 image: https://framerusercontent.com/images/j5U3NqVOa8dosQTLVxyC1O2CBA.webp
-word_count: 520
-reading_time_minutes: 2
+word_count: 943
+reading_time_minutes: 4
 ---
 
-# AI visibility voor agencies: zo bied je GEO tracking aan als dienst
+# AI-zichtbaarheid voor bureaus: GEO-tracking als dienst aanbieden
 
-> Klanten gaan vragen waarom ChatGPT hen niet aanbeveelt. Zo bied je als agency AI visibility en GEO tracking aan als terugkerende dienst.
+> Zo verpakken bureaus AI-zichtbaarheidstracking als retainer: wat je verkoopt, wat je eist van de tool voor meerdere klanten en hoe je het prijst.
 
-*Door Bodrik Bakker · Gepubliceerd 2026-07-08 · Bijgewerkt 2026-07-08 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service*
+*Door Bodrik Bakker · Gepubliceerd 2026-07-08 · Bijgewerkt 2026-11-18 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service*
 
-Je klanten gaan binnenkort vragen waarom ze niet verschijnen als iemand ChatGPT vraagt naar de beste aanbieder in hun categorie. Bureaus met een duidelijk antwoord én een passend aanbod winnen deze gesprekken. Wie zijn schouders ophaalt, verliest zijn klanten aan bureaus die dat niet doen.
-
-**AI visibility wordt waarschijnlijk de volgende vaste post op de factuur. De vroege vogels bepalen de regels.**
+Bureaus kunnen AI-zichtbaarheid aanbieden als terugkerende retainer: een nulmeting, dagelijkse tracking in AI-modellen voor elke klant, white-label maandrapportage en een geprioriteerde lijst met verbeteringen. De dienst werkt als één platform meerdere klanten in aparte workspaces bewaakt, zodat de marge uit de tooling komt en niet uit handmatige screenshots. Deze gids behandelt wat je verkoopt, wat je eist van de tool eronder en hoe je het prijst.
 
 ## Waarom dit nu dé kans is voor bureaus
 
-De vraag groeit sneller dan het aanbod. De meeste merken weten dat AI search belangrijk is, maar hebben geen idee waar ze staan. En nauwelijks een bureau heeft al een geloofwaardige oplossing op de plank liggen. Die kloof is jouw kans. Bovendien is het werk dat blijft terugkomen: een nulmeting, doorlopende tracking, maandelijkse rapportages en continue optimalisatie. Dat is geen eenmalig project, maar een doorlopend retainer-contract.
+Klanten beginnen te vragen waarom ChatGPT of Gemini hen niet aanbeveelt. De meeste merken weten dat AI search belangrijk is, maar hebben geen idee waar ze staan, en weinig bureaus hebben al een geloofwaardig antwoord. Die kloof is jouw kans. Het is ook van nature terugkerend werk: een nulmeting, doorlopende tracking, maandelijkse rapportage en continue optimalisatie vormen een retainer, geen eenmalig project.
 
-## Wat een AI visibility service inhoudt
+De prompts die bureaus zelf aan AI-modellen stellen laten dezelfde verschuiving zien. In Trackbase's eigen citatiedata van de afgelopen 30 dagen leverde de prompt "What software can agencies use to monitor AI answer rankings for multiple clients?" 1.533 citaties op, en de meest geciteerde bronnen waren leverancierspagina's zoals Rankscale (49), Peec AI (39), Profound (35) en Otterly (30). Kopers vergelijken al tools; jouw taak is het bureau te zijn dat er een heeft gekozen en een dienst omheen heeft gebouwd.
 
-Een compleet aanbod bestaat uit vier delen, die naadloos aansluiten op het werk dat je bureau al doet:
+## Wat een AI-zichtbaarheidsdienst inhoudt
 
--   **Nulmeting**: waar staat de klant nu op verschillende [AI-platformen](https://trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026), en hoe doen ze het vergeleken met de concurrentie?
+Een compleet aanbod bestaat uit vier delen, die aansluiten op werk dat bureaus al doen:
 
--   **Doorlopende tracking**: de Visibility Score, [Share of Voice](https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice), sentiment en verschuivingen bij de concurrentie over de tijd heen.
+-   **Nulmeting:** waar staat de klant nu op verschillende [AI-platformen](https://trackbase.ai/nl/blog/the-11-ai-platforms-every-brand-should-be-tracking-in-2026), en hoe doen ze het vergeleken met de concurrentie? De [gratis AI-zichtbaarheidscheck](https://trackbase.ai/nl/free-ai-visibility-checker) is een laagdrempelige manier om het gesprek te openen.
 
--   **Optimalisatie**: het verbeteren van eigen content en het verdienen van vermeldingen, gebaseerd op het [AI visibility playbook](https://trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook) en de [guide to earning citations](https://trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust).
+-   **Doorlopende tracking:** Visibility Score, [Share of Voice](https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice), sentiment en verschuivingen bij de concurrentie, dagelijks ververst.
 
--   **Rapportage**: een helder maandelijks overzicht dat de klant ook echt begrijpt en waar ze direct mee aan de slag kunnen.
+-   **Optimalisatie:** het verbeteren van eigen content en het verdienen van vermeldingen, gebaseerd op het [AI-zichtbaarheidsplaybook](https://trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook) en de [gids over citaties verdienen](https://trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust).
 
-## Waar je op moet letten bij een tool
+-   **Rapportage:** een heldere maandelijkse analyse die een klant begrijpt en waar hij mee aan de slag kan, onder de merknaam van je bureau.
 
-De software die je gebruikt bepaalt hoe winstgevend je deze service kunt leveren. Voor agency-gebruik zijn vier dingen essentieel:
+## Wat je moet eisen van de tool waarop je het draait
 
--   Multi-client management, zodat elk merk zijn eigen, schone werkomgeving heeft.
+Het platform eronder bepaalt hoe winstgevend je de dienst kunt leveren. Vijf eisen tellen het zwaarst bij werk voor meerdere klanten:
 
--   White-label rapportages, zodat de presentatie de look & feel van jouw bureau heeft en niet die van de tool.
+| Eis | Waarom het ertoe doet voor een bureau |
+| --- | --- |
+| Aparte workspace per klant | Houdt prompts, concurrenten en data schoon en voorkomt fouten tussen klanten |
+| White-label rapportage | Het resultaat draagt jouw merk, niet dat van de leverancier |
+| Modeldekking | De kopers van je klanten gebruiken verschillende assistenten; dekking mag geen knelpunt zijn |
+| Dagelijkse verversing | Rapporten weerspiegelen de werkelijkheid en een daling is binnen dagen te verklaren |
+| Uitvoerbare aanbevelingen | Bevindingen worden direct factureerbaar klantwerk |
 
--   Brede dekking van platformen en frequente updates, zodat je rapportages de realiteit weerspiegelen in plaats van een verouderde momentopname.
+Onze checklist voor [white-label AI-zichtbaarheidsdashboards](https://trackbase.ai/nl/blog/white-label-ai-visibility-dashboards-for-agencies-checklist) gaat dieper in op de rapportage, en het artikel over [wat enterprise-teams moeten eisen van een AI-monitoringplatform](https://trackbase.ai/nl/blog/what-features-should-enterprise-teams-require-from-an-ai-monitoring-platform) geldt ook voor grotere bureaus.
 
--   Concrete [aanbevelingen](https://trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend) die je direct kunt vertalen naar declarabele uren voor je klanten.
+## Waar Trackbase past
 
-Dit is precies waar software voor zzp'ers vaak tekortschiet. [Trackbase](https://trackbase.ai/nl/blog/why-brands-choose-trackbase-over-other-ai-visibility-tools) volgt 11 platformen met een dagelijkse verversing. Het Business-abonnement geeft je toegang tot white-label rapportages en onbeperkte werkruimtes, speciaal ontworpen voor het beheren van meerdere [klantmerken](https://trackbase.ai/nl/solutions/agency).
+[Trackbase](https://trackbase.ai/nl/solutions/agency) ververst elke 24 uur en volgt tot 11 AI-modellen, afhankelijk van het plan. Het Enterprise / Agency-plan voegt meerdere merken en workspaces toe, eigen prompts, modellen en concurrenten, de MCP-koppeling en een SLA, tegen maatwerkprijs. De losse plannen zijn self-serve: Essential voor €49 per maand (3 modellen, 10 prompts) en Professional voor €199 per maand (alle 11 modellen, 20 prompts). Bekijk de [prijspagina](https://trackbase.ai/nl/pricing) voor de actuele details, want plannen veranderen.
 
-## Hoe je dit verpakt en prijst
+Wil je klanten doorverkopen of doorverwijzen, dan heeft het [Trackbase-partnerprogramma](https://trackbase.ai/partner) een agency- en resellertraject met een workspace per klant en partnerprijzen, plus een affiliatetraject met terugkerende commissie.
 
--   Productiseer het. Maak pakketten op basis van het aantal [gevolgde prompts](https://trackbase.ai/nl/features/prompt-tracking), concurrenten of markten. Zo is de scope helder en de upsell logisch.
+## Zo verpak en prijs je het
 
--   Combineer het met bestaande SEO- en contentpakketten, in plaats van het los te verkopen. Het is het logische verlengde van wat je nu al levert.
+1.  **Productiseer het.** Maak tiers op basis van het aantal [gevolgde prompts](https://trackbase.ai/nl/features/prompt-tracking), concurrenten of markten, zodat de scope helder is en upsells voor de hand liggen. Een gangbare opzet is een kleine tier met een handvol kernprompts en een grotere met een volledige promptset en een concurrentiereview.
 
--   Begin met de audit. Een nulmeting is een laagdrempelige instap die de pijn concreet maakt en de retainer makkelijk te rechtvaardigen maakt.
+2.  **Bundel het** als volgende laag op bestaande SEO- en contentretainers, niet als aparte verkoop. Het is de logische uitbreiding van werk dat je al levert.
 
-[AI visibility](https://trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters) is geen bijproject voor bureaus. Het is een nieuwe service met een groeiende vraag, weinig concurrentie en ingebouwde terugkerende inkomsten. Wil je dit opbouwen met een platform dat gemaakt is voor bureauwerk? Bekijk dan het [Trackbase partner programme](https://trackbase.ai/nl/partner).
+3.  **Begin met de nulmeting.** Een nulmetingrapport is een laagdrempelige instap die de kloof concreet maakt en de retainer makkelijk te onderbouwen.
 
-## Klaar om te winnen in AI search?
+4.  **Rapporteer op beweging, niet alleen op positie.** Klanten waarderen een helder verhaal: wat veranderde er deze maand, waarom en wat deed je eraan. De [actielijst](https://trackbase.ai/nl/features/actions) geeft je die vervolgstap kant-en-klaar.
 
-Sluit je aan bij de merken die hun zichtbaarheid al meten op [ChatGPT](https://trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company), Gemini, Claude en meer. [Start vandaag je gratis proefperiode](https://app.trackbase.ai/nl/register).
+5.  **Stel verwachtingen.** AI-antwoorden verschillen per run, dus spreek vooraf af dat je trends over dagen en weken rapporteert en geen losse antwoorden.
+
+## Veelgemaakte fouten
+
+-   Een garantie verkopen op "nummer 1 in ChatGPT". Antwoorden variëren; verkoop meting, verbetering en rapportage.
+
+-   Te veel prompts te vroeg volgen. Begin met de tien tot twintig prompts die aansluiten op de omzet van de klant.
+
+-   Rapporteren op één model. Een daling op de ene assistent terwijl een andere gelijk blijft is een ander probleem, zoals we uitleggen in [modelspecifieke rapportage](https://trackbase.ai/nl/blog/model-by-model-ai-visibility-reporting-real-time-or-daily).
+
+-   Sentiment negeren. Negatief genoemd worden kan erger zijn dan niet genoemd worden, zie [waarom sentiment bepaalt wie wint](https://trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins).
+
+[AI-zichtbaarheid](https://trackbase.ai/nl/blog/what-is-ai-visibility-and-why-it-matters) is voor bureaus geen bijproject. Het is een dienstenlijn met groeiende vraag, weinig concurrentie en terugkerende omzet ingebouwd.
+
+## FAQ
+
+### Wat heeft een bureau nodig om AI-zichtbaarheid als dienst aan te bieden?
+
+Een proces voor de nulmeting, een platform dat AI-antwoorden dagelijks per klant volgt, een rapportagetemplate onder je eigen merk en een manier om bevindingen om te zetten in content- en citatiewerk. Het platform is de grootste hefboom omdat het bepaalt hoeveel handwerk elke klant kost.
+
+### Kan één platform meerdere klanten beheren?
+
+Ja, als het aparte workspaces per merk ondersteunt. Bij Trackbase maken meerdere merken en workspaces deel uit van het Enterprise / Agency-plan; de self-serve plannen dekken elk één merk.
+
+### Hoe prijst een bureau AI-zichtbaarheidstracking?
+
+Als gelaagde retainer op basis van het aantal prompts, concurrenten en markten, eventueel gebundeld met bestaand SEO- en contentwerk. Start met een betaalde of gratis nulmeting en zet die om in maandelijkse tracking en optimalisatie.
 
 ---
 
