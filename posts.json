@@ -1,5 +1,41 @@
 [
   {
+    "slug": "ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up",
+    "id": "TnMuEjlb9",
+    "title": "AI Visibility for B2B SaaS: Where Buyers Look and How to Show Up",
+    "titleNl": "AI visibility voor B2B SaaS: waar kopers zoeken en hoe je verschijnt",
+    "description": "The modern software buying journey often starts in a chat window, not a search bar. A buyer types “best [category] tool for [use case]” into ChatGPT and gets a shortlist back. Your brand is on that list, or it is not, and most of the evaluation happens before anyone visits your homepage.",
+    "date": "2026-06-29",
+    "updated": "2026-11-20",
+    "author": "bodrik-bakker",
+    "category": "AI Visibility",
+    "words": 883,
+    "url": "https://trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up",
+    "urlNl": "https://trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up",
+    "markdown": "https://content.trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md",
+    "image": "https://framerusercontent.com/images/zcgREbWrVV1ZLxdfhKxaFCV6Bag.webp",
+    "hasNl": true
+  },
+  {
+    "slug": "which-tools-track-ai-share-of-voice-across-ai-search-models",
+    "id": "UTHHd2aoQ",
+    "title": "Which Tools Track AI Share of Voice Across AI Search Models?",
+    "titleNl": "Welke tools volgen AI share of voice in AI-zoekmodellen?",
+    "description": "Yes, several tools track brand visibility and share of voice across ChatGPT, Gemini, Perplexity and Google AI. Here is what separates them: model coverage, prompt design, mentions vs. citations and cadence.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 976,
+    "url": "https://trackbase.ai/blog/which-tools-track-ai-share-of-voice-across-ai-search-models",
+    "urlNl": "https://trackbase.ai/nl/blog/which-tools-track-ai-share-of-voice-across-ai-search-models",
+    "markdown": "https://content.trackbase.ai/blog/which-tools-track-ai-share-of-voice-across-ai-search-models.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/which-tools-track-ai-share-of-voice-across-ai-search-models.md",
+    "image": "https://framerusercontent.com/images/gaRuKfW9YXcBakdUCYI0WiqI05Y.png",
+    "hasNl": true
+  },
+  {
     "slug": "ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service",
     "id": "dVrMd_Mmv",
     "title": "AI Visibility for Agencies: Offer GEO Tracking as a Service",
@@ -933,24 +969,6 @@
     "markdown": "https://content.trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md",
     "markdownNl": "https://content.trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md",
     "image": "https://framerusercontent.com/images/sbWTqY3Dv1ylvujtSbomOe0QIU.webp",
-    "hasNl": true
-  },
-  {
-    "slug": "ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up",
-    "id": "TnMuEjlb9",
-    "title": "AI Visibility for B2B SaaS: Where Buyers Look and How to Show Up",
-    "titleNl": "AI visibility voor B2B SaaS: waar kopers zoeken en hoe je verschijnt",
-    "description": "The modern software buying journey often starts in a chat window, not a search bar. A buyer types “best [category] tool for [use case]” into ChatGPT and gets a shortlist back. Your brand is on that list, or it is not, and most of the evaluation happens before anyone visits your homepage.",
-    "date": "2026-06-29",
-    "updated": "2026-06-29",
-    "author": "bodrik-bakker",
-    "category": "AI Visibility",
-    "words": 459,
-    "url": "https://trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up",
-    "urlNl": "https://trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up",
-    "markdown": "https://content.trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md",
-    "markdownNl": "https://content.trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md",
-    "image": "https://framerusercontent.com/images/zcgREbWrVV1ZLxdfhKxaFCV6Bag.webp",
     "hasNl": true
   }
 ]
