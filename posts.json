@@ -1,5 +1,41 @@
 [
   {
+    "slug": "how-to-improve-your-ai-visibility-a-practical-playbook",
+    "id": "dm78PXwIY",
+    "title": "How to Improve Your AI Visibility: A Practical Playbook",
+    "titleNl": "Zo verbeter je je AI-visibility: een praktisch playbook",
+    "description": "You already know AI visibility matters. The harder question is what to actually do about it on Monday morning. This is the owned-side playbook: the work on your own properties that you fully control. For the off-site half, see the guide on earning AI citations.",
+    "date": "2026-07-02",
+    "updated": "2026-11-23",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 865,
+    "url": "https://trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook",
+    "urlNl": "https://trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook",
+    "markdown": "https://content.trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md",
+    "image": "https://framerusercontent.com/images/sbWTqY3Dv1ylvujtSbomOe0QIU.webp",
+    "hasNl": true
+  },
+  {
+    "slug": "googles-ai-optimization-guide-what-it-means-for-geo",
+    "id": "rR2Ymchwv",
+    "title": "Google's AI Optimization Guide: What It Means for GEO",
+    "titleNl": "Googles AI-optimalisatiegids: wat het betekent voor GEO",
+    "description": "Google says optimizing for AI Overviews and AI Mode is still SEO. Here is what its guide says, which myths it rejects, and what it cannot measure for you.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23",
+    "author": "bodrik-bakker",
+    "category": "AI Visibility",
+    "words": 952,
+    "url": "https://trackbase.ai/blog/googles-ai-optimization-guide-what-it-means-for-geo",
+    "urlNl": "https://trackbase.ai/nl/blog/googles-ai-optimization-guide-what-it-means-for-geo",
+    "markdown": "https://content.trackbase.ai/blog/googles-ai-optimization-guide-what-it-means-for-geo.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/googles-ai-optimization-guide-what-it-means-for-geo.md",
+    "image": "https://framerusercontent.com/images/QSV8aHe7l2pJMj9mubMd0poDaP0.png",
+    "hasNl": true
+  },
+  {
     "slug": "ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up",
     "id": "TnMuEjlb9",
     "title": "AI Visibility for B2B SaaS: Where Buyers Look and How to Show Up",
@@ -951,24 +987,6 @@
     "markdown": "https://content.trackbase.ai/blog/trackbase-vs-profound.md",
     "markdownNl": "https://content.trackbase.ai/nl/blog/trackbase-vs-profound.md",
     "image": "https://framerusercontent.com/images/Uh4dn1sZXkBecrEZk2pbOXYHkY0.png",
-    "hasNl": true
-  },
-  {
-    "slug": "how-to-improve-your-ai-visibility-a-practical-playbook",
-    "id": "dm78PXwIY",
-    "title": "How to Improve Your AI Visibility: A Practical Playbook",
-    "titleNl": "Zo verbeter je je AI-visibility: een praktisch playbook",
-    "description": "You already know AI visibility matters. The harder question is what to actually do about it on Monday morning. This is the owned-side playbook: the work on your own properties that you fully control. For the off-site half, see the guide on earning AI citations.",
-    "date": "2026-07-02",
-    "updated": "2026-07-02",
-    "author": "levi-bouman",
-    "category": "AI Visibility",
-    "words": 449,
-    "url": "https://trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook",
-    "urlNl": "https://trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook",
-    "markdown": "https://content.trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md",
-    "markdownNl": "https://content.trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md",
-    "image": "https://framerusercontent.com/images/sbWTqY3Dv1ylvujtSbomOe0QIU.webp",
     "hasNl": true
   }
 ]

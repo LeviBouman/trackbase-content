@@ -8,72 +8,105 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook
 alternate_markdown: https://content.trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md
 date_published: 2026-07-02
-date_modified: 2026-07-02
+date_modified: 2026-11-23
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
 publisher_url: https://trackbase.ai
 category: "AI Visibility"
 image: https://framerusercontent.com/images/sbWTqY3Dv1ylvujtSbomOe0QIU.webp
-word_count: 479
-reading_time_minutes: 2
+word_count: 892
+reading_time_minutes: 4
 ---
 
 # Zo verbeter je je AI-visibility: een praktisch playbook
 
 > Je weet al dat AI-zichtbaarheid belangrijk is. De moeilijkere vraag is wat je er maandagochtend concreet aan gaat doen. Dit is het playbook voor je eigen kanalen: het werk aan de properties waar je de volledige controle over hebt. Voor het off-site gedeelte lees je onze gids over het verdienen van AI-citaten.
 
-*Door Levi Bouman · Gepubliceerd 2026-07-02 · Bijgewerkt 2026-07-02 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook*
+*Door Levi Bouman · Gepubliceerd 2026-07-02 · Bijgewerkt 2026-11-23 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook*
 
-Dat AI-zichtbaarheid cruciaal is, weet je inmiddels wel. Maar wat ga je er maandagochtend concreet aan doen? Dit is het playbook voor je eigen kanalen – de kanalen waar je volledige controle over hebt. Benieuwd naar de rest? Bekijk dan onze gids over [AI-citaties verdienen](https://trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust).
+Om je AI-zichtbaarheid te verbeteren begin je met de koopprompts die je wilt winnen, zorg je dat de pagina's die ze beantwoorden makkelijk op te halen en te citeren zijn, voeg je de contentvormen toe die modellen het vaakst citeren en meet je het resultaat dagelijks over meerdere modellen. Eigen content is maar de helft van het werk: modellen wegen ook onafhankelijke vermeldingen mee, dus combineer dit playbook met een plan voor off-site citaties.
 
-## Begin met de prompts die er toe doen
+Dit is het playbook voor je eigen kanalen: het werk aan de properties waar je volledige controle over hebt. Voor het off-site gedeelte lees je de gids over [AI-citaties verdienen](https://trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust).
 
-Je kunt niet voor alles optimaliseren, dus probeer dat ook niet. Schrijf de echte vragen op die kopers in jouw categorie aan AI stellen en deel ze in: categorievragen, vergelijkingsvragen en use-case-vragen. Die lijst is je doel. Alles wat hierna volgt, is daarop gericht.
+## Stap 1: Begin met de prompts die ertoe doen
 
-## Structureer pagina's zodat modellen ze begrijpen
+Je kunt niet voor alles optimaliseren, dus probeer dat ook niet. Schrijf de echte vragen op die kopers in jouw categorie aan AI stellen en deel ze in:
 
-Retrieval-systemen houden van pagina's waar makkelijk informatie uit te halen is. Vage intro's en lappen tekst worden overgeslagen voor duidelijkere bronnen. Schrijf dus gericht op extractie:
+-   **Categorievragen**: "Wat is de beste tool voor X?"
 
--   Gebruik heldere H2's die geformuleerd zijn als vraag, en beantwoord die direct in de eerste zin eronder.
+-   **Vergelijkingsvragen**: "X vs Y" en "alternatieven voor Y".
 
--   Begin met je belangrijkste claim en onderbouw deze daarna. Modellen halen vooral op zichzelf staande beweringen aan.
+-   **Use-case-vragen**: "Hoe doe ik Z met een beperkt budget?"
 
--   Houd alinea's kort en scanbaar. In dichte blokken tekst raakt de kern kwijt.
+Die lijst is je doel. Alles hierna is daarop gericht. Met [prompt tracking](https://trackbase.ai/nl/features/prompt-tracking) volg je dezelfde lijst dagelijks, zodat je altijd weet welke prompts je wint en welke je verliest.
 
--   Voeg een FAQ-sectie toe en structureer deze met FAQPage-schema en Schema.org [structured data](https://trackbase.ai/nl/features/structured-data), zodat machines je content eenvoudig kunnen verwerken.
+## Stap 2: Structureer pagina's zodat modellen ze kunnen lezen
 
--   Overweeg een llms.txt-bestand. Dit is een nieuwe standaard die [AI-crawlers](https://trackbase.ai/nl/features/crawler-analytics) direct naar de content wijst die ze moeten lezen.
+Retrieval-systemen houden van pagina's waar makkelijk informatie uit te halen is. Vage intro's en lappen tekst worden overgeslagen voor duidelijkere bronnen. Schrijf gericht op extractie:
 
-## Maak de content waar AI naar zoekt
+-   Gebruik heldere H2's die als vraag zijn geformuleerd en beantwoord die direct in de eerste zin eronder.
 
-Sommige contentvormen duiken veel vaker op in [AI-antwoorden](https://trackbase.ai/nl/blog/monitor-changes-in-ai-answers-over-time) dan andere. Geef hier prioriteit aan:
+-   Begin met je belangrijkste claim en onderbouw die daarna. Modellen halen vooral zelfstandige beweringen aan.
 
--   Eerlijke vergelijkingspagina's, inclusief pagina's waarop je jezelf vergelijkt met de alternatieven die je kopers overwegen.
+-   Houd alinea's kort en scanbaar. In dichte blokken raakt de kern kwijt.
 
--   Use-case-pagina's die aansluiten bij hoe kopers hun behoeften omschrijven, niet bij hoe jij je features noemt.
+-   Voeg een FAQ-sectie toe, markeer die met FAQPage-schema en gebruik Schema.org [structured data](https://trackbase.ai/nl/features/structured-data) zodat machines de pagina kunnen verwerken.
 
--   Heldere, duidelijke antwoorden op de categorievragen van je lijst.
+-   Zorg dat [AI-crawlers](https://trackbase.ai/nl/features/crawler-analytics) de pagina echt kunnen bereiken: geen onbedoelde robots.txt-blokkades en geen content die achter scripts verborgen zit.
 
-## Versterk de signalen rondom je merk
+Een kanttekening over llms.txt: het is een opkomende conventie die sommige AI-crawlers mogelijk lezen, maar Google heeft gezegd dat Search het niet gebruikt. Zie het als optioneel en onschadelijk, niet als hefboom. Googles eigen richtlijnen voor generatieve zoekfuncties leggen de nadruk op indexeerbare, echt nuttige content in plaats van speciale bestanden. We lichten dat toe in [wat Googles AI-optimalisatiegids betekent voor GEO](https://trackbase.ai/nl/blog/googles-ai-optimization-guide-what-it-means-for-geo).
 
-Met je eigen content kom je een heel eind. Maar modellen hechten meer waarde aan onafhankelijke vermeldingen dan aan wat je over jezelf schrijft. [Wat AI-modellen al over je weten](https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend) is dan ook grotendeels afkomstig van derden. Het verdienen van die vermeldingen heeft een eigen aanpak, die we bespreken in de [gids over geciteerd worden door AI](https://trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust). Sla deze stap niet over: eigen en verdiende media versterken elkaar.
+## Stap 3: Maak de content waar AI naar grijpt
 
-## Meten en optimaliseren
+Sommige vormen komen veel vaker voor in [AI-antwoorden](https://trackbase.ai/nl/blog/monitor-changes-in-ai-answers-over-time) dan andere. Geef daar prioriteit aan:
 
-AI-optimalisatie is een doorlopend proces, geen eenmalige actie. Modellen veranderen constant, dus zie je aanpassingen als experimenten:
+| Vorm | Waarom modellen het citeren | Voorbeeld |
+| --- | --- | --- |
+| Eerlijke vergelijkingspagina's | Ze beantwoorden "X vs Y"-prompts direct | Jij tegenover de alternatieven die kopers overwegen |
+| Use-case-pagina's | Ze sluiten aan bij hoe kopers hun behoefte omschrijven | "AI-zichtbaarheid voor Nederlandse e-commerce" |
+| Definitieve antwoorden | Ze bieden een citeerbare eerste zin | "Wat is share of voice in AI-zoekopdrachten?" |
+| Datagedreven artikelen | Ze bevatten feiten die een model kan toeschrijven | Eigen benchmark met vermelde methode |
 
--   Bepaal je nulmeting op de verschillende platforms voordat je iets aanpast.
+Vermijd generieke content. Pagina's die herhalen wat tien andere pagina's zeggen, geven een model geen reden om jouw pagina te kiezen. Eigen data, echte voorbeelden en een duidelijke mening wel.
 
--   Verander één ding tegelijk, zodat je weet waar de verschuiving vandaan komt.
+## Stap 4: Versterk de signalen rond je merk
 
--   Meet na een week of twee opnieuw en behoud wat werkt.
+Met eigen content kom je een heel eind. Maar modellen hechten meer waarde aan onafhankelijke vermeldingen dan aan wat je over jezelf schrijft. [Wat AI-modellen al over je weten](https://trackbase.ai/nl/blog/how-ai-models-decide-which-brands-to-recommend) komt dan ook grotendeels van derden. Het verdienen van die [citaties](https://trackbase.ai/nl/blog/mentions-vs-citations-why-both-matter-for-your-ai-visibility) heeft een eigen aanpak, beschreven in de [gids over geciteerd worden door AI](https://trackbase.ai/nl/blog/how-to-get-cited-by-ai-earning-mentions-on-the-sources-models-trust). Sla die stap niet over: eigen en verdiende media versterken elkaar.
 
-Zonder die feedbackloop optimaliseer je in het donker. [Trackbase](https://trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different) geeft je de nulmeting en de dagelijkse verschuivingen, zodat dit playbook een meetbare cyclus wordt in plaats van giswerk. Dit is geen snelle winst, maar een investering die zich blijft opstapelen.
+Kijk ook hoe je wordt beschreven, niet alleen of je verschijnt. Een vermelding met verkeerde prijzen of een lauwe toon kost je de klik; lees [waarom sentiment bepaalt wie wint](https://trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins).
 
-## Klaar om te winnen in AI-search?
+## Stap 5: Meet en herhaal
 
-Sluit je aan bij de merken die hun [share of voice](https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice) al volgen in ChatGPT, Gemini, Claude en meer. [Start vandaag nog je gratis proefperiode](https://app.trackbase.ai/nl/register).
+AI-optimalisatie is een cyclus, geen lancering. Modellen veranderen voortdurend, dus behandel je aanpassingen als experimenten:
+
+1.  Meet eerst waar je op elk platform verschijnt voordat je iets verandert.
+
+2.  Pas één ding tegelijk aan, zodat je verschuivingen kunt toeschrijven.
+
+3.  Meet na een of twee weken opnieuw en houd vast wat werkt.
+
+4.  Bekijk welke URL's modellen voor jouw prompts citeren en dicht eerst die gaten.
+
+Zonder die cyclus optimaliseer je blind. [Trackbase](https://trackbase.ai/nl/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different) geeft je de nulmeting en de dagelijkse beweging over 11 AI-modellen, zodat het playbook een meetbare cyclus wordt in plaats van gokwerk. Voor een geprioriteerde volgorde lees je [hoe je content- en technische fixes prioriteert](https://trackbase.ai/nl/blog/how-to-prioritize-content-and-technical-fixes-for-ai-recommendations). Niets hiervan is een quick win. Alles bouwt op elkaar voort.
+
+## FAQ
+
+### Hoe lang duurt het om AI-zichtbaarheid te verbeteren?
+
+Reken op weken, niet dagen. Antwoorden op basis van retrieval kunnen binnen een of twee weken na het publiceren van een sterkere pagina veranderen, terwijl wat een model uit zijn training "weet" veel langer duurt. Meet wekelijks en beoordeel trends in plaats van losse dagen.
+
+### Heb ik nieuwe content nodig of kan ik bestaande pagina's verbeteren?
+
+Begin met bestaande pagina's die al ranken of geciteerd worden: herstructureer ze met vraagkoppen en directe antwoorden. Voeg nieuwe pagina's toe waar je promptlijst een gat laat zien, zoals vergelijkingen of use-cases die je nog niet dekt.
+
+### Hoe weet ik of de aanpassingen werken?
+
+Volg een vaste set prompts voor en na en vergelijk aanwezigheidspercentage, share of voice en geciteerde bronnen per model. De [gratis AI-zichtbaarheidscheck](https://trackbase.ai/free-ai-visibility-checker) geeft je in een paar minuten een eerste nulmeting.
+
+## Klaar om te winnen in AI-zoekopdrachten?
+
+Sluit je aan bij de merken die hun zichtbaarheid al volgen in [ChatGPT](https://trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company), Gemini, Claude en meer. [Start je gratis proefperiode](https://app.trackbase.ai/register) vandaag nog.
 
 ---
 

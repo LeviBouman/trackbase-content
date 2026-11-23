@@ -8,6 +8,8 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 
 ## Articles (English)
 
+- [How to Improve Your AI Visibility: A Practical Playbook](https://content.trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md) · 2026-07-02 (updated 2026-11-23) · HTML: https://trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook
+- [Google's AI Optimization Guide: What It Means for GEO](https://content.trackbase.ai/blog/googles-ai-optimization-guide-what-it-means-for-geo.md) · 2026-11-23 (updated 2026-11-23) · HTML: https://trackbase.ai/blog/googles-ai-optimization-guide-what-it-means-for-geo
 - [AI Visibility for B2B SaaS: Where Buyers Look and How to Show Up](https://content.trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md) · 2026-06-29 (updated 2026-11-20) · HTML: https://trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up
 - [Which Tools Track AI Share of Voice Across AI Search Models?](https://content.trackbase.ai/blog/which-tools-track-ai-share-of-voice-across-ai-search-models.md) · 2026-11-20 (updated 2026-11-20) · HTML: https://trackbase.ai/blog/which-tools-track-ai-share-of-voice-across-ai-search-models
 - [AI Visibility for Agencies: Offer GEO Tracking as a Service](https://content.trackbase.ai/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service.md) · 2026-07-08 (updated 2026-11-18) · HTML: https://trackbase.ai/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service
@@ -61,10 +63,11 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 - [How to Track What ChatGPT Says About Your Company: A Complete 2026 Guide](https://content.trackbase.ai/blog/track-what-chatgpt-says-about-your-company.md) · 2026-07-17 (updated 2026-07-17) · HTML: https://trackbase.ai/blog/track-what-chatgpt-says-about-your-company
 - [9 Best Profound Alternatives for AI Visibility Tracking (2026)](https://content.trackbase.ai/blog/best-profound-alternatives.md) · 2026-07-14 (updated 2026-07-14) · HTML: https://trackbase.ai/blog/best-profound-alternatives
 - [Trackbase vs Profound: Which AI Visibility Platform Fits You?](https://content.trackbase.ai/blog/trackbase-vs-profound.md) · 2026-07-11 (updated 2026-07-11) · HTML: https://trackbase.ai/blog/trackbase-vs-profound
-- [How to Improve Your AI Visibility: A Practical Playbook](https://content.trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md) · 2026-07-02 (updated 2026-07-02) · HTML: https://trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook
 
 ## Artikelen (Nederlands)
 
+- [Zo verbeter je je AI-visibility: een praktisch playbook](https://content.trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md) · 2026-07-02 (bijgewerkt 2026-11-23) · HTML: https://trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook
+- [Googles AI-optimalisatiegids: wat het betekent voor GEO](https://content.trackbase.ai/nl/blog/googles-ai-optimization-guide-what-it-means-for-geo.md) · 2026-11-23 (bijgewerkt 2026-11-23) · HTML: https://trackbase.ai/nl/blog/googles-ai-optimization-guide-what-it-means-for-geo
 - [AI visibility voor B2B SaaS: waar kopers zoeken en hoe je verschijnt](https://content.trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md) · 2026-06-29 (bijgewerkt 2026-11-20) · HTML: https://trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up
 - [Welke tools volgen AI share of voice in AI-zoekmodellen?](https://content.trackbase.ai/nl/blog/which-tools-track-ai-share-of-voice-across-ai-search-models.md) · 2026-11-20 (bijgewerkt 2026-11-20) · HTML: https://trackbase.ai/nl/blog/which-tools-track-ai-share-of-voice-across-ai-search-models
 - [AI-zichtbaarheid voor bureaus: GEO-tracking als dienst aanbieden](https://content.trackbase.ai/nl/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service.md) · 2026-07-08 (bijgewerkt 2026-11-18) · HTML: https://trackbase.ai/nl/blog/ai-visibility-for-agencies-how-to-offer-geo-tracking-as-a-service
@@ -118,4 +121,3 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 - [Zo volg je wat ChatGPT over jouw bedrijf zegt: de complete gids voor 2026](https://content.trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company.md) · 2026-07-17 (bijgewerkt 2026-07-17) · HTML: https://trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company
 - [De 9 beste alternatieven voor Profound om je AI visibility tracking te meten (2026)](https://content.trackbase.ai/nl/blog/best-profound-alternatives.md) · 2026-07-14 (bijgewerkt 2026-07-14) · HTML: https://trackbase.ai/nl/blog/best-profound-alternatives
 - [Trackbase vs Profound: welke AI-visibility-tool past bij jou?](https://content.trackbase.ai/nl/blog/trackbase-vs-profound.md) · 2026-07-11 (bijgewerkt 2026-07-11) · HTML: https://trackbase.ai/nl/blog/trackbase-vs-profound
-- [Zo verbeter je je AI-visibility: een praktisch playbook](https://content.trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md) · 2026-07-02 (bijgewerkt 2026-07-02) · HTML: https://trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook
