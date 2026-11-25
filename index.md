@@ -8,6 +8,7 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 
 ## Articles (English)
 
+- [Businesses in ChatGPT: How to Claim Your Business Profile](https://content.trackbase.ai/blog/businesses-in-chatgpt-claim-your-profile.md) · 2026-11-25 (updated 2026-11-25) · HTML: https://trackbase.ai/blog/businesses-in-chatgpt-claim-your-profile
 - [How to Improve Your AI Visibility: A Practical Playbook](https://content.trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md) · 2026-07-02 (updated 2026-11-23) · HTML: https://trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook
 - [Google's AI Optimization Guide: What It Means for GEO](https://content.trackbase.ai/blog/googles-ai-optimization-guide-what-it-means-for-geo.md) · 2026-11-23 (updated 2026-11-23) · HTML: https://trackbase.ai/blog/googles-ai-optimization-guide-what-it-means-for-geo
 - [AI Visibility for B2B SaaS: Where Buyers Look and How to Show Up](https://content.trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md) · 2026-06-29 (updated 2026-11-20) · HTML: https://trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up
@@ -66,6 +67,7 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 
 ## Artikelen (Nederlands)
 
+- [Businesses in ChatGPT: zo claim je je bedrijfsprofiel](https://content.trackbase.ai/nl/blog/businesses-in-chatgpt-claim-your-profile.md) · 2026-11-25 (bijgewerkt 2026-11-25) · HTML: https://trackbase.ai/nl/blog/businesses-in-chatgpt-claim-your-profile
 - [Zo verbeter je je AI-visibility: een praktisch playbook](https://content.trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md) · 2026-07-02 (bijgewerkt 2026-11-23) · HTML: https://trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook
 - [Googles AI-optimalisatiegids: wat het betekent voor GEO](https://content.trackbase.ai/nl/blog/googles-ai-optimization-guide-what-it-means-for-geo.md) · 2026-11-23 (bijgewerkt 2026-11-23) · HTML: https://trackbase.ai/nl/blog/googles-ai-optimization-guide-what-it-means-for-geo
 - [AI visibility voor B2B SaaS: waar kopers zoeken en hoe je verschijnt](https://content.trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md) · 2026-06-29 (bijgewerkt 2026-11-20) · HTML: https://trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up

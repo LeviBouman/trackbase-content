@@ -4,6 +4,7 @@
 
 ## Articles
 
+- [Businesses in ChatGPT: How to Claim Your Business Profile](https://content.trackbase.ai/blog/businesses-in-chatgpt-claim-your-profile.md): Businesses in ChatGPT lets you claim a business profile inside ChatGPT. Learn how claiming works, what Insights misses and a first-week plan.
 - [How to Improve Your AI Visibility: A Practical Playbook](https://content.trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md): You already know AI visibility matters. The harder question is what to actually do about it on Monday morning. This is the owned-side playbook: the work on your own properties that you fully control. For the off-site half, see the guide on earning AI citations.
 - [Google's AI Optimization Guide: What It Means for GEO](https://content.trackbase.ai/blog/googles-ai-optimization-guide-what-it-means-for-geo.md): Google says optimizing for AI Overviews and AI Mode is still SEO. Here is what its guide says, which myths it rejects, and what it cannot measure for you.
 - [AI Visibility for B2B SaaS: Where Buyers Look and How to Show Up](https://content.trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md): The modern software buying journey often starts in a chat window, not a search bar. A buyer types “best [category] tool for [use case]” into ChatGPT and gets a shortlist back. Your brand is on that list, or it is not, and most of the evaluation happens before anyone visits your homepage.
@@ -62,6 +63,7 @@
 
 ## Artikelen (nl-NL)
 
+- [Businesses in ChatGPT: zo claim je je bedrijfsprofiel](https://content.trackbase.ai/nl/blog/businesses-in-chatgpt-claim-your-profile.md)
 - [Zo verbeter je je AI-visibility: een praktisch playbook](https://content.trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md)
 - [Googles AI-optimalisatiegids: wat het betekent voor GEO](https://content.trackbase.ai/nl/blog/googles-ai-optimization-guide-what-it-means-for-geo.md)
 - [AI visibility voor B2B SaaS: waar kopers zoeken en hoe je verschijnt](https://content.trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md)
