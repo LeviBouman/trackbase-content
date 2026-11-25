@@ -8,24 +8,24 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice
 alternate_markdown: https://content.trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice.md
 date_published: 2026-07-29
-date_modified: 2026-07-29
+date_modified: 2026-11-25
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
 publisher_url: https://trackbase.ai
 category: "AI Visibility"
 image: https://framerusercontent.com/images/GQo5LXIsQuBggXED9tD5rVjODE.png
-word_count: 737
-reading_time_minutes: 3
+word_count: 987
+reading_time_minutes: 4
 ---
 
 # How to Measure AI Share of Voice (With the Formula)
 
 > AI Share of Voice tells you who is winning the market conversation inside ChatGPT and Gemini. The formula, the benchmarks and the four moves that improve it.
 
-*By Levi Bouman · Published 2026-07-29 · Updated 2026-07-29 · Original article: https://trackbase.ai/blog/how-to-measure-ai-share-of-voice*
+*By Levi Bouman · Published 2026-07-29 · Updated 2026-11-25 · Original article: https://trackbase.ai/blog/how-to-measure-ai-share-of-voice*
 
-Your Visibility Score tells you whether AI models mention you. Share of Voice tells you who is winning. It is the single best metric for the competitive question, because it forces every mention into context: being named five times means something completely different in a market where the leader is named fifty times versus eight.
+Your Visibility Score tells you whether AI models mention you. Share of Voice tells you who is winning. It is the best single metric for the competitive question, because it puts every mention in context: being named five times means something completely different in a market where the leader is named fifty times than in one where the leader is named eight.
 
 ## What is AI Share of Voice?
 
@@ -33,7 +33,22 @@ AI Share of Voice is the percentage of all brand mentions in AI answers within y
 
 The formula:
 
-**AI Share of Voice = (your brand mentions \\u00f7 total brand mentions across all tracked brands) \\u00d7 100**
+**AI Share of Voice = (your brand mentions ÷ total brand mentions across all tracked brands) × 100**
+
+## A worked example
+
+The numbers below are illustrative, not real client data. Say you track one category prompt set for a month and count mentions across all models:
+
+| Brand | Mentions | Share of Voice |
+| --- | --- | --- |
+| Brand A (the leader) | 80 | 40% |
+| Brand B | 50 | 25% |
+| You | 30 | 15% |
+| Brand C | 25 | 12.5% |
+| Brand D | 15 | 7.5% |
+| **Total** | **200** | **100%** |
+
+Next month the market grows to 300 mentions and you get 36. Your mentions went up by 20 percent, but your Share of Voice fell from 15 to 12 percent. That is the trap of counting only your own mentions.
 
 ## How is Share of Voice different from mentions, citations and visibility?
 
@@ -42,7 +57,7 @@ The formula:
 | Mention | Your brand named in an answer | Am I present? |
 | Citation | Your site linked as a source | Does the model use my content? |
 | [Visibility Score](https://trackbase.ai/blog/how-trackbase-calculates-your-visibility-score-and-why-its-different) | Share of prompts where you appear | How broad is my presence? |
-| Share of Voice | Your mentions versus everyone else\\u2019s | Am I winning the market conversation? |
+| Share of Voice | Your mentions versus everyone else's | Am I winning the market conversation? |
 
 Teams that track only their own mentions routinely misread their situation. Mentions can rise while Share of Voice falls, which means the market conversation is growing faster than your part of it. That combination looks like progress and is actually erosion.
 
@@ -52,11 +67,23 @@ Teams that track only their own mentions routinely misread their situation. Ment
 
 2.  **Track shared prompts.** Run the same category prompts, "best \[category\]", "top tools for \[use case\]", across the models that matter, daily.
 
-3.  **Count every brand mention.** Yours and each competitor\\u2019s, per model, per day.
+3.  **Count every brand mention.** Yours and each competitor's, per model, per day.
 
 4.  **Compute the share.** With the formula above, and keep the daily series so you can see trend, not just level.
 
-Manually this is genuinely painful, which is why it is usually the first metric teams automate. Trackbase computes Share of Voice daily against up to 10 [competitors](https://trackbase.ai/blog/how-do-i-compare-ai-visibility-against-competitors) across 11 models, with the trend lines built in.
+Manually this is painful, which is why it is usually the first metric teams automate. Trackbase computes Share of Voice daily against up to 10 [competitors](https://trackbase.ai/blog/how-do-i-compare-ai-visibility-against-competitors) across 11 models, with the trend lines built in. Share of Voice and competitor ranking are part of the Professional plan; see [pricing](https://trackbase.ai/pricing) for the current plan limits.
+
+## Common measurement mistakes
+
+-   **Branded prompts in the set.** "What is \[your brand\]?" will always name you, and inflates the number. Use category prompts a stranger would ask.
+
+-   **Changing the competitor set mid-trend.** Adding a strong competitor drops everyone's share. Note the date of every change and annotate the chart.
+
+-   **Mixing models without a split.** One model with many mentions can hide a weak position elsewhere. Always look at the per-model view.
+
+-   **Reading single days.** AI answers vary from run to run. Use weekly averages.
+
+-   **Ignoring sentiment.** A mention with negative framing is not a win. Pair Share of Voice with [sentiment](https://trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins).
 
 ## What is a good AI Share of Voice?
 
@@ -73,6 +100,8 @@ Four moves, in the order we would make them:
 3.  **Fix the technical floor.** [AI crawlers](https://trackbase.ai/features/crawler-analytics) must be able to read your site, and your structured data must say clearly what you do.
 
 4.  **Watch competitor moves.** A sudden Share of Voice jump for a competitor almost always traces to a specific new source. Finding it tells you exactly what to respond to.
+
+If you work for several brands, the same method scales per client; see how agencies handle it in [monitoring AI answer rankings for multiple clients](https://trackbase.ai/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients).
 
 ## FAQ
 

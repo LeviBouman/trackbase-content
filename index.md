@@ -8,7 +8,9 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 
 ## Articles (English)
 
+- [How to Measure AI Share of Voice (With the Formula)](https://content.trackbase.ai/blog/how-to-measure-ai-share-of-voice.md) · 2026-07-29 (updated 2026-11-25) · HTML: https://trackbase.ai/blog/how-to-measure-ai-share-of-voice
 - [Businesses in ChatGPT: How to Claim Your Business Profile](https://content.trackbase.ai/blog/businesses-in-chatgpt-claim-your-profile.md) · 2026-11-25 (updated 2026-11-25) · HTML: https://trackbase.ai/blog/businesses-in-chatgpt-claim-your-profile
+- [How Agencies Monitor AI Answer Rankings for Multiple Clients](https://content.trackbase.ai/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients.md) · 2026-11-25 (updated 2026-11-25) · HTML: https://trackbase.ai/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients
 - [How to Improve Your AI Visibility: A Practical Playbook](https://content.trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md) · 2026-07-02 (updated 2026-11-23) · HTML: https://trackbase.ai/blog/how-to-improve-your-ai-visibility-a-practical-playbook
 - [Google's AI Optimization Guide: What It Means for GEO](https://content.trackbase.ai/blog/googles-ai-optimization-guide-what-it-means-for-geo.md) · 2026-11-23 (updated 2026-11-23) · HTML: https://trackbase.ai/blog/googles-ai-optimization-guide-what-it-means-for-geo
 - [AI Visibility for B2B SaaS: Where Buyers Look and How to Show Up](https://content.trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md) · 2026-06-29 (updated 2026-11-20) · HTML: https://trackbase.ai/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up
@@ -57,7 +59,6 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 - [Content Gap Analysis for AI Visibility in 30 Minutes](https://content.trackbase.ai/blog/ai-visibility-content-gap-analysis.md) · 2026-08-07 (updated 2026-08-07) · HTML: https://trackbase.ai/blog/ai-visibility-content-gap-analysis
 - [7 GEO Metrics That Actually Matter (And How to Track Them)](https://content.trackbase.ai/blog/geo-metrics-that-matter.md) · 2026-08-04 (updated 2026-08-04) · HTML: https://trackbase.ai/blog/geo-metrics-that-matter
 - [AI Visibility vs SEO: The 5 Differences That Change How You Work](https://content.trackbase.ai/blog/ai-visibility-vs-seo.md) · 2026-08-01 (updated 2026-08-01) · HTML: https://trackbase.ai/blog/ai-visibility-vs-seo
-- [How to Measure AI Share of Voice (With the Formula)](https://content.trackbase.ai/blog/how-to-measure-ai-share-of-voice.md) · 2026-07-29 (updated 2026-07-29) · HTML: https://trackbase.ai/blog/how-to-measure-ai-share-of-voice
 - [How AI Assistants Decide Which Brands to Recommend](https://content.trackbase.ai/blog/how-ai-assistants-decide-which-brands-to-recommend.md) · 2026-07-26 (updated 2026-07-26) · HTML: https://trackbase.ai/blog/how-ai-assistants-decide-which-brands-to-recommend
 - [How to Find and Fix What AI Gets Wrong About Your Brand](https://content.trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand.md) · 2026-07-23 (updated 2026-07-23) · HTML: https://trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand
 - [15 Best AI Visibility Tools in 2026 (Tested and Compared)](https://content.trackbase.ai/blog/best-ai-visibility-tools.md) · 2026-07-20 (updated 2026-07-20) · HTML: https://trackbase.ai/blog/best-ai-visibility-tools
@@ -67,7 +68,9 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 
 ## Artikelen (Nederlands)
 
+- [Zo bereken je je AI share of voice (met formule)](https://content.trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice.md) · 2026-07-29 (bijgewerkt 2026-11-25) · HTML: https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice
 - [Businesses in ChatGPT: zo claim je je bedrijfsprofiel](https://content.trackbase.ai/nl/blog/businesses-in-chatgpt-claim-your-profile.md) · 2026-11-25 (bijgewerkt 2026-11-25) · HTML: https://trackbase.ai/nl/blog/businesses-in-chatgpt-claim-your-profile
+- [Zo monitoren bureaus AI-antwoorden voor meerdere klanten](https://content.trackbase.ai/nl/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients.md) · 2026-11-25 (bijgewerkt 2026-11-25) · HTML: https://trackbase.ai/nl/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients
 - [Zo verbeter je je AI-visibility: een praktisch playbook](https://content.trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook.md) · 2026-07-02 (bijgewerkt 2026-11-23) · HTML: https://trackbase.ai/nl/blog/how-to-improve-your-ai-visibility-a-practical-playbook
 - [Googles AI-optimalisatiegids: wat het betekent voor GEO](https://content.trackbase.ai/nl/blog/googles-ai-optimization-guide-what-it-means-for-geo.md) · 2026-11-23 (bijgewerkt 2026-11-23) · HTML: https://trackbase.ai/nl/blog/googles-ai-optimization-guide-what-it-means-for-geo
 - [AI visibility voor B2B SaaS: waar kopers zoeken en hoe je verschijnt](https://content.trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up.md) · 2026-06-29 (bijgewerkt 2026-11-20) · HTML: https://trackbase.ai/nl/blog/ai-visibility-for-b2b-saas-where-buyers-look-and-how-to-show-up
@@ -116,7 +119,6 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 - [Content gap analysis voor AI-visibility in 30 minuten](https://content.trackbase.ai/nl/blog/ai-visibility-content-gap-analysis.md) · 2026-08-07 (bijgewerkt 2026-08-07) · HTML: https://trackbase.ai/nl/blog/ai-visibility-content-gap-analysis
 - [7 GEO-metrics die er wél toe doen (en hoe je ze meet)](https://content.trackbase.ai/nl/blog/geo-metrics-that-matter.md) · 2026-08-04 (bijgewerkt 2026-08-04) · HTML: https://trackbase.ai/nl/blog/geo-metrics-that-matter
 - [AI visibility vs SEO: de 5 verschillen die je aanpak veranderen](https://content.trackbase.ai/nl/blog/ai-visibility-vs-seo.md) · 2026-08-01 (bijgewerkt 2026-08-01) · HTML: https://trackbase.ai/nl/blog/ai-visibility-vs-seo
-- [Zo bereken je je AI share of voice (met formule)](https://content.trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice.md) · 2026-07-29 (bijgewerkt 2026-07-29) · HTML: https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice
 - [Hoe AI-assistants beslissen welke merken ze aanbevelen](https://content.trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend.md) · 2026-07-26 (bijgewerkt 2026-07-26) · HTML: https://trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend
 - [Wat AI fout doet over je merk: ontdekken en herstellen](https://content.trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand.md) · 2026-07-23 (bijgewerkt 2026-07-23) · HTML: https://trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand
 - [De 15 beste AI-visibility-tools in 2026 (getest en vergeleken)](https://content.trackbase.ai/nl/blog/best-ai-visibility-tools.md) · 2026-07-20 (bijgewerkt 2026-07-20) · HTML: https://trackbase.ai/nl/blog/best-ai-visibility-tools

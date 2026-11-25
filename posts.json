@@ -1,5 +1,23 @@
 [
   {
+    "slug": "how-to-measure-ai-share-of-voice",
+    "id": "Lfs2fvmOf",
+    "title": "How to Measure AI Share of Voice (With the Formula)",
+    "titleNl": "Zo bereken je je AI share of voice (met formule)",
+    "description": "AI Share of Voice tells you who is winning the market conversation inside ChatGPT and Gemini. The formula, the benchmarks and the four moves that improve it.",
+    "date": "2026-07-29",
+    "updated": "2026-11-25",
+    "author": "levi-bouman",
+    "category": "AI Visibility",
+    "words": 987,
+    "url": "https://trackbase.ai/blog/how-to-measure-ai-share-of-voice",
+    "urlNl": "https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice",
+    "markdown": "https://content.trackbase.ai/blog/how-to-measure-ai-share-of-voice.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice.md",
+    "image": "https://framerusercontent.com/images/GQo5LXIsQuBggXED9tD5rVjODE.png",
+    "hasNl": true
+  },
+  {
     "slug": "businesses-in-chatgpt-claim-your-profile",
     "id": "ltyG4HHWu",
     "title": "Businesses in ChatGPT: How to Claim Your Business Profile",
@@ -15,6 +33,24 @@
     "markdown": "https://content.trackbase.ai/blog/businesses-in-chatgpt-claim-your-profile.md",
     "markdownNl": "https://content.trackbase.ai/nl/blog/businesses-in-chatgpt-claim-your-profile.md",
     "image": "https://framerusercontent.com/images/SxGIK0trhwpKTXGqhDKdqnIGROc.png",
+    "hasNl": true
+  },
+  {
+    "slug": "how-agencies-monitor-ai-answer-rankings-for-multiple-clients",
+    "id": "VPjAhJmjl",
+    "title": "How Agencies Monitor AI Answer Rankings for Multiple Clients",
+    "titleNl": "Zo monitoren bureaus AI-antwoorden voor meerdere klanten",
+    "description": "What agencies need to track AI answer rankings for many clients: workspaces, daily prompt runs, stored responses and white-label reports, with a 30-minute setup.",
+    "date": "2026-11-25",
+    "updated": "2026-11-25",
+    "author": "bodrik-bakker",
+    "category": "AI Visibility",
+    "words": 1020,
+    "url": "https://trackbase.ai/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients",
+    "urlNl": "https://trackbase.ai/nl/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients",
+    "markdown": "https://content.trackbase.ai/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients.md",
+    "markdownNl": "https://content.trackbase.ai/nl/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients.md",
+    "image": "https://framerusercontent.com/images/vG6VECwLWvs7YdayUkldKG0xdE.png",
     "hasNl": true
   },
   {
@@ -879,24 +915,6 @@
     "markdown": "https://content.trackbase.ai/blog/ai-visibility-vs-seo.md",
     "markdownNl": "https://content.trackbase.ai/nl/blog/ai-visibility-vs-seo.md",
     "image": "https://framerusercontent.com/images/1zDNKH7yl5bucQdZHenIs1VykU.png",
-    "hasNl": true
-  },
-  {
-    "slug": "how-to-measure-ai-share-of-voice",
-    "id": "Lfs2fvmOf",
-    "title": "How to Measure AI Share of Voice (With the Formula)",
-    "titleNl": "Zo bereken je je AI share of voice (met formule)",
-    "description": "AI Share of Voice tells you who is winning the market conversation inside ChatGPT and Gemini. The formula, the benchmarks and the four moves that improve it.",
-    "date": "2026-07-29",
-    "updated": "2026-07-29",
-    "author": "levi-bouman",
-    "category": "AI Visibility",
-    "words": 737,
-    "url": "https://trackbase.ai/blog/how-to-measure-ai-share-of-voice",
-    "urlNl": "https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice",
-    "markdown": "https://content.trackbase.ai/blog/how-to-measure-ai-share-of-voice.md",
-    "markdownNl": "https://content.trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice.md",
-    "image": "https://framerusercontent.com/images/GQo5LXIsQuBggXED9tD5rVjODE.png",
     "hasNl": true
   },
   {
