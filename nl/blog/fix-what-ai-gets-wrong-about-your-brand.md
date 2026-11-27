@@ -8,24 +8,22 @@ alternate_language: en
 alternate: https://trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand
 alternate_markdown: https://content.trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand.md
 date_published: 2026-07-23
-date_modified: 2026-07-23
+date_modified: 2026-11-27
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
 publisher_url: https://trackbase.ai
 category: "AI Visibility"
 image: https://framerusercontent.com/images/aPOiWocCPICI0OkLi8iYTcya7Gc.png
-word_count: 960
-reading_time_minutes: 4
+word_count: 1029
+reading_time_minutes: 5
 ---
 
 # Wat AI fout doet over je merk: ontdekken en herstellen
 
 > AI-modellen verspreiden achterhaalde feiten, verzinsels en verwarring over merken. Onze source-first aanpak spoort deze fouten op, lost ze op en valideert de verbetering.
 
-*Door Levi Bouman · Gepubliceerd 2026-07-23 · Bijgewerkt 2026-07-23 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand*
-
-Een AI-model vertelde een prospect dat je niet exact de service aanbiedt waarin je gespecialiseerd bent. Een ander model raadde een concurrent aan en gaf je prijzen verkeerd weer. Als je dit hebt meegemaakt, ken je dat vreemde gevoel van machteloosheid: er is geen helpdesk voor de antwoorden van ChatGPT. Er is echter wel een stappenplan om dit op te lossen, en we lopen er in dit artikel doorheen.
+*Door Levi Bouman · Gepubliceerd 2026-07-23 · Bijgewerkt 2026-11-27 · Oorspronkelijk artikel: https://trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand*
 
 ## Hoe weet ik wat AI over mijn merk zegt?
 
@@ -72,6 +70,12 @@ Weken tot maanden, en het verschilt sterk per model. Retrieval-gebaseerde antwoo
 ## Hoe weet ik of de antwoorden verbeteren?
 
 Volg dagelijks dezelfde prompts en let op drie getallen: het percentage antwoorden met de verkeerde claim, je [sentiment](https://trackbase.ai/nl/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins) score en je aanwezigheid (presence rate). In onze eigen tracking-data zagen we de sentimentclassificatie over 535 recente citaten voor één merk als volgt verdeeld: 314 positief, 121 neutraal en 100 negatief. Dat negatieve vijfde deel is waar het correctiewerk ligt. Als je dat aandeel week na week ziet krimpen, weet je dat je aanpak werkt.
+
+## Hoe groot is het nauwkeurigheidsprobleem en hoe volg ik het in de tijd?
+
+Groter dan de meeste teams denken. Toen Ahrefs [AI-antwoorden over het eigen merk controleerde](https://ahrefs.com/aeo/ai-answer-accuracy), bevatten 41 van de 217 antwoorden (19%) minstens één onjuiste bewering, en in sommige tests liep het foutpercentage op tot 36%. Dat is de test van één bedrijf, geen marktgemiddelde, maar het laat zien dat één audit snel veroudert.
+
+Maak van de audit een metric. Houd een korte lijst met feiten als bron van waarheid bij, draai dezelfde prompts op een vast ritme en rapporteer het aandeel antwoorden zonder onjuiste beweringen naast je Visibility Score. Semrush maakt hetzelfde onderscheid: frequentie meet hoe vaak je voorkomt, nauwkeurigheid meet of de antwoorden kloppen. De volledige methode, met scoring en een wekelijks ritme, staat in [AI-antwoorden over je merk op juistheid monitoren](https://trackbase.ai/nl/blog/how-to-monitor-ai-answer-accuracy-about-your-brand).
 
 ## FAQ
 

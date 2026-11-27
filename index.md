@@ -8,6 +8,8 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 
 ## Articles (English)
 
+- [How to Find and Fix What AI Gets Wrong About Your Brand](https://content.trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand.md) · 2026-07-23 (updated 2026-11-27) · HTML: https://trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand
+- [How to Monitor AI Answer Accuracy About Your Brand](https://content.trackbase.ai/blog/how-to-monitor-ai-answer-accuracy-about-your-brand.md) · 2026-11-27 (updated 2026-11-27) · HTML: https://trackbase.ai/blog/how-to-monitor-ai-answer-accuracy-about-your-brand
 - [How to Measure AI Share of Voice (With the Formula)](https://content.trackbase.ai/blog/how-to-measure-ai-share-of-voice.md) · 2026-07-29 (updated 2026-11-25) · HTML: https://trackbase.ai/blog/how-to-measure-ai-share-of-voice
 - [Businesses in ChatGPT: How to Claim Your Business Profile](https://content.trackbase.ai/blog/businesses-in-chatgpt-claim-your-profile.md) · 2026-11-25 (updated 2026-11-25) · HTML: https://trackbase.ai/blog/businesses-in-chatgpt-claim-your-profile
 - [How Agencies Monitor AI Answer Rankings for Multiple Clients](https://content.trackbase.ai/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients.md) · 2026-11-25 (updated 2026-11-25) · HTML: https://trackbase.ai/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients
@@ -60,7 +62,6 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 - [7 GEO Metrics That Actually Matter (And How to Track Them)](https://content.trackbase.ai/blog/geo-metrics-that-matter.md) · 2026-08-04 (updated 2026-08-04) · HTML: https://trackbase.ai/blog/geo-metrics-that-matter
 - [AI Visibility vs SEO: The 5 Differences That Change How You Work](https://content.trackbase.ai/blog/ai-visibility-vs-seo.md) · 2026-08-01 (updated 2026-08-01) · HTML: https://trackbase.ai/blog/ai-visibility-vs-seo
 - [How AI Assistants Decide Which Brands to Recommend](https://content.trackbase.ai/blog/how-ai-assistants-decide-which-brands-to-recommend.md) · 2026-07-26 (updated 2026-07-26) · HTML: https://trackbase.ai/blog/how-ai-assistants-decide-which-brands-to-recommend
-- [How to Find and Fix What AI Gets Wrong About Your Brand](https://content.trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand.md) · 2026-07-23 (updated 2026-07-23) · HTML: https://trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand
 - [15 Best AI Visibility Tools in 2026 (Tested and Compared)](https://content.trackbase.ai/blog/best-ai-visibility-tools.md) · 2026-07-20 (updated 2026-07-20) · HTML: https://trackbase.ai/blog/best-ai-visibility-tools
 - [How to Track What ChatGPT Says About Your Company: A Complete 2026 Guide](https://content.trackbase.ai/blog/track-what-chatgpt-says-about-your-company.md) · 2026-07-17 (updated 2026-07-17) · HTML: https://trackbase.ai/blog/track-what-chatgpt-says-about-your-company
 - [9 Best Profound Alternatives for AI Visibility Tracking (2026)](https://content.trackbase.ai/blog/best-profound-alternatives.md) · 2026-07-14 (updated 2026-07-14) · HTML: https://trackbase.ai/blog/best-profound-alternatives
@@ -68,6 +69,8 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 
 ## Artikelen (Nederlands)
 
+- [Wat AI fout doet over je merk: ontdekken en herstellen](https://content.trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand.md) · 2026-07-23 (bijgewerkt 2026-11-27) · HTML: https://trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand
+- [AI-antwoorden over je merk op juistheid monitoren](https://content.trackbase.ai/nl/blog/how-to-monitor-ai-answer-accuracy-about-your-brand.md) · 2026-11-27 (bijgewerkt 2026-11-27) · HTML: https://trackbase.ai/nl/blog/how-to-monitor-ai-answer-accuracy-about-your-brand
 - [Zo bereken je je AI share of voice (met formule)](https://content.trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice.md) · 2026-07-29 (bijgewerkt 2026-11-25) · HTML: https://trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice
 - [Businesses in ChatGPT: zo claim je je bedrijfsprofiel](https://content.trackbase.ai/nl/blog/businesses-in-chatgpt-claim-your-profile.md) · 2026-11-25 (bijgewerkt 2026-11-25) · HTML: https://trackbase.ai/nl/blog/businesses-in-chatgpt-claim-your-profile
 - [Zo monitoren bureaus AI-antwoorden voor meerdere klanten](https://content.trackbase.ai/nl/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients.md) · 2026-11-25 (bijgewerkt 2026-11-25) · HTML: https://trackbase.ai/nl/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients
@@ -120,7 +123,6 @@ Plain-markdown mirrors of every article published on https://trackbase.ai/blog, 
 - [7 GEO-metrics die er wél toe doen (en hoe je ze meet)](https://content.trackbase.ai/nl/blog/geo-metrics-that-matter.md) · 2026-08-04 (bijgewerkt 2026-08-04) · HTML: https://trackbase.ai/nl/blog/geo-metrics-that-matter
 - [AI visibility vs SEO: de 5 verschillen die je aanpak veranderen](https://content.trackbase.ai/nl/blog/ai-visibility-vs-seo.md) · 2026-08-01 (bijgewerkt 2026-08-01) · HTML: https://trackbase.ai/nl/blog/ai-visibility-vs-seo
 - [Hoe AI-assistants beslissen welke merken ze aanbevelen](https://content.trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend.md) · 2026-07-26 (bijgewerkt 2026-07-26) · HTML: https://trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend
-- [Wat AI fout doet over je merk: ontdekken en herstellen](https://content.trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand.md) · 2026-07-23 (bijgewerkt 2026-07-23) · HTML: https://trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand
 - [De 15 beste AI-visibility-tools in 2026 (getest en vergeleken)](https://content.trackbase.ai/nl/blog/best-ai-visibility-tools.md) · 2026-07-20 (bijgewerkt 2026-07-20) · HTML: https://trackbase.ai/nl/blog/best-ai-visibility-tools
 - [Zo volg je wat ChatGPT over jouw bedrijf zegt: de complete gids voor 2026](https://content.trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company.md) · 2026-07-17 (bijgewerkt 2026-07-17) · HTML: https://trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company
 - [De 9 beste alternatieven voor Profound om je AI visibility tracking te meten (2026)](https://content.trackbase.ai/nl/blog/best-profound-alternatives.md) · 2026-07-14 (bijgewerkt 2026-07-14) · HTML: https://trackbase.ai/nl/blog/best-profound-alternatives

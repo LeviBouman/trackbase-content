@@ -4,6 +4,8 @@
 
 ## Articles
 
+- [How to Find and Fix What AI Gets Wrong About Your Brand](https://content.trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand.md): AI models spread outdated facts, fabrications and entity confusion about brands. A source-first process to find the errors, fix them and verify the improvement.
+- [How to Monitor AI Answer Accuracy About Your Brand](https://content.trackbase.ai/blog/how-to-monitor-ai-answer-accuracy-about-your-brand.md): Frequency is not accuracy. Build a fact sheet, score AI answers for errors, trace them to their sources and track your accuracy rate over time.
 - [How to Measure AI Share of Voice (With the Formula)](https://content.trackbase.ai/blog/how-to-measure-ai-share-of-voice.md): AI Share of Voice tells you who is winning the market conversation inside ChatGPT and Gemini. The formula, the benchmarks and the four moves that improve it.
 - [Businesses in ChatGPT: How to Claim Your Business Profile](https://content.trackbase.ai/blog/businesses-in-chatgpt-claim-your-profile.md): Businesses in ChatGPT lets you claim a business profile inside ChatGPT. Learn how claiming works, what Insights misses and a first-week plan.
 - [How Agencies Monitor AI Answer Rankings for Multiple Clients](https://content.trackbase.ai/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients.md): What agencies need to track AI answer rankings for many clients: workspaces, daily prompt runs, stored responses and white-label reports, with a 30-minute setup.
@@ -56,7 +58,6 @@
 - [7 GEO Metrics That Actually Matter (And How to Track Them)](https://content.trackbase.ai/blog/geo-metrics-that-matter.md): Presence rate, Share of Voice, citations, sentiment, AI referrals and crawler activity: the seven numbers that cover Generative Engine Optimization on one page.
 - [AI Visibility vs SEO: The 5 Differences That Change How You Work](https://content.trackbase.ai/blog/ai-visibility-vs-seo.md): SEO ranks pages, AI models recommend brands. The five structural differences, the metric mapping between the two, and why you still need both.
 - [How AI Assistants Decide Which Brands to Recommend](https://content.trackbase.ai/blog/how-ai-assistants-decide-which-brands-to-recommend.md): Training data, live retrieval, authority and consensus: the four forces behind every AI brand recommendation, and which lever to pull for each.
-- [How to Find and Fix What AI Gets Wrong About Your Brand](https://content.trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand.md): AI models spread outdated facts, fabrications and entity confusion about brands. A source-first process to find the errors, fix them and verify the improvement.
 - [15 Best AI Visibility Tools in 2026 (Tested and Compared)](https://content.trackbase.ai/blog/best-ai-visibility-tools.md): We compared 15 tools that track brand visibility in ChatGPT, Gemini and Perplexity. Pricing, model coverage and honest watch outs, including for our own platform.
 - [How to Track What ChatGPT Says About Your Company: A Complete 2026 Guide](https://content.trackbase.ai/blog/track-what-chatgpt-says-about-your-company.md): A six-step method to track your brand across ChatGPT and 10 other AI models: build a prompt library, score your visibility, and turn the results into action.
 - [9 Best Profound Alternatives for AI Visibility Tracking (2026)](https://content.trackbase.ai/blog/best-profound-alternatives.md): Profound is built for enterprise budgets. These 9 alternatives track your brand in ChatGPT, Gemini and Perplexity from 29 to 300 euros per month. Compared honestly.
@@ -64,6 +65,8 @@
 
 ## Artikelen (nl-NL)
 
+- [Wat AI fout doet over je merk: ontdekken en herstellen](https://content.trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand.md)
+- [AI-antwoorden over je merk op juistheid monitoren](https://content.trackbase.ai/nl/blog/how-to-monitor-ai-answer-accuracy-about-your-brand.md)
 - [Zo bereken je je AI share of voice (met formule)](https://content.trackbase.ai/nl/blog/how-to-measure-ai-share-of-voice.md)
 - [Businesses in ChatGPT: zo claim je je bedrijfsprofiel](https://content.trackbase.ai/nl/blog/businesses-in-chatgpt-claim-your-profile.md)
 - [Zo monitoren bureaus AI-antwoorden voor meerdere klanten](https://content.trackbase.ai/nl/blog/how-agencies-monitor-ai-answer-rankings-for-multiple-clients.md)
@@ -116,7 +119,6 @@
 - [7 GEO-metrics die er wél toe doen (en hoe je ze meet)](https://content.trackbase.ai/nl/blog/geo-metrics-that-matter.md)
 - [AI visibility vs SEO: de 5 verschillen die je aanpak veranderen](https://content.trackbase.ai/nl/blog/ai-visibility-vs-seo.md)
 - [Hoe AI-assistants beslissen welke merken ze aanbevelen](https://content.trackbase.ai/nl/blog/how-ai-assistants-decide-which-brands-to-recommend.md)
-- [Wat AI fout doet over je merk: ontdekken en herstellen](https://content.trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand.md)
 - [De 15 beste AI-visibility-tools in 2026 (getest en vergeleken)](https://content.trackbase.ai/nl/blog/best-ai-visibility-tools.md)
 - [Zo volg je wat ChatGPT over jouw bedrijf zegt: de complete gids voor 2026](https://content.trackbase.ai/nl/blog/track-what-chatgpt-says-about-your-company.md)
 - [De 9 beste alternatieven voor Profound om je AI visibility tracking te meten (2026)](https://content.trackbase.ai/nl/blog/best-profound-alternatives.md)

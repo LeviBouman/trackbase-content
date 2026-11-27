@@ -8,14 +8,14 @@ alternate_language: nl-NL
 alternate: https://trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand
 alternate_markdown: https://content.trackbase.ai/nl/blog/fix-what-ai-gets-wrong-about-your-brand.md
 date_published: 2026-07-23
-date_modified: 2026-07-23
+date_modified: 2026-11-27
 author: "Levi Bouman"
 author_url: https://trackbase.ai/blog/author/levi-bouman
 publisher: Trackbase
 publisher_url: https://trackbase.ai
 category: "AI Visibility"
 image: https://framerusercontent.com/images/aPOiWocCPICI0OkLi8iYTcya7Gc.png
-word_count: 874
+word_count: 956
 reading_time_minutes: 4
 ---
 
@@ -23,9 +23,7 @@ reading_time_minutes: 4
 
 > AI models spread outdated facts, fabrications and entity confusion about brands. A source-first process to find the errors, fix them and verify the improvement.
 
-*By Levi Bouman · Published 2026-07-23 · Updated 2026-07-23 · Original article: https://trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand*
-
-An AI model told a prospect that you do not offer the exact service you specialize in. Another one recommended a competitor and described your pricing wrong. If you have seen this happen, you know the strange powerlessness of it: there is no support line for ChatGPT answers. There is, however, a repeatable process, and this article walks through it.
+*By Levi Bouman · Published 2026-07-23 · Updated 2026-11-27 · Original article: https://trackbase.ai/blog/fix-what-ai-gets-wrong-about-your-brand*
 
 ## How can I tell what AI is saying about my brand?
 
@@ -72,6 +70,12 @@ Weeks to months, and it varies sharply per model. Retrieval-based answers (Perpl
 ## How do I know if the answers are improving?
 
 Track the same prompts daily and watch three numbers: the share of responses containing the wrong claim, your [sentiment](https://trackbase.ai/blog/being-mentioned-by-ai-isnt-enough-why-sentiment-decides-who-wins) score, and your presence rate. In our own tracking data, sentiment classification across 535 recent citations for one brand split into 314 positive, 121 neutral and 100 negative. That negative fifth is where the correction work lives, and watching it shrink week over week is how you know the process works.
+
+## How big is the accuracy problem, and how do I track it over time?
+
+Larger than most teams assume. When Ahrefs [fact-checked AI answers about its own brand](https://ahrefs.com/aeo/ai-answer-accuracy), 41 of 217 answers (19%) contained at least one false claim, and the error rate reached 36% in some tests. That is one company's test, not a market average, but it shows that a single audit goes stale quickly.
+
+Turn the audit into a metric. Keep a short source-of-truth list of facts, run the same prompts on a schedule, and report the share of answers with zero false claims next to your Visibility Score. Semrush makes the same distinction: frequency measures how often you appear, accuracy measures whether the answers are right. The full method, with scoring and a weekly cadence, is in [how to monitor AI answer accuracy about your brand](https://trackbase.ai/blog/how-to-monitor-ai-answer-accuracy-about-your-brand).
 
 ## FAQ
 
